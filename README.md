@@ -17,9 +17,16 @@ The Click event is thrown when the user "clicks" on the object. A click can be r
 #### GotFocus
 The GotFocus event is thrown when the object receives the focus. The object can get focus by being clicked with the mouse, or by the user tabbing into the object.
 #### Initialize
-The initialize event is thrown when the object is initialized during the form load.
+The initialize event is thrown when the object is initialized during the form load. This event can be used to populate the object with data or otherwise prepare it for the user.
 #### KeyDown
-The KeyDown event is the first of the key events to fire and occurs when the key is pressed down. The KeyDown event passes in the KeyCode and the Shift state. The KeyCode represents the key that was pressed. The Shift parameter represents which of the three "shift" keys were also pressed. 
+The KeyDown event is the first of the key events to fire and occurs when the key is pressed down. The KeyDown event passes in the KeyCode and the Shift state. The KeyCode represents the key that was pressed. The Shift parameter represents which of the three "shift" keys were also pressed. The possible values of Shift are: 1 = Shift Key, 2 = CTRL key, and 4 = ALT key. Bitwise logic can be used to determine if more than one key was being pressed. The code below can be used to determine which shifting keys are pressed:
+        Dim bShift As Boolean
+        Dim bAlt As Boolean
+        Dim bCtrl As Boolean
+        
+        bShift = 1 And Shift
+        bAlt = 2 And Shift
+        bCtrl = 4 And Shift
 #### KeyPress
 The KeyPres event is similar to the KeyDown, but it happens after the KeyDown event. The event passes in the ASCII value of the key pressed via the KeyASCII property. Setting this property to 0 (zero) within the keypress event will nullify the keypress and, effectively, ignore it. 
 #### KeyUp
