@@ -34,7 +34,7 @@ The KeyDown event is the first of the key events to fire and occurs when the key
     End Sub
 ```
 #### KeyPress
-The KeyPres event is similar to the KeyDown, but it happens after the KeyDown event. The event passes in the ASCII value of the key pressed via the KeyASCII property. Setting this property to 0 (zero) within the keypress event will nullify the keypress and, effectively, ignore it. 
+The KeyPress event is similar to the KeyDown, but it happens after the KeyDown event. The event passes in the ASCII value of the key pressed via the KeyASCII property. Setting this property to 0 (zero) within the keypress event will nullify the keypress and, effectively, ignore it. 
 #### KeyUp
 The KeyUp event is the final key event to trigger and occurs when the user releases the key.
 #### LostFocus
