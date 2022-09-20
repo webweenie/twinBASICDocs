@@ -1,4 +1,4 @@
-# Event Click #
+# Click Event #
 ## Input Parameters ##
 None
 ## Return value ##
