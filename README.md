@@ -4,15 +4,15 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 
 ---
 ### Methods
-#### CreateBackbrush
-#### CreateDeferredDispatchWrapper
-#### CreateRootWindowElement
-#### GetFontMetrics
-#### Move
-#### Refresh
-#### ScheduleCallback
-#### SetFocus
-#### SubClassWindowElement
+> - CreateBackbrush
+> - CreateDeferredDispatchWrapper
+> - CreateRootWindowElement
+> - GetFontMetrics
+> - Move
+> - Refresh
+> - ScheduleCallback
+> - SetFocus
+> - SubClassWindowElement
 
 ---
 ### Events
