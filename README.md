@@ -45,9 +45,9 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 > - **KeyASCII**: Integer - the ASCII value of the key pressed.
 > The KeyPress event is similar to the KeyDown, but it happens after the KeyDown event. The event passes in the ASCII value of the key pressed via the KeyASCII property. Setting this property to 0 (zero) within the keypress event will nullify the keypress and, effectively, ignore it. 
 #### KeyUp
-**Parameters:** 
-- **KeyCode**: Integer - the ASCII value of the key pressed.
-- **Shift**: Integer - the bitwise value representing all of the shifting keys pressed.
+> **Parameters:** 
+> - **KeyCode**: Integer - the ASCII value of the key pressed.
+> - **Shift**: Integer - the bitwise value representing all of the shifting keys pressed.
 > The KeyUp event is the final key event to trigger and occurs when the user releases the key.
 #### LostFocus
 > The LostFocus event fires when the object loses focus. This can happen when the user clicks on another object with the mouse, or presses the tab key and moves the focus to the next object.
