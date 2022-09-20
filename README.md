@@ -1,6 +1,7 @@
 # twinBASICDocs
 ## CommandButton Control
 Command Buttons can be used to begin, interrupt, or end a process. To change the text that appears on the button, set the Caption property. Clicking on a button will raise the OnClick event.
+
 ---
 ### Methods
 #### CreateBackbrush
@@ -12,6 +13,7 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 #### ScheduleCallback
 #### SetFocus
 #### SubClassWindowElement
+
 ---
 ### Events
 #### Click
@@ -47,6 +49,7 @@ The MouseDown event fires when the mouse button is pressed while over the object
 The MouseMove event fires when the mouse is moved over the object.
 #### MouseUp
 The MouseUp event fires when the mouse button is released and the mouse is over the object.
+
 ---
 ### Properties
 #### Name
