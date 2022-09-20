@@ -19,14 +19,10 @@ The GotFocus event is thrown when the object receives the focus. The object can 
 #### Initialize
 The initialize event is thrown when the object is initialized during the form load. This event can be used to populate the object with data or otherwise prepare it for the user.
 #### KeyDown
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
 The KeyDown event is the first of the key events to fire and occurs when the key is pressed down. The KeyDown event passes in the KeyCode and the Shift state. The KeyCode represents the key that was pressed. The Shift parameter represents which of the three "shift" keys were also pressed. The possible values of Shift are: 1 = Shift Key, 2 = CTRL key, and 4 = ALT key. Bitwise logic can be used to determine if more than one key was being pressed. The code below can be used to determine which shifting keys are pressed:
 ```
     Private Sub Object1_KeyDown(KeyCode As Integer, Shift As Integer) Handles Object1.KeyDown
-        <span style="color:blue">Dim</span> bShift As Boolean
+        Dim bShift As Boolean
         Dim bAlt As Boolean
         Dim bCtrl As Boolean
         
@@ -34,7 +30,7 @@ The KeyDown event is the first of the key events to fire and occurs when the key
         bAlt = 2 And Shift
         bCtrl = 4 And Shift
         
-        <span style="color:green">'Add logic here that uses the boolean values to suit your needs.</span>
+        'Add logic here that uses the boolean values to suit your needs.
     End Sub
 ```
 #### KeyPress
