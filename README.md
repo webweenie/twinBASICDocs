@@ -14,7 +14,6 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 > - SetFocus
 > - SubClassWindowElement
 
----
 ### Events
 > - [Click](event_click.md)
 > - [GotFocus](event_gotfocus.md)
