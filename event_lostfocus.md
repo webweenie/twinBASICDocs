@@ -1,4 +1,4 @@
-# Lost Focus Event #
+# LostFocus Event #
 ## Input Parameters ##
 None
 ## Return value ##
