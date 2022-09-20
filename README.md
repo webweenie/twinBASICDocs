@@ -16,8 +16,9 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 
 ---
 ### Events
-[Click](event_click.md)
-[GotFocus](event_gotfocus.md)
+> [Click](event_click.md)
+> [GotFocus](event_gotfocus.md)
+---
 #### Initialize
 > The initialize event is thrown when the object is initialized during the form load. This event can be used to populate the object with data or otherwise prepare it for the user.
 #### KeyDown
