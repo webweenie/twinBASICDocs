@@ -16,10 +16,8 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 
 ---
 ### Events
-#### Click
-> The Click event is thrown when the user "clicks" on the object. A click can be registered by clicking with the mouse button, or by selecting the object and pressing the enter key.
-#### GotFocus
-> The GotFocus event is thrown when the object receives the focus. The object can get focus by being clicked with the mouse, or by the user tabbing into the object.
+[Click](event_click.md)
+[GotFocus](event_gotfocus.md)
 #### Initialize
 > The initialize event is thrown when the object is initialized during the form load. This event can be used to populate the object with data or otherwise prepare it for the user.
 #### KeyDown
