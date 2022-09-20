@@ -1,4 +1,4 @@
-# Click Event #
+# KeyPress Event #
 ## Input Parameters ##
 - **KeyASCII**: Integer - the ASCII value of the key pressed.
 ## Return value ##
