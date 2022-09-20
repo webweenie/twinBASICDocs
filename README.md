@@ -21,31 +21,12 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 > - [Initialize](event_initialize.md)
 > - [KeyDown](event_keydown.md)
 > - [KeyPress](event_keypress.md)
+> - [KeyUp](event_keyup.md)
+> - [LostFocus](event_lostfocus)
+> - [MouseDown](event_mousedown)
+> - [MouseMove](event_mousemove)
 ---
-#### KeyUp
-> **Parameters:** 
-> - **KeyCode**: Integer - the ASCII value of the key pressed.
-> - **Shift**: Integer - the bitwise value representing all of the shifting keys pressed.
-> 
-> The KeyUp event is the final key event to trigger and occurs when the user releases the key.
-#### LostFocus
-> The LostFocus event fires when the object loses focus. This can happen when the user clicks on another object with the mouse, or presses the tab key and moves the focus to the next object.
-#### MouseDown
-> **Parameters:** 
-> - **Button**: Integer - the ASCII value of the key pressed.
-> - **Shift**: Integer - the bitwise value representing all of the shifting keys pressed.
-> - **X**: Integer - the number of pixels the mouse is from the left edge of the object's container
-> - **Y**: Integer - the number of pixels the mouse is from the top edge of the object's container
-> 
-> The MouseDown event fires when the mouse button is pressed while over the object.
-#### MouseMove
-> **Parameters:** 
-> - **Button**: Integer - the ASCII value of the key pressed.
-> - **Shift**: Integer - the bitwise value representing all of the shifting keys pressed.
-> - **X**: Integer - the number of pixels the mouse is from the left edge of the object's container.
-> - **Y**: Integer - the number of pixels the mouse is from the top edge of the object's container.
-> 
-> The MouseMove event fires when the mouse is moved over the object. The MouseMove event has several parameters that provide useful information to the event. The Button parameter is an integer value that represents which button was pressed. The possible values are 1 = Left button, 2 = Right button, and 4 = Center button. See the KeyDown event for information on using bitwise boolean logic to determine which buttons were pressed. The Shift parameter works the same way for the MouseMove as it does for the KeyPress. Again, see the KeyPress event for help determining which shifting keys are being pressed. The X and Y parameters provide the location of the mouse as it moves.
+
 #### MouseUp
 > **Parameters:** 
 > - **Button**: Integer - the ASCII value of the key pressed.
