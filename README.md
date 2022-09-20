@@ -16,11 +16,9 @@ Command Buttons can be used to begin, interrupt, or end a process. To change the
 
 ---
 ### Events
-> [Click](event_click.md)
-> 
-> [GotFocus](event_gotfocus.md)
-> 
-> [Initialize](event_initialize.md)
+> - [Click](event_click.md)
+> - [GotFocus](event_gotfocus.md)
+> - [Initialize](event_initialize.md)
 
 
 ---
