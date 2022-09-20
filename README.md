@@ -82,48 +82,71 @@ The MouseUp event fires when the mouse button is released and the mouse is over 
 ---
 ### Properties
 #### Name
+**Data Type**: String
 Every object must have a unique name. The name is used to reference the object in code.
 #### Anchors
-Boolean property. There are four anchor properties, Left, Top, Right, and Bottom. Anchors the object to one or more of the container boundaries. For example, anchoring an object to the bottom and right will cause the object to remain the same distance from the bottom and right of the container as the container is resized.
+**Data Type**: Boolean
+There are four anchor properties, Left, Top, Right, and Bottom. Anchors the object to one or more of the container boundaries. For example, anchoring an object to the bottom and right will cause the object to remain the same distance from the bottom and right of the container as the container is resized.
 #### Appearance
+**Data Type**: Appearance Integer Constant
 Gets and sets the appearance of the object. There are two possible values, vbAppear3d and vbAppearFlat.
 #### Backcolor
-Long number property. Gets and sets the backcolor property which represents the color of the object's background. The background color can be set in the form property window or at runtime by using the RGB function. For example: object.backgroundcolor = rgb(255,0,0) will set the background color to red.
+**Data Type**: Long
+Gets and sets the backcolor property which represents the color of the object's background. The background color can be set in the form property window or at runtime by using the RGB function. For example: object.backgroundcolor = rgb(255,0,0) will set the background color to red.
 #### Caption
-String property. Gets and sets the caption text. The caption is the text that is displayed on the control
+**Data Type**: String
+Gets and sets the caption text. The caption is the text that is displayed on the control
 #### Dock
+**Data Type**: Data Type Integer Constant
 Gets and sets Dock property. The object can be undocked, docked against any one container edge, or set to fill the entire container. There are six potential values for the Dock property: VBDockNone, VBDockLeft, VBDockTop, VBDockRight, VBDockBottom, and VBDockFill.
 #### Enabled
-Boolean property. Gets and sets the Enabled property. The Enabled property enables or disables the object. Disabling the object keeps the object visible but disables it and usually turns it grey.
+**Data Type**: Boolean
+Gets and sets the Enabled property. The Enabled property enables or disables the object. Disabling the object keeps the object visible but disables it and usually turns it grey.
 #### FontBold
-Boolean property. Gets and sets the font of the Caption to bold.
+**Data Type**: Boolean
+Gets and sets the font of the Caption to bold.
 #### FontItalic
+**Data Type**: Boolean
 Boolean property. Gets and sets the font of the Caption to italic.
 #### FontName
+**Data Type**: String
 String property. Gets and sets the font of the Caption text.
 #### FontSize
+**Data Type**: Single
 Single number property. Gets and sets the font size of the Caption text.
 #### FontStrikethrough
-Boolean property. Gets and sets the strikethrough of the Caption text.
+**Data Type**: Boolean
+Gets and sets the strikethrough of the Caption text.
 #### FontUnderline
-Boolean property. Gets and sets the underline of the Caption text.
+**Data Type**: Boolean
+Gets and sets the underline of the Caption text.
 #### Height
-Double number property. Gets and sets the height, in pixels, of the object.
+**Data Type**: Double
+Gets and sets the height, in pixels, of the object.
 #### Left
+**Data Type**: Double
 Double number property. Gets and sets the left position of the object, relative to the container.
 #### MousePointer
+**Data Type**: Mouse Pointer Integer Constant
 MousePointerConstant property. Gets and sets the look of the mouse pointer when the mouse is over the object. Available values include: vbArrow, vbArrowHourglass, vbArrowQuestion, vbCrosshair, vbDefault, vbHand, vbHourglass, vbIbeam, vbIconPointer, vbNoDrop, and vbPerson. 
 #### TabIndex
-Long number property. Gets or sets the order in which each object receives focus when the tab key is pressed. 
+**Data Type**: Long
+Gets or sets the order in which each object receives focus when the tab key is pressed. 
 #### TabStop
-Boolean property. Gets or sets the TabStop property, which causes the focus to stop on the control when the tab button is pressed and the object's TabIndex is the next in line. Setting this property to False will cause the object to be skipped when the tab key is pressed to move to the next object.
+**Data Type**: Boolean
+Gets or sets the TabStop property, which causes the focus to stop on the control when the tab button is pressed and the object's TabIndex is the next in line. Setting this property to False will cause the object to be skipped when the tab key is pressed to move to the next object.
 #### Tag
-String property. Gets or sets the tag property. The tag property can be used to store program specific data. It is not used by twinBASIC and is not visible to the end user.
+**Data Type**: String
+Gets or sets the tag property. The tag property can be used to store program specific data. It is not used by twinBASIC and is not visible to the end user.
 #### Top
-Double property. Gets or sets the number of pixels from the top of the container the object should appear.
+**Data Type**: Double
+Gets or sets the number of pixels from the top of the container the object should appear.
 #### Visible
-Boolean property. Gets or sets the visible property. Setting the property to True will make the object appear on the screen. Setting it to false will force it to not be shown.
+**Data Type**: Boolean
+Gets or sets the visible property. Setting the property to True will make the object appear on the screen. Setting it to false will force it to not be shown.
 #### VisualStyles
-Boolean property.
+**Data Type**: Double
+
 #### Width
-Double number property. Gets or sets the width of the object in pixels.
+**Data Type**: Double
+Gets or sets the width of the object in pixels.
