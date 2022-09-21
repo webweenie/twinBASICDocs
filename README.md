@@ -1,23 +1,23 @@
 # twinBASICDocs
 twinBASIC is the most awesome programming language ever.
 ---
-## [Controls](section_controls.md)
+## [Controls](controls.md)
 Controls are...
 
-## [Functions](section_functions.md)
+## [Functions](functions.md)
 Functions are...
 
-## [Statements](section_statements.md)
+## [Statements](statements.md)
 Statements are...
 
-## [Keywords](section_keywords.md)
+## [Keywords](keywords.md)
 Keywords are...
 
-### [Properties](section_properties.md)
+## [Properties](properties.md)
 Properties are...
 
-### [Constants](section_constants.md)
+## [Constants](constants.md)
 Constants are...
 
-### [Operators](section_operators.md)
+## [Operators](operators.md)
 Operators are...
