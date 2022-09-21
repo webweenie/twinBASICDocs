@@ -1,4 +1,4 @@
-# Name Property #
+# Appearance Property #
 ## Data Type ##
 [AppearanceConstants](constants_enumerations.md)
 ## Description ##
