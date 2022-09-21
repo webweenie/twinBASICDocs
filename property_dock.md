@@ -1,4 +1,4 @@
-# Name Property #
+# Dock Property #
 ## Data Type ##
 [DockModeConstants](constants_enumerations.md#DockModeConstants)
 ## Description ##
