@@ -1,7 +1,7 @@
 # twinBASICDocs
 ## Enumeration Constants
 ### AppearanceConstants
-### DockModeConstants
+### <a id="dockmodeconstants"></a>DockModeConstants
 - VBDockNone
 - VBDockLeft
 - VBDockTop
