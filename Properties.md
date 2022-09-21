@@ -1,4 +1,4 @@
-# <a id="anchors"> Anchors Property </a> #
+# <a id="anchors"></a>Anchors Property #
 ## Data Type ##
 String
 ## Description ##
@@ -8,7 +8,7 @@ There are four anchor properties, Left, Top, Right, and Bottom. Anchors the obje
 
 ---
 
-# <a id="appearance"> Appearance Property </a> #
+# <a id="appearance"></a>Appearance Property #
 ## Data Type ##
 [AppearanceConstants](constants_enumerations.md)
 ## Description ##
@@ -16,7 +16,7 @@ Gets and sets the appearance of the object. There are two possible values, vbApp
 
 ---
 
-# <a id="backcolor"> Backcolor Property </a> #
+# <a id="backcolor"></a>Backcolor Property #
 ## Data Type ##
 Long
 ## Description ##
@@ -24,7 +24,7 @@ Gets and sets the backcolor property which represents the color of the object's 
 
 ---
 
-# <a id="caption"> Caption Property </a> #
+# <a id="caption"></a>Caption Property #
 ## Data Type ##
 String
 ## Description ##
@@ -32,7 +32,7 @@ Gets and sets the caption text. The caption is the text that is displayed on the
 
 ---
 
-# <a id="dock"> Dock Property </a> #
+# <a id="dock"></a>Dock Property #
 ## Data Type ##
 [DockModeConstants](constants_enumerations.md#DockModeConstants)
 ## Description ##
@@ -40,7 +40,7 @@ Gets and sets Dock property. The object can be undocked, docked against any one 
 
 ---
 
-# <a id="enabled"> Enabled Property </a> #
+# <a id="enabled"></a>Enabled Property #
 ## Data Type ##
 Boolean
 ## Description ##
@@ -48,7 +48,7 @@ Gets and sets the Enabled property. The Enabled property enables or disables the
 
 ---
 
-# <a id="fontbold"> FontBold Property </a> #
+# <a id="fontbold"></a>FontBold Property #
 ## Data Type ##
 Boolean
 ## Description ##
@@ -56,7 +56,7 @@ Gets and sets the font of the object to bold.
 
 ---
 
-# <a id="fontitalic"> FontItalic Property </a> #
+# <a id="fontitalic"></a>FontItalic Property #
 ## Data Type ##
 Boolean
 ## Description ##
@@ -64,7 +64,7 @@ Gets and sets the font of the object to italic.
 
 ---
 
-# <a id="fontname"> FontName Property </a> #
+# <a id="fontname"></a>FontName Property #
 ## Data Type ##
 String
 ## Description ##
@@ -72,7 +72,7 @@ Gets and sets the font of the object text.
 
 ---
 
-# <a id="fontsize"> FontSize Property </a> #
+# <a id="fontsize"></a>FontSize Property #
 ## Data Type ##
 Single
 ## Description ##
@@ -80,7 +80,7 @@ Gets and sets the font size of the Caption text.
 
 ---
 
-# <a id="fontstrikethrough"> FontStrikethrough Property </a> #
+# <a id="fontstrikethrough"></a>FontStrikethrough Property #
 ## Data Type ##
 Boolean
 ## Description ##
@@ -88,7 +88,7 @@ Gets and sets the strikethrough of the object text.
 
 ---
 
-# <a id="fontunderline"> FontUnderline Property </a> #
+# <a id="fontunderline"></a>FontUnderline Property #
 ## Data Type ##
 Boolean
 ## Description ##
@@ -96,7 +96,7 @@ Gets and sets the underline of the object text.
 
 ---
 
-# <a id="height"> Height Property </a> #
+# <a id="height"></a>Height Property #
 ## Data Type ##
 Double
 ## Description ##
@@ -104,7 +104,7 @@ Gets and sets the height, in pixels, of the object.
 
 ---
 
-# <a id="left"> Left Property </a> #
+# <a id="left"></a>Left Property #
 ## Data Type ##
 Double
 ## Description ##
@@ -112,7 +112,7 @@ Gets and sets the left position of the object, relative to the container.
 
 ---
 
-# <a id="mousepointer"> MousePointer Property </a> #
+# <a id="mousepointer"></a>MousePointer Property #
 ## Data Type ##
 [MousePointerConstants](constants_enumerations.md#MousePointerConstants)
 ## Description ##
@@ -120,14 +120,14 @@ MousePointerConstant property. Gets and sets the look of the mouse pointer when 
 
 ---
 
-# <a id="name"> Name Property </a> #
+# <a id="name"></a>Name Property #
 ## Data Type ##
 String
 ## Description ##
 
 ---
 
-# <a id="tabindex"> TabIndex Property </a> #
+# <a id="tabindex"></a>TabIndex Property #
 ## Data Type ##
 Long
 ## Description ##
@@ -135,7 +135,7 @@ Gets or sets the order in which each object receives focus when the tab key is p
 
 ---
 
-# <a id="tabstop"> TabStop Property </a> #
+# <a id="tabstop"></a>TabStop Property #
 ## Data Type ##
 Boolean
 ## Description ##
@@ -143,7 +143,7 @@ Gets or sets the TabStop property, which causes the focus to stop on the control
 
 ---
 
-# <a id="tag"> Tag Property </a> #
+# <a id="tag"></a>Tag Property #
 ## Data Type ##
 String
 ## Description ##
@@ -151,7 +151,7 @@ Gets or sets the tag property. The tag property can be used to store program spe
 
 ---
 
-# <a id="top"> Top Property </a> #
+# <a id="top"></a>Top Property #
 ## Data Type ##
 Double
 ## Description ##
@@ -159,7 +159,7 @@ Gets or sets the number of pixels from the top of the container the object shoul
 
 ---
 
-# <a id="visible"> Visible Property </a> #
+# <a id="visible"></a>Visible Property #
 ## Data Type ##
 Boolean
 ## Description ##
@@ -167,7 +167,7 @@ Gets or sets the visible property. Setting the property to True will make the ob
 
 ---
 
-# <a id="visualstyles"> VisualStyles Property </a> #
+# <a id="visualstyles"></a>VisualStyles Property #
 ## Data Type ##
 Double
 ## Description ##
@@ -177,7 +177,7 @@ __We probably need an image example on that one.__
 
 ---
 
-# <a id="width"> Width Property </a> #
+# <a id="width"></a>Width Property #
 ## Data Type ##
 Double
 ## Description ##
