@@ -1,4 +1,4 @@
-<a id="anchors"> # Anchors Property # </a>
+# <a id="anchors"> Anchors Property </a> #
 ## Data Type ##
 String
 ## Description ##
