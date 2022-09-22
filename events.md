@@ -5,7 +5,7 @@ Events are...
 > ### Input Parameters ###
 > None
 >
-> The Click event...
+> The Click event is raised when the object is clicked with the mouse or, in some instances, when the object has focus and the Enter key is pressed.
 >
 
 ## GotFocus ##
@@ -87,5 +87,5 @@ Events are...
 > - **X**: Integer - the number of pixels the mouse is from the left edge of the object's container
 > - **Y**: Integer - the number of pixels the mouse is from the top edge of the object's container
 >
-> The MouseUp event fires when the mouse button is released and the mouse is over the object.
+> The MouseUp event is raised when the mouse button is released and the mouse is over the object.
 >
