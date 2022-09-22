@@ -14,23 +14,23 @@ twinBASIC is the most awesome programming language ever.
 
 ## <a id="createdeferreddispatchwrapper"></a>CreateDeferredDispatchWrapper ##
 > ### Inputs ###
-> -Object - Object
+> - Object - Object
 > ### Outputs ###
-> -Object
+> - Object
 > 
 > The CreateDeferredDispatchWrapper method...
 > 
 
 ## <a id="createrootwindowelement"></a>CreateRootWindowElement ##
 > ### Inputs ###
-> -_ControlContext
-> -ClassName
-> -Caption
-> -WindowStyles
-> -ExtendedStyles
-> -SubClass
+> - _ControlContext
+> - ClassName
+> - Caption
+> - WindowStyles
+> - ExtendedStyles
+> - SubClass
 > ### Outputs ###
-> -WindowElement
+> - WindowElement
 > 
 > The CreateRootWindowElement method...
 > 
@@ -39,17 +39,17 @@ twinBASIC is the most awesome programming language ever.
 > ### Inputs ###
 > None
 > ### Outputs ###
-> -TextMetric
+> - TextMetric
 > 
 > The GetFontMetrics method...
 > 
 
 ## <a id="move"></a>Move ##
 > ### Inputs ###
-> -Left - Single
-> -Top - Variant
-> -Width - Variant 
-> -height - Variant
+> - Left - Single
+> - Top - Variant
+> - Width - Variant 
+> - height - Variant
 > ### Outputs ###
 > None
 > 
@@ -74,7 +74,7 @@ twinBASIC is the most awesome programming language ever.
 
 ## <a id="setfocus"></a>SetFocus ##
 > ### Inputs ###
-> -
+> - 
 > ### Outputs ###
 > None
 > 
@@ -82,7 +82,7 @@ twinBASIC is the most awesome programming language ever.
 
 ## <a id="subclasswindowelement"></a>SubClassWindowElement ##
 > ### Inputs ###
-> -
+> - 
 > ### Outputs ###
 > None
 > 
@@ -90,7 +90,7 @@ twinBASIC is the most awesome programming language ever.
 
 The SubClassWindowElement method...
 > ### Inputs ###
-> -
+> - 
 > ### Outputs ###
 > None
 > 
