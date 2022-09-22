@@ -5,9 +5,9 @@ twinBASIC is the most awesome programming language ever.
 
 ## <a id="createbackbrush"></a>CreateBackbrush ##
 > ### Inputs ###
-> -Color - Long
+> - Color - Long
 > ### Outputs ###
-> -Long
+> - Long
 > 
 > The CreateBackbrush method...
 > 
