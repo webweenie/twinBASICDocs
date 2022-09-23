@@ -1,8 +1,6 @@
 # twinBASICDocs - Data Types #
 Data types help make programming easier. For example, when a variable is declared as a numeric data type, it is safe to perform any of the various mathematical operations on it. If there were no data types, it would be necessary to verify the variable(s) were numeric prior to performing a mathematical operation.
 
----
-
 > ## <a id="boolean"></a>Boolean ##
 > A Boolean data type can be equal to True or False. 
 >
