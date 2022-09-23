@@ -202,12 +202,12 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbKeyNumpad7 - 0x67 (7 key)
 > - vbKeyNumpad8 - 0x68 (8 key)
 > - vbKeyNumpad9 - 0x69 (9 key)
-> - vbKeyMultiply - 0x6A (MULTIPLICATION SIGN (*) key)
-> - vbKeyAdd - 0x6B (PLUS SIGN (+) key)
+> - vbKeyMultiply - 0x6A (Multiplication (*) key)
+> - vbKeyAdd - 0x6B (Plus (+) key)
 > - vbKeySeparator - 0x6C (ENTER key)
-> - vbKeySubtract - 0x6D (MINUS SIGN (–) key)
-> - vbKeyDecimal - 0x6E (DECIMAL POINT (.) key)
-> - vbKeyDivide - 0x6F (DIVISION SIGN (/) key)
+> - vbKeySubtract - 0x6D (Minus (–) key)
+> - vbKeyDecimal - 0x6E (Decimal Point (.) key)
+> - vbKeyDivide - 0x6F (Division (/) key)
 >
 
 ## <a id="msgbox"></a>MsgBox Constants ##
