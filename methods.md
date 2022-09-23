@@ -23,12 +23,12 @@ twinBASIC is the most awesome programming language ever.
 
 ## <a id="createrootwindowelement"></a>CreateRootWindowElement ##
 > ### Inputs ###
-> - _ControlContext - IUnknown
+> - _ControlContext - [IUnknown](types.md#iunknown)
 > - ClassName - [String](types.md#string)
 > - Caption - [String](types.md#string)
 > - WindowStyles - [Long](types.md#long)
 > - ExtendedStyles - [Long](types.md#long)
-> - SubClass - Boolean (Optional, False)
+> - SubClass - [Boolean](types.md#boolean) (Optional, False)
 > ### Outputs ###
 > - [WindowElement](types.md#windowelement)
 > 
