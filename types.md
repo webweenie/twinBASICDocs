@@ -53,7 +53,10 @@ Data types help make programming easier. For example, when a variable is declare
 
 > ## <a id="string"></a>String (fixed-length) ##
 > A Fixed-length String is a set of alphanumeric characters that ranges in size between 1 and 65,400 characters. However, unlike a variable-length string, fixed-length strings always take up the entire amount of memory allocated to them when they are created, regardless of the length of the data being stored. Attempting to put a longer string than was allocated will cause twinBASIC to raise an error. Fixed-length strings tend to use more memory and are more difficult to manage by the programmer. However, they can be faster than variable-length strings because the memory doesn't need to be re-allocated when the string length changes.
->
+> A fixed length string is allocated by using the * (star) operator, followed by the length, as shown in the example below.
+```vb
+Dim MyString as String * 50
+```
 
 > ## <a id="textmetric"></a>TextMetric ##
 > A TextMetric is...
