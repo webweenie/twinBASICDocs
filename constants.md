@@ -6,7 +6,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > 
 
 ## <a id="alignment"></a>Alignment Constants ##
-> ## Align Property ##
+> ### Align Property ###
 > - vbAlignBottom = 2 - Align control to bottom of form
 > - vbAlignLeft = 3 - Align control to left of form
 > - vbAlignNone = 0 - Size and location set at design time or in code
@@ -14,13 +14,13 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbAlignTop = 1 - Align control to top of form
 >
 
-> ## <a id="alignmentproperty"></a>Alignment Property Constants ##
+> ### <a id="alignmentproperty"></a>Alignment Property Constants ###
 > - vbLeftJustify = 0 - Left align data in the control
 > - vbRightJustify = 1 - Right align data in the control
 > - vbCenter = 2 - Center data in the control
 >
 
-> ## <a id="character"></a>Character Constants ###
+## <a id="character"></a>Character Constants ###
 > - vbBack - Chr(8) (Backspace character)
 > - vbCr - Chr(13) (Carriage return character)
 > - vbCrLf - Chr(13) + Chr(10) (Carriage return + linefeed combination)
@@ -33,7 +33,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 >
 
 
-> ## <a id="color"></a>Color Constants ##
+## <a id="color"></a>Color Constants ##
 > ### Colors ###
 > - vbBlack - rgb(0, 0, 0)
 > - vbRed - rgb(0, 0, 0)
@@ -72,7 +72,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbWindowText - 0x80000008 (Color of text in a window)
 >
 
-> ## <a id="date"></a>Date Constants ##
+## <a id="date"></a>Date Constants ##
 > ### Days of the week ###
 > - vbSunday = 1
 > - vbMonday = 2
@@ -93,7 +93,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbFirstFullWeek = 3	(Week 1 will be the first full week of the year.)
 >
 
-> ## <a id="dateformat"></a>Date Format Constants ##
+## <a id="dateformat"></a>Date Format Constants ##
 > - vbGeneralDate = 0 The display is determined by the system settings. If there is no fractional part only the date is displayed. If there is no integer part only the time is displayed
 > - vbLongDate = 1 (Display only the date using the long date format defined in the computer's regional settings.)
 > - vbShortDate = 2 (Display only the date using the short date format defined in the computer's regional settings.)
@@ -101,7 +101,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbShortTime = 4 (Display only the time using the short time format defined in the computer's regional settings.)
 >
 
-> ## <a id="keycode"></a>Key Code Constants ##
+## <a id="keycode"></a>Key Code Constants ##
 > ### General Key Codes ###
 > - vbKeyBack - 0x8 (BACKSPACE key)
 > - vbKeyCancel - 0x3 (CANCEL key)
@@ -210,7 +210,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbKeyDivide - 0x6F (DIVISION SIGN (/) key)
 >
 
-> ## <a id="msgbox"></a>MsgBox Constants ##
+## <a id="msgbox"></a>MsgBox Constants ##
 > - vbAbortRetryIgnore - 2 (Abort, Retry, and Ignore buttons)
 > - vbApplicationModal - 0 (Application modal message box (default))
 > - vbCritical - 16 (Critical message)
@@ -233,7 +233,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbYesNoCancel - 3 (Yes, No, and Cancel buttons)
 >
 
-> ## <a id="msgboxreturn"></a>MsgBox Return Value Constants ##
+## <a id="msgboxreturn"></a>MsgBox Return Value Constants ##
 > - vbAbort - 3 (Abort button was pressed)
 > - vbCancel - 2 (Cancel button was pressed)
 > - vbIgnore - 5 (Ignore button was pressed)
@@ -243,7 +243,7 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbYes - 6 (Yes button was pressed)
 >
 
-> ## <a id="mousepointer"></a>Mouse Pointer Constants ##
+## <a id="mousepointer"></a>Mouse Pointer Constants ##
 > - vbArrow - 1 (Normal arrow)
 > - vbArrowHourglass - 13 (Arrow with hourglass)
 > - vbArrowQuestion - 14 (Arrow with question mark)
@@ -263,19 +263,19 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbUpArrow - 10 (Up arrow)
 >
 
-> ## <a id="specialfolder"></a>SpecialFolder Constants ##
+## <a id="specialfolder"></a>SpecialFolder Constants ##
 > - SystemFolder - 1 (The System defined in the operating system.)
 > - TemporaryFolder - 2 (The Temp defined in the operating system.)
 > - WindowsFolder - 0 (The Windows folder defined in the operating system.)
 >
 
-> ## <a id="tristate"></a>Tristate Constants ##
+## <a id="tristate"></a>Tristate Constants ##
 > - vbFalse = 0
 > - vbTrue = -1
 > - vbUseDefault = -2
 >
 
-> ## <a id="vartype"></a>VarType Constants ##
+## <a id="vartype"></a>VarType Constants ##
 > - vbArray - 8192 (Array)
 > - vbBoolean - 11 (Boolean)
 > - vbByte - 17 (Byte)
