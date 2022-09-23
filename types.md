@@ -44,7 +44,7 @@ Data types help make programming easier. For example, when a variable is declare
 >
 
 > ## <a id="single"></a>Single ##
-> A Single data type is a 32 bit floating point number that is 4 bytes and has a range of -3.402823E38 to -1.401298E-45 for negative values; 1.401298E-45 to 3.402823E38 for positive values.
+> A Single data type is a 32 bit floating point number that is 4 bytes and has a range of -3.402823E38 to -1.401298E-45 for negative values and 1.401298E-45 to 3.402823E38 for positive values.
 >
 
 > ## <a id="string"></a>String ##
