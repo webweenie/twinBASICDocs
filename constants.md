@@ -1,11 +1,10 @@
 # twinBASICDocs - Constants #
-Constants are...
+trueBASIC has many built-in constants. Using constants, gives the developer a readable value that is easy to understand. Without constants, many properties would require integers to be used to represent the various states, making the code harder to write and understand later.
 ## Enumeration Constants
 > ### AppearanceConstants
 > - vbAppear3d = 1
 > - vbAppearFlat = 0
 > 
-
 ### DockModeConstants
 > ### <a id="mousepointerconstants"></a>MousePointerConstants
 > - vbArrow = 1
@@ -27,11 +26,9 @@ Constants are...
 > - vbSizePointer = 5
 > - vbSizeWE = 9
 > - vbUpArrow = 10
-
 ## Other Constants
 > - vbCrLf
 >
-
 # Alignment Constants #
 > ## Align Property ##
 > - vbAlignBottom = 2 - Align control to bottom of form
@@ -40,17 +37,14 @@ Constants are...
 > - vbAlignRight = 4 - Align control to right of form
 > - vbAlignTop = 1 - Align control to top of form
 >
-
 > ## Alignment Property ##
 > - vbLeftJustify = 0 - Left align data in the control
 > - vbRightJustify = 1 - Right align data in the control
 > - vbCenter = 2 - Center data in the control
 >
-
 > ## Asynchronous Constants ##
 > - 
 >
-
 > ## Border Property Constants ##
 > - 
 > ## Color Constants ##
@@ -60,71 +54,54 @@ Constants are...
 > ## Data Report Designer Constants ##
 > - 
 >
-
 > ## DDE Constants ##
 > - 
 >
-
 > ## Drag-and-Drop Constants ##
 > - 
 >
-
 > ## Drawing Constants ##
 > - 
 >
-
 > ## DriveType Constants ##
 > - 
 >
-
 > ## File Attribute Constants ##
 > - 
 >
-
 > ## File Input\Output Constants ##
 > - 
 >
-
 > ## Graphics Constants ##
 > - 
 >
-
 > ## Help Constants ##
 > - 
 >
-
 > ## Key Code Constants ##
 > - 
 >
-
 > ## Miscellaneous Constants ##
 > - 
 >
-
 > ## Mouse Pointer Constants ##
 > - 
 >
-
 > ## RasterOp Constants ##
 > - 
 >
-
 > ## SpecialFolder Constants ##
 > - 
 >
-
 > ## StateManagement Property Constants ##
 > - 
 >
-
 > ## Tristate Constants ##
 > - 
 >
-
 > ## Variant Type Constants ##
 > - 
 >
-
 > ## VB Constants ##
 > - 
 >
