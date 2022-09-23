@@ -1,5 +1,5 @@
 # twinBASIC Docs - Events #
-Events are...
+Event procedures are special subroutines that objects call automatically when a pre-defined action occurs. 
 
 ## Click ##
 > ### Input Parameters ###
@@ -58,7 +58,7 @@ Events are...
 > ### Input Parameters ###
 > None
 >
-> The LostFocus event...
+> The LostFocus event is raised when the object loses focus. An object can lose focus when the user clicks the mouse on something else, or uses the tab key to move the input selector.
 >
 
 ## MouseDown ##
@@ -68,7 +68,7 @@ Events are...
 > - **X**: Integer - the number of pixels the mouse is from the left edge of the object's container
 > - **Y**: Integer - the number of pixels the mouse is from the top edge of the object's container
 >
-> The MouseDown event fires when the mouse button is pressed while over the object.
+> The MouseDown event is raised when the mouse button is pressed while over the object.
 
 ## MouseMove ##
 > ### Input Parameters ###
