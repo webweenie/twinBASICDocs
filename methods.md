@@ -5,32 +5,32 @@ twinBASIC is the most awesome programming language ever.
 
 ## <a id="createbackbrush"></a>CreateBackbrush ##
 > ### Inputs ###
-> - Color - Long
+> - Color - [Long](types.md#long)
 > ### Outputs ###
-> - Long
+> - [Long](types.md#long)
 > 
 > The CreateBackbrush method...
 > 
 
 ## <a id="createdeferreddispatchwrapper"></a>CreateDeferredDispatchWrapper ##
 > ### Inputs ###
-> - Object - Object
+> - Object - [Object](types.md#object)
 > ### Outputs ###
-> - Object
+> - [Object](types.md#object)
 > 
 > The CreateDeferredDispatchWrapper method...
 > 
 
 ## <a id="createrootwindowelement"></a>CreateRootWindowElement ##
 > ### Inputs ###
-> - _ControlContext
-> - ClassName
-> - Caption
-> - WindowStyles
-> - ExtendedStyles
-> - SubClass
+> - _ControlContext - IUnknown
+> - ClassName - [String](types.md#string)
+> - Caption - [String](types.md#string)
+> - WindowStyles - [Long](types.md#long)
+> - ExtendedStyles - [Long](types.md#long)
+> - SubClass - Boolean (Optional, False)
 > ### Outputs ###
-> - WindowElement
+> - [WindowElement](types.md#windowelement)
 > 
 > The CreateRootWindowElement method...
 > 
@@ -39,17 +39,17 @@ twinBASIC is the most awesome programming language ever.
 > ### Inputs ###
 > None
 > ### Outputs ###
-> - TextMetric
+> - [TextMetric](types.md#textmetric)
 > 
 > The GetFontMetrics method...
 > 
 
 ## <a id="move"></a>Move ##
 > ### Inputs ###
-> - Left - Single
-> - Top - Variant
-> - Width - Variant 
-> - height - Variant
+> - Left - [Single](types.md#single)
+> - Top - [Variant](types.md#variant)
+> - Width - [Variant](types.md#variant) 
+> - height - [Variant](types.md#variant)
 > ### Outputs ###
 > None
 > 
@@ -58,40 +58,36 @@ twinBASIC is the most awesome programming language ever.
 
 ## <a id="refresh"></a>Refresh ##
 > ### Inputs ###
-> The Refresh method...
+> None
 > ### Outputs ###
 > None
 > 
 > The Refresh method...
+>
 
 ## <a id="schedulecallback"></a>ScheduleCallback ##
 > ### Inputs ###
-> The ScheduleCallback method...
+> None
 > ### Outputs ###
 > None
 > 
 > The ScheduleCallback method..
+>
 
 ## <a id="setfocus"></a>SetFocus ##
 > ### Inputs ###
-> - 
+> None
 > ### Outputs ###
 > None
 > 
 > The SetFocus method...
+>
 
 ## <a id="subclasswindowelement"></a>SubClassWindowElement ##
 > ### Inputs ###
-> - 
+> - hWnd - [Long](types.md#long)
 > ### Outputs ###
-> None
-> 
-> The SetFocus method...
-
-The SubClassWindowElement method...
-> ### Inputs ###
-> - 
-> ### Outputs ###
-> None
+> - [IUnknown](types.md#iunknown)
 > 
 > The SubClassWindowElement method...
+>
