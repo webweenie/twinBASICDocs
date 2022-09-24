@@ -514,7 +514,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="anchors"></a>Anchors Property ##
 > ### Data Type ###
-> [types.md#string](String)
+> [String](types.md#string)
 > ### Description ###
 > There are four anchor properties, Left, Top, Right, and Bottom. Anchors the object to one or more of the container boundaries. For example, anchoring an object to the bottom and right will cause the object to remain the same distance from the bottom and right of the container as the container is resized.
 > 
