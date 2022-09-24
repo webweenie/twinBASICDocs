@@ -45,6 +45,10 @@ Data types help make programming easier. For example, when a variable is declare
 > A Single data type is a 32 bit floating point number that is 4 bytes and has a range of -3.402823E38 to -1.401298E-45 for negative values and 1.401298E-45 to 3.402823E38 for positive values.
 >
 
+> ## <a id="stdpicture"></a>StdPicture ##
+> xxx.
+>
+
 > ## <a id="string"></a>String ##
 > A String is a dynamically allocated set of alphanumeric characters. I uses 10 bytes of memory, plus one byte for each character in the string. Because twinBASIC dynamically allocates memory for Strings, there is no need to set their length during their initialization. A string can hold approximately four billion characters.
 >

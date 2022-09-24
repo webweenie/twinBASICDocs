@@ -1,7 +1,16 @@
 # twinBASICDocs - Methods #
-twinBASIC is the most awesome programming language ever.
+A method is an action that an object can perform. For example, the SetFocus method of the TextBox control will move the input cursor to the textbox so the user can enter data into it.
 
 ---
+
+## <a id="change"></a>Change ##
+> ### Inputs ###
+> - 
+> ### Outputs ###
+> - 
+> 
+> The change method...
+> 
 
 ## <a id="createbackbrush"></a>CreateBackbrush ##
 > ### Inputs ###
