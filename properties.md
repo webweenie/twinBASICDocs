@@ -1039,7 +1039,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="BackColor"></a><a id="ForeColor"></a>BackColor, ForeColor Properties ##
 > ### Data Type ###
-> Long
+> [Long](types.md#long)
 > ### Description ###
 > Gets and sets the backcolor or foreground color property. The background and foreground colors can be set in the form property window or at runtime by using the RGB function. For example, to set the background color of an object with the name "object", the following code could be used:
 > ```vb
@@ -1840,7 +1840,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="caption"></a>Caption Property ##
 > ### Data Type ###
-> String
+> [String](types.md#string)
 > ### Description ###
 > Gets and sets the caption text. The caption is the text that is displayed on the control
 > 
@@ -4526,7 +4526,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="enabled"></a>Enabled Property ##
 > ### Data Type ###
-> Boolean
+> [Boolean](types.md#boolean)
 > ### Description ###
 > Gets and sets the Enabled property. The Enabled property enables or disables the object. Disabling the object keeps the object visible but disables it and usually turns it grey.
 > 
@@ -5784,7 +5784,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="height"></a><a id="width"></a>Height and Width Properties ##
 > ### Data Type ###
-> Double
+> [Double](types.md#double)
 > ### Description ###
 > Gets and sets the height or width, in pixels, of the object.
 > 
@@ -12798,7 +12798,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="tabindex"></a>TabIndex Property ##
 > ### Data Type ###
-> Long
+> [Long](types.md#long)
 > ### Description ###
 > Gets or sets the order in which each object receives focus when the tab key is pressed. 
 > 
@@ -12876,7 +12876,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="tabstop"></a>TabStop Property ##
 > ### Data Type ###
-> Boolean
+> [Boolean](types.md#boolean)
 > ### Description ###
 > Gets or sets the TabStop property, which causes the focus to stop on the control when the tab button is pressed and the object's TabIndex is the next in line. Setting this property to False will cause the object to be skipped when the tab key is pressed to move to the next object.
 > 
@@ -12914,7 +12914,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="tag"></a>Tag Property ##
 > ### Data Type ###
-> String
+> [String](types.md#string)
 > ### Description ###
 > Gets or sets the tag property. The tag property can be used to store program specific data. It is not used by twinBASIC and is not visible to the end user.
 > 
@@ -14052,7 +14052,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="visible"></a>Visible Property ##
 > ### Data Type ###
-> Boolean
+> [Boolean](types.md#boolean)
 > ### Description ###
 > Gets or sets the visible property. Setting the property to True will make the object appear on the screen. Setting it to false will force it to not be shown.
 > 
@@ -14160,7 +14160,7 @@ Dim strMyText as String = Text1.text
 
 ## <a id="visualstyles"></a>VisualStyles Property ##
 > ### Data Type ###
-> Double
+> [Double](types.md#double)
 > ### Description ###
 > Indicates whether the control will be drawn reflecting the current Windows OS theme.
 > 
