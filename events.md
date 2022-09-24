@@ -15,7 +15,16 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 
 <!---
-
+## <a id="Activate, Deactivate Events"></a>Activate, Deactivate Events ##
+> ### Inputs ###
+> -
+> ### Outputs ###
+> -
+>
+> The Activate, Deactivate Events method...
+>
+--->
+<!---
 ## <a id="ActiveRowChanged Event"></a>ActiveRowChanged Event ##
 > ### Inputs ###
 > -
@@ -24,7 +33,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ActiveRowChanged Event method...
 >
-
+--->
+<!---
 ## <a id="AfterAddFile Event"></a>AfterAddFile Event ##
 > ### Inputs ###
 > -
@@ -33,7 +43,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterAddFile Event method...
 >
-
+--->
+<!---
 ## <a id="AfterChangeFileName Event"></a>AfterChangeFileName Event ##
 > ### Inputs ###
 > -
@@ -42,7 +53,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterChangeFileName Event method...
 >
-
+--->
+<!---
 ## <a id="AfterCloseFile Event"></a>AfterCloseFile Event ##
 > ### Inputs ###
 > -
@@ -51,7 +63,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterCloseFile Event method...
 >
-
+--->
+<!---
 ## <a id="AfterColEdit Event"></a>AfterColEdit Event ##
 > ### Inputs ###
 > -
@@ -60,7 +73,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterColEdit Event method...
 >
-
+--->
+<!---
 ## <a id="AfterColUpdate Event"></a>AfterColUpdate Event ##
 > ### Inputs ###
 > -
@@ -69,7 +83,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterColUpdate Event method...
 >
-
+--->
+<!---
 ## <a id="AfterDelete Event"></a>AfterDelete Event ##
 > ### Inputs ###
 > -
@@ -78,7 +93,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterDelete Event method...
 >
-
+--->
+<!---
 ## <a id="AfterInsert Event"></a>AfterInsert Event ##
 > ### Inputs ###
 > -
@@ -87,7 +103,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterInsert Event method...
 >
-
+--->
+<!---
 ## <a id="AfterLabelEdit Event (ListView, TreeView Controls)"></a>AfterLabelEdit Event (ListView, TreeView Controls) ##
 > ### Inputs ###
 > -
@@ -96,7 +113,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterLabelEdit Event (ListView, TreeView Controls) method...
 >
-
+--->
+<!---
 ## <a id="AfterRemoveFile Event"></a>AfterRemoveFile Event ##
 > ### Inputs ###
 > -
@@ -105,7 +123,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterRemoveFile Event method...
 >
-
+--->
+<!---
 ## <a id="AfterUpdate Event"></a>AfterUpdate Event ##
 > ### Inputs ###
 > -
@@ -114,7 +133,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterUpdate Event method...
 >
-
+--->
+<!---
 ## <a id="AfterWriteFile Event"></a>AfterWriteFile Event ##
 > ### Inputs ###
 > -
@@ -123,7 +143,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AfterWriteFile Event method...
 >
-
+--->
+<!---
 ## <a id="AmbientChanged Event"></a>AmbientChanged Event ##
 > ### Inputs ###
 > -
@@ -132,7 +153,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AmbientChanged Event method...
 >
-
+--->
+<!---
 ## <a id="ApplyChanges Event"></a>ApplyChanges Event ##
 > ### Inputs ###
 > -
@@ -141,7 +163,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ApplyChanges Event method...
 >
-
+--->
+<!---
 ## <a id="Associate Event"></a>Associate Event ##
 > ### Inputs ###
 > -
@@ -150,7 +173,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Associate Event method...
 >
-
+--->
+<!---
 ## <a id="AsyncProgress Event"></a>AsyncProgress Event ##
 > ### Inputs ###
 > -
@@ -159,7 +183,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AsyncProgress Event method...
 >
-
+--->
+<!---
 ## <a id="AsyncReadComplete Event"></a>AsyncReadComplete Event ##
 > ### Inputs ###
 > -
@@ -168,7 +193,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AsyncReadComplete Event method...
 >
-
+--->
+<!---
 ## <a id="AsyncReadProgress Event"></a>AsyncReadProgress Event ##
 > ### Inputs ###
 > -
@@ -177,7 +203,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AsyncReadProgress Event method...
 >
-
+--->
+<!---
 ## <a id="AxisActivated Event"></a>AxisActivated Event ##
 > ### Inputs ###
 > -
@@ -186,7 +213,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisActivated Event method...
 >
-
+--->
+<!---
 ## <a id="AxisLabelActivated Event"></a>AxisLabelActivated Event ##
 > ### Inputs ###
 > -
@@ -195,7 +223,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisLabelActivated Event method...
 >
-
+--->
+<!---
 ## <a id="AxisLabelSelected Event"></a>AxisLabelSelected Event ##
 > ### Inputs ###
 > -
@@ -204,7 +233,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisLabelSelected Event method...
 >
-
+--->
+<!---
 ## <a id="AxisLabelUpdated Event"></a>AxisLabelUpdated Event ##
 > ### Inputs ###
 > -
@@ -213,7 +243,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisLabelUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="AxisSelected Event"></a>AxisSelected Event ##
 > ### Inputs ###
 > -
@@ -222,7 +253,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisSelected Event method...
 >
-
+--->
+<!---
 ## <a id="AxisTitleActivated Event"></a>AxisTitleActivated Event ##
 > ### Inputs ###
 > -
@@ -231,7 +263,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisTitleActivated Event method...
 >
-
+--->
+<!---
 ## <a id="AxisTitleSelected Event"></a>AxisTitleSelected Event ##
 > ### Inputs ###
 > -
@@ -240,7 +273,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisTitleSelected Event method...
 >
-
+--->
+<!---
 ## <a id="AxisTitleUpdated Event"></a>AxisTitleUpdated Event ##
 > ### Inputs ###
 > -
@@ -249,7 +283,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisTitleUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="AxisUpdatedEvent"></a>AxisUpdatedEvent ##
 > ### Inputs ###
 > -
@@ -258,9 +293,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The AxisUpdatedEvent method...
 >
-
 --->
-
+<!---
 ## <a id="BeforeClick Event"></a>BeforeClick Event ##
 > ### Inputs ###
 > -
@@ -269,7 +303,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeClick Event method...
 >
-
+--->
+<!---
 ## <a id="BeforeColEdit Event"></a>BeforeColEdit Event ##
 > ### Inputs ###
 > -
@@ -278,7 +313,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeColEdit Event method...
 >
-
+--->
+<!---
 ## <a id="BeforeColUpdate Event"></a>BeforeColUpdate Event ##
 > ### Inputs ###
 > -
@@ -287,7 +323,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeColUpdate Event method...
 >
-
+--->
+<!---
 ## <a id="BeforeConnect Event"></a>BeforeConnect Event ##
 > ### Inputs ###
 > -
@@ -296,7 +333,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeConnect Event method...
 >
-
+--->
+<!---
 ## <a id="BeforeDelete Event"></a>BeforeDelete Event ##
 > ### Inputs ###
 > -
@@ -305,7 +343,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeDelete Event method...
 >
-
+--->
+<!---
 ## <a id="BeforeInsert Event"></a>BeforeInsert Event ##
 > ### Inputs ###
 > -
@@ -314,7 +353,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeInsert Event method...
 >
-
+--->
+<!---
 ## <a id="BeforeLabelEdit Event (ListView, TreeView Controls)"></a>BeforeLabelEdit Event (ListView, TreeView Controls) ##
 > ### Inputs ###
 > -
@@ -323,7 +363,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeLabelEdit Event (ListView, TreeView Controls) method...
 >
-
+--->
+<!---
 ## <a id="BeforeLoadFile Event"></a>BeforeLoadFile Event ##
 > ### Inputs ###
 > -
@@ -332,7 +373,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeLoadFile Event method...
 >
-
+--->
+<!---
 ## <a id="BeforeUpdate Event"></a>BeforeUpdate Event ##
 > ### Inputs ###
 > -
@@ -341,7 +383,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeforeUpdate Event method...
 >
-
+--->
+<!---
 ## <a id="BeginRequest Event"></a>BeginRequest Event ##
 > ### Inputs ###
 > -
@@ -350,7 +393,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeginRequest Event method...
 >
-
+--->
+<!---
 ## <a id="BeginTrans Event"></a>BeginTrans Event ##
 > ### Inputs ###
 > -
@@ -359,7 +403,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The BeginTrans Event method...
 >
-
+--->
+<!---
 ## <a id="ButtonClick Event"></a>ButtonClick Event ##
 > ### Inputs ###
 > -
@@ -368,7 +413,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonClick Event method...
 >
-
+--->
+<!---
 ## <a id="ButtonClick Event (DataGrid Control)"></a>ButtonClick Event (DataGrid Control) ##
 > ### Inputs ###
 > -
@@ -377,7 +423,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonClick Event (DataGrid Control) method...
 >
-
+--->
+<!---
 ## <a id="ButtonClick Event (Multimedia MCI Control)"></a>ButtonClick Event (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -386,7 +433,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonClick Event (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="ButtonCompleted Event (Multimedia MCI Control)"></a>ButtonCompleted Event (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -395,7 +443,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonCompleted Event (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="ButtonDropDown Event"></a>ButtonDropDown Event ##
 > ### Inputs ###
 > -
@@ -404,7 +453,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonDropDown Event method...
 >
-
+--->
+<!---
 ## <a id="ButtonGotFocus Event (Multimedia MCI Control)"></a>ButtonGotFocus Event (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -413,7 +463,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonGotFocus Event (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="ButtonLostFocus Event (Multimedia MCI Control)"></a>ButtonLostFocus Event (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -422,7 +473,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonLostFocus Event (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="ButtonMenuClick Event"></a>ButtonMenuClick Event ##
 > ### Inputs ###
 > -
@@ -431,7 +483,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ButtonMenuClick Event method...
 >
-
+--->
+<!---
 ## <a id="CallbackKeyDown Event"></a>CallbackKeyDown Event ##
 > ### Inputs ###
 > -
@@ -440,7 +493,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The CallbackKeyDown Event method...
 >
-
+--->
+<!---
 ## <a id="Change Event"></a>Change Event ##
 > ### Inputs ###
 > -
@@ -449,7 +503,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Change Event method...
 >
-
+--->
+<!---
 ## <a id="Change Event (ActiveX Controls)"></a>Change Event (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -458,7 +513,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Change Event (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="Change Event (ToolBar, Slider Controls)"></a>Change Event (ToolBar, Slider Controls) ##
 > ### Inputs ###
 > -
@@ -467,7 +523,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Change Event (ToolBar, Slider Controls) method...
 >
-
+--->
+<!---
 ## <a id="Change Event (UpDown Control)"></a>Change Event (UpDown Control) ##
 > ### Inputs ###
 > -
@@ -476,7 +533,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Change Event (UpDown Control) method...
 >
-
+--->
+<!---
 ## <a id="Changed Event"></a>Changed Event ##
 > ### Inputs ###
 > -
@@ -485,7 +543,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Changed Event method...
 >
-
+--->
+<!---
 ## <a id="ChartActivated Event"></a>ChartActivated Event ##
 > ### Inputs ###
 > -
@@ -494,7 +553,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ChartActivated Event method...
 >
-
+--->
+<!---
 ## <a id="ChartSelected Event"></a>ChartSelected Event ##
 > ### Inputs ###
 > -
@@ -503,7 +563,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ChartSelected Event method...
 >
-
+--->
+<!---
 ## <a id="ChartUpdated Event"></a>ChartUpdated Event ##
 > ### Inputs ###
 > -
@@ -512,6 +573,7 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ChartUpdated Event method...
 >
+--->
 
 ## <a id="Click Event"></a>Click Event ##
 > ### Inputs ###
@@ -522,6 +584,7 @@ Event procedures are special subroutines that objects call automatically when a 
 > The Click event is raised when the object is clicked with the mouse or, in some instances, when the object has focus and the Enter key is pressed.
 >
 
+<!---
 ## <a id="Click Event (ActiveX Controls)"></a>Click Event (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -530,7 +593,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Click Event (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="Click Event (DataCombo Control)"></a>Click Event (DataCombo Control) ##
 > ### Inputs ###
 > -
@@ -539,7 +603,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Click Event (DataCombo Control) method...
 >
-
+--->
+<!---
 ## <a id="Click Event (SSTab Control)"></a>Click Event (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -548,7 +613,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Click Event (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="Click Event (VBA Add-In Object Model)"></a>Click Event (VBA Add-In Object Model) ##
 > ### Inputs ###
 > -
@@ -557,7 +623,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Click Event (VBA Add-In Object Model) method...
 >
-
+--->
+<!---
 ## <a id="Close Event"></a>Close Event ##
 > ### Inputs ###
 > -
@@ -566,7 +633,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Close Event method...
 >
-
+--->
+<!---
 ## <a id="CloseQuery Event"></a>CloseQuery Event ##
 > ### Inputs ###
 > -
@@ -575,7 +643,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The CloseQuery Event method...
 >
-
+--->
+<!---
 ## <a id="CloseUp Event"></a>CloseUp Event ##
 > ### Inputs ###
 > -
@@ -584,7 +653,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The CloseUp Event method...
 >
-
+--->
+<!---
 ## <a id="ColEdit Event"></a>ColEdit Event ##
 > ### Inputs ###
 > -
@@ -593,7 +663,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ColEdit Event method...
 >
-
+--->
+<!---
 ## <a id="Collapse Event (MSHFlexGrid)"></a>Collapse Event (MSHFlexGrid) ##
 > ### Inputs ###
 > -
@@ -602,7 +673,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Collapse Event (MSHFlexGrid) method...
 >
-
+--->
+<!---
 ## <a id="Collapse Event (TreeView Control)"></a>Collapse Event (TreeView Control) ##
 > ### Inputs ###
 > -
@@ -611,7 +683,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Collapse Event (TreeView Control) method...
 >
-
+--->
+<!---
 ## <a id="ColResize Event"></a>ColResize Event ##
 > ### Inputs ###
 > -
@@ -620,7 +693,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ColResize Event method...
 >
-
+--->
+<!---
 ## <a id="ColumnClick Event"></a>ColumnClick Event ##
 > ### Inputs ###
 > -
@@ -629,7 +703,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ColumnClick Event method...
 >
-
+--->
+<!---
 ## <a id="CommitTrans Event"></a>CommitTrans Event ##
 > ### Inputs ###
 > -
@@ -638,7 +713,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The CommitTrans Event method...
 >
-
+--->
+<!---
 ## <a id="Compare Event"></a>Compare Event ##
 > ### Inputs ###
 > -
@@ -647,7 +723,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Compare Event method...
 >
-
+--->
+<!---
 ## <a id="ConfigChangeCancelled Event"></a>ConfigChangeCancelled Event ##
 > ### Inputs ###
 > -
@@ -656,7 +733,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ConfigChangeCancelled Event method...
 >
-
+--->
+<!---
 ## <a id="ConfigChanged Event"></a>ConfigChanged Event ##
 > ### Inputs ###
 > -
@@ -665,7 +743,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ConfigChanged Event method...
 >
-
+--->
+<!---
 ## <a id="Connect Event"></a>Connect Event ##
 > ### Inputs ###
 > -
@@ -674,7 +753,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Connect Event method...
 >
-
+--->
+<!---
 ## <a id="Connect Event (Winsock Control)"></a>Connect Event (Winsock Control) ##
 > ### Inputs ###
 > -
@@ -683,7 +763,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Connect Event (Winsock Control) method...
 >
-
+--->
+<!---
 ## <a id="ConnectionRequest Event"></a>ConnectionRequest Event ##
 > ### Inputs ###
 > -
@@ -692,7 +773,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ConnectionRequest Event method...
 >
-
+--->
+<!---
 ## <a id="CurrentRecordChanged Event"></a>CurrentRecordChanged Event ##
 > ### Inputs ###
 > -
@@ -701,7 +783,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The CurrentRecordChanged Event method...
 >
-
+--->
+<!---
 ## <a id="DataArrival Event"></a>DataArrival Event ##
 > ### Inputs ###
 > -
@@ -710,7 +793,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DataArrival Event method...
 >
-
+--->
+<!---
 ## <a id="DataChanged Event"></a>DataChanged Event ##
 > ### Inputs ###
 > -
@@ -719,7 +803,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DataChanged Event method...
 >
-
+--->
+<!---
 ## <a id="DataUpdate Event"></a>DataUpdate Event ##
 > ### Inputs ###
 > -
@@ -728,7 +813,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DataUpdate Event method...
 >
-
+--->
+<!---
 ## <a id="DataUpdated Event"></a>DataUpdated Event ##
 > ### Inputs ###
 > -
@@ -737,7 +823,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DataUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="DateClick Event"></a>DateClick Event ##
 > ### Inputs ###
 > -
@@ -746,16 +833,18 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DateClick Event method...
 >
-
+--->
+<!---
 ## <a id="DateDblClick Event"></a>DateDblClick Event ##
 > ### Inputs ###
 > -
 > ### Outputs ###
 > -
 >
-> The DblClick event is raised when the object is double-clicked with the mouse.
+> The DateDblClick Event method...
 >
-
+--->
+<!---
 ## <a id="DblClick Event"></a>DblClick Event ##
 > ### Inputs ###
 > -
@@ -764,7 +853,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DblClick Event method...
 >
-
+--->
+<!---
 ## <a id="DblClick Event (ActiveX Controls)"></a>DblClick Event (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -773,7 +863,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DblClick Event (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="DblClick Event (DataCombo Control)"></a>DblClick Event (DataCombo Control) ##
 > ### Inputs ###
 > -
@@ -782,7 +873,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DblClick Event (DataCombo Control) method...
 >
-
+--->
+<!---
 ## <a id="DECommandAdded Event"></a>DECommandAdded Event ##
 > ### Inputs ###
 > -
@@ -791,7 +883,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DECommandAdded Event method...
 >
-
+--->
+<!---
 ## <a id="DECommandPropertyChanged Event"></a>DECommandPropertyChanged Event ##
 > ### Inputs ###
 > -
@@ -800,7 +893,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DECommandPropertyChanged Event method...
 >
-
+--->
+<!---
 ## <a id="DECommandRemoved Event"></a>DECommandRemoved Event ##
 > ### Inputs ###
 > -
@@ -809,7 +903,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DECommandRemoved Event method...
 >
-
+--->
+<!---
 ## <a id="DEConnectionAdded Event"></a>DEConnectionAdded Event ##
 > ### Inputs ###
 > -
@@ -818,7 +913,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DEConnectionAdded Event method...
 >
-
+--->
+<!---
 ## <a id="DEConnectionPropertyChanged Event"></a>DEConnectionPropertyChanged Event ##
 > ### Inputs ###
 > -
@@ -827,7 +923,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DEConnectionPropertyChanged Event method...
 >
-
+--->
+<!---
 ## <a id="DEConnectionRemoved Event"></a>DEConnectionRemoved Event ##
 > ### Inputs ###
 > -
@@ -836,7 +933,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DEConnectionRemoved Event method...
 >
-
+--->
+<!---
 ## <a id="DeviceArrival Event"></a>DeviceArrival Event ##
 > ### Inputs ###
 > -
@@ -845,7 +943,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DeviceArrival Event method...
 >
-
+--->
+<!---
 ## <a id="DeviceOtherEvent Event"></a>DeviceOtherEvent Event ##
 > ### Inputs ###
 > -
@@ -854,7 +953,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DeviceOtherEvent Event method...
 >
-
+--->
+<!---
 ## <a id="DeviceQueryRemove Event"></a>DeviceQueryRemove Event ##
 > ### Inputs ###
 > -
@@ -863,7 +963,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DeviceQueryRemove Event method...
 >
-
+--->
+<!---
 ## <a id="DeviceQueryRemoveFailed Event"></a>DeviceQueryRemoveFailed Event ##
 > ### Inputs ###
 > -
@@ -872,7 +973,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DeviceQueryRemoveFailed Event method...
 >
-
+--->
+<!---
 ## <a id="DeviceRemoveComplete Event"></a>DeviceRemoveComplete Event ##
 > ### Inputs ###
 > -
@@ -881,7 +983,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DeviceRemoveComplete Event method...
 >
-
+--->
+<!---
 ## <a id="DeviceRemovePending Event"></a>DeviceRemovePending Event ##
 > ### Inputs ###
 > -
@@ -890,7 +993,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DeviceRemovePending Event method...
 >
-
+--->
+<!---
 ## <a id="DevModeChange Event"></a>DevModeChange Event ##
 > ### Inputs ###
 > -
@@ -899,7 +1003,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DevModeChange Event method...
 >
-
+--->
+<!---
 ## <a id="Disconnect Event"></a>Disconnect Event ##
 > ### Inputs ###
 > -
@@ -908,7 +1013,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Disconnect Event method...
 >
-
+--->
+<!---
 ## <a id="DisplayChanged Event"></a>DisplayChanged Event ##
 > ### Inputs ###
 > -
@@ -917,7 +1023,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DisplayChanged Event method...
 >
-
+--->
+<!---
 ## <a id="Dissociate Event"></a>Dissociate Event ##
 > ### Inputs ###
 > -
@@ -926,7 +1033,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Dissociate Event method...
 >
-
+--->
+<!---
 ## <a id="DoGetNewFileName Event"></a>DoGetNewFileName Event ##
 > ### Inputs ###
 > -
@@ -935,7 +1043,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DoGetNewFileName Event method...
 >
-
+--->
+<!---
 ## <a id="Done Event (Multimedia MCI Control)"></a>Done Event (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -944,7 +1053,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Done Event (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="DonePainting Event"></a>DonePainting Event ##
 > ### Inputs ###
 > -
@@ -953,7 +1063,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DonePainting Event method...
 >
-
+--->
+<!---
 ## <a id="DownClick Event"></a>DownClick Event ##
 > ### Inputs ###
 > -
@@ -962,7 +1073,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DownClick Event method...
 >
-
+--->
+<!---
 ## <a id="DragDrop Event"></a>DragDrop Event ##
 > ### Inputs ###
 > -
@@ -971,7 +1083,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DragDrop Event method...
 >
-
+--->
+<!---
 ## <a id="DragOver Event"></a>DragOver Event ##
 > ### Inputs ###
 > -
@@ -980,7 +1093,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DragOver Event method...
 >
-
+--->
+<!---
 ## <a id="DropDown Event"></a>DropDown Event ##
 > ### Inputs ###
 > -
@@ -989,7 +1103,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DropDown Event method...
 >
-
+--->
+<!---
 ## <a id="DropDown Event (DateTimePicker Control)"></a>DropDown Event (DateTimePicker Control) ##
 > ### Inputs ###
 > -
@@ -998,7 +1113,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DropDown Event (DateTimePicker Control) method...
 >
-
+--->
+<!---
 ## <a id="DropDown Event (ImageCombo Control)"></a>DropDown Event (ImageCombo Control) ##
 > ### Inputs ###
 > -
@@ -1007,7 +1123,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The DropDown Event (ImageCombo Control) method...
 >
-
+--->
+<!---
 ## <a id="EditProperty Event"></a>EditProperty Event ##
 > ### Inputs ###
 > -
@@ -1016,7 +1133,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The EditProperty Event method...
 >
-
+--->
+<!---
 ## <a id="EditQuery Event"></a>EditQuery Event ##
 > ### Inputs ###
 > -
@@ -1025,7 +1143,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The EditQuery Event method...
 >
-
+--->
+<!---
 ## <a id="EndRequest Event"></a>EndRequest Event ##
 > ### Inputs ###
 > -
@@ -1034,7 +1153,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The EndRequest Event method...
 >
-
+--->
+<!---
 ## <a id="EnterCell Event"></a>EnterCell Event ##
 > ### Inputs ###
 > -
@@ -1043,7 +1163,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The EnterCell Event method...
 >
-
+--->
+<!---
 ## <a id="EnterFocus Event"></a>EnterFocus Event ##
 > ### Inputs ###
 > -
@@ -1052,7 +1173,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The EnterFocus Event method...
 >
-
+--->
+<!---
 ## <a id="Error Event (ADO Data Control)"></a>Error Event (ADO Data Control) ##
 > ### Inputs ###
 > -
@@ -1061,7 +1183,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Error Event (ADO Data Control) method...
 >
-
+--->
+<!---
 ## <a id="Error Event (Data Control)"></a>Error Event (Data Control) ##
 > ### Inputs ###
 > -
@@ -1070,7 +1193,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Error Event (Data Control) method...
 >
-
+--->
+<!---
 ## <a id="Error Event (Data Report Designer)"></a>Error Event (Data Report Designer) ##
 > ### Inputs ###
 > -
@@ -1079,7 +1203,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Error Event (Data Report Designer) method...
 >
-
+--->
+<!---
 ## <a id="Error Event (DataGrid Control)"></a>Error Event (DataGrid Control) ##
 > ### Inputs ###
 > -
@@ -1088,7 +1213,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Error Event (DataGrid Control) method...
 >
-
+--->
+<!---
 ## <a id="Error Event (Remote Data)"></a>Error Event (Remote Data) ##
 > ### Inputs ###
 > -
@@ -1097,7 +1223,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Error Event (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="Error Event (Winsock Control)"></a>Error Event (Winsock Control) ##
 > ### Inputs ###
 > -
@@ -1106,7 +1233,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Error Event (Winsock Control) method...
 >
-
+--->
+<!---
 ## <a id="ExitFocus Event"></a>ExitFocus Event ##
 > ### Inputs ###
 > -
@@ -1115,7 +1243,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ExitFocus Event method...
 >
-
+--->
+<!---
 ## <a id="Expand Event (MSHFlexGrid)"></a>Expand Event (MSHFlexGrid) ##
 > ### Inputs ###
 > -
@@ -1124,7 +1253,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Expand Event (MSHFlexGrid) method...
 >
-
+--->
+<!---
 ## <a id="Expand Event (TreeView Control)"></a>Expand Event (TreeView Control) ##
 > ### Inputs ###
 > -
@@ -1133,7 +1263,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Expand Event (TreeView Control) method...
 >
-
+--->
+<!---
 ## <a id="FatalErrorResponse Event"></a>FatalErrorResponse Event ##
 > ### Inputs ###
 > -
@@ -1142,7 +1273,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The FatalErrorResponse Event method...
 >
-
+--->
+<!---
 ## <a id="FontChanged Event"></a>FontChanged Event ##
 > ### Inputs ###
 > -
@@ -1151,7 +1283,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The FontChanged Event method...
 >
-
+--->
+<!---
 ## <a id="FootnoteActivated Event"></a>FootnoteActivated Event ##
 > ### Inputs ###
 > -
@@ -1160,7 +1293,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The FootnoteActivated Event method...
 >
-
+--->
+<!---
 ## <a id="FootnoteSelected Event"></a>FootnoteSelected Event ##
 > ### Inputs ###
 > -
@@ -1169,7 +1303,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The FootnoteSelected Event method...
 >
-
+--->
+<!---
 ## <a id="FootnoteUpdated Event"></a>FootnoteUpdated Event ##
 > ### Inputs ###
 > -
@@ -1178,7 +1313,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The FootnoteUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="Format Event (StdDataFormat Object)"></a>Format Event (StdDataFormat Object) ##
 > ### Inputs ###
 > -
@@ -1187,7 +1323,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Format Event (StdDataFormat Object) method...
 >
-
+--->
+<!---
 ## <a id="Format Event (DateTimePicker Control)"></a>Format Event (DateTimePicker Control) ##
 > ### Inputs ###
 > -
@@ -1196,7 +1333,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Format Event (DateTimePicker Control) method...
 >
-
+--->
+<!---
 ## <a id="FormatSize Event"></a>FormatSize Event ##
 > ### Inputs ###
 > -
@@ -1205,7 +1343,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The FormatSize Event method...
 >
-
+--->
+<!---
 ## <a id="GetDataMember Event"></a>GetDataMember Event ##
 > ### Inputs ###
 > -
@@ -1214,7 +1353,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The GetDataMember Event method...
 >
-
+--->
+<!---
 ## <a id="GetDayBold Event"></a>GetDayBold Event ##
 > ### Inputs ###
 > -
@@ -1223,7 +1363,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The GetDayBold Event method...
 >
-
+--->
+<!---
 ## <a id="GetQueryText Event"></a>GetQueryText Event ##
 > ### Inputs ###
 > -
@@ -1232,6 +1373,7 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The GetQueryText Event method...
 >
+--->
 
 ## <a id="GotFocus Event"></a>GotFocus Event ##
 > ### Inputs ###
@@ -1242,6 +1384,7 @@ Event procedures are special subroutines that objects call automatically when a 
 > The GotFocus event is raised when the object receives the focus. The object can get focus when it is clicked with the mouse, or by the user tabbing into the object. When an object has focus, it will receive input from the keyboard.
 >
 
+<!---
 ## <a id="GotFocus Event (UserControl Object and UserDocument Object)"></a>GotFocus Event (UserControl Object and UserDocument Object) ##
 > ### Inputs ###
 > -
@@ -1250,7 +1393,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The GotFocus Event (UserControl Object and UserDocument Object) method...
 >
-
+--->
+<!---
 ## <a id="HeadClick Event"></a>HeadClick Event ##
 > ### Inputs ###
 > -
@@ -1259,7 +1403,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The HeadClick Event method...
 >
-
+--->
+<!---
 ## <a id="HeightChanged Event"></a>HeightChanged Event ##
 > ### Inputs ###
 > -
@@ -1268,7 +1413,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The HeightChanged Event method...
 >
-
+--->
+<!---
 ## <a id="Hide Event (UserControl Object)"></a>Hide Event (UserControl Object) ##
 > ### Inputs ###
 > -
@@ -1277,7 +1423,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Hide Event (UserControl Object) method...
 >
-
+--->
+<!---
 ## <a id="Hide Event (UserDocument Object)"></a>Hide Event (UserDocument Object) ##
 > ### Inputs ###
 > -
@@ -1286,7 +1433,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Hide Event (UserDocument Object) method...
 >
-
+--->
+<!---
 ## <a id="HitTest Event"></a>HitTest Event ##
 > ### Inputs ###
 > -
@@ -1295,7 +1443,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The HitTest Event method...
 >
-
+--->
+<!---
 ## <a id="InfoMessage Event"></a>InfoMessage Event ##
 > ### Inputs ###
 > -
@@ -1304,6 +1453,7 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The InfoMessage Event method...
 >
+--->
 
 ## <a id="Initialize Event"></a>Initialize Event ##
 > ### Inputs ###
@@ -1314,6 +1464,7 @@ Event procedures are special subroutines that objects call automatically when a 
 > The initialize event is raised when the object is initialized during the form load. This event is useful to populate the object with data or otherwise prepare it for the user.
 >
 
+<!---
 ## <a id="InitProperties Event"></a>InitProperties Event ##
 > ### Inputs ###
 > -
@@ -1322,7 +1473,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The InitProperties Event method...
 >
-
+--->
+<!---
 ## <a id="ItemActivated Event"></a>ItemActivated Event ##
 > ### Inputs ###
 > -
@@ -1331,7 +1483,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemActivated Event method...
 >
-
+--->
+<!---
 ## <a id="ItemAdded Event"></a>ItemAdded Event ##
 > ### Inputs ###
 > -
@@ -1340,7 +1493,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemAdded Event method...
 >
-
+--->
+<!---
 ## <a id="ItemAdded Event (VBA Add-In Object Model)"></a>ItemAdded Event (VBA Add-In Object Model) ##
 > ### Inputs ###
 > -
@@ -1349,7 +1503,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemAdded Event (VBA Add-In Object Model) method...
 >
-
+--->
+<!---
 ## <a id="ItemCheck Event (ListBox Control)"></a>ItemCheck Event (ListBox Control) ##
 > ### Inputs ###
 > -
@@ -1358,7 +1513,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemCheck Event (ListBox Control) method...
 >
-
+--->
+<!---
 ## <a id="ItemCheck Event (ListView Control)"></a>ItemCheck Event (ListView Control) ##
 > ### Inputs ###
 > -
@@ -1367,7 +1523,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemCheck Event (ListView Control) method...
 >
-
+--->
+<!---
 ## <a id="ItemClick Event"></a>ItemClick Event ##
 > ### Inputs ###
 > -
@@ -1376,7 +1533,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemClick Event method...
 >
-
+--->
+<!---
 ## <a id="ItemReloaded Event"></a>ItemReloaded Event ##
 > ### Inputs ###
 > -
@@ -1385,7 +1543,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemReloaded Event method...
 >
-
+--->
+<!---
 ## <a id="ItemRemoved Event"></a>ItemRemoved Event ##
 > ### Inputs ###
 > -
@@ -1394,7 +1553,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemRemoved Event method...
 >
-
+--->
+<!---
 ## <a id="ItemRemoved Event (VBA Add-In Object Model)"></a>ItemRemoved Event (VBA Add-In Object Model) ##
 > ### Inputs ###
 > -
@@ -1403,7 +1563,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemRemoved Event (VBA Add-In Object Model) method...
 >
-
+--->
+<!---
 ## <a id="ItemRenamed Event"></a>ItemRenamed Event ##
 > ### Inputs ###
 > -
@@ -1412,7 +1573,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemRenamed Event method...
 >
-
+--->
+<!---
 ## <a id="ItemSelected Event"></a>ItemSelected Event ##
 > ### Inputs ###
 > -
@@ -1421,20 +1583,7 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ItemSelected Event method...
 >
-
-> ### Input Parameters ###
-> The KeyDown event is the first of the key events to be raised and occurs when the key is pressed down. The KeyDown event passes in the KeyCode and the Shift state. The KeyCode represents the ASCII value of the key that was pressed. The Shift parameter represents which of the three "shift" keys were also pressed. The possible values of Shift are: 1 = Shift Key, 2 = CTRL key, and 4 = ALT key. Bitwise logic can be used to determine if more than one key was being pressed. The code below can be used to determine which shifting keys are pressed:
-```vb
-    Private Sub Object1_KeyDown(KeyCode As Integer, Shift As Integer) Handles Object1.KeyDown
-        Dim bShift As Boolean = 1 And Shift
-        Dim bAlt As Boolean = 2 And Shift
-        Dim bCtrl As Boolean = 4 And Shift
-        
-        'Add logic here that uses the boolean values to suit your needs.
-    End Sub
-```
->
-
+--->
 
 ## <a id="KeyDown"></a><a id="KeyUp"></a>KeyDown, KeyUp Events ##
 > ### Inputs ###
@@ -1457,6 +1606,7 @@ Event procedures are special subroutines that objects call automatically when a 
 > The KeyUp event is the final key event to be raised and occurs when the user releases the key. The KeyUp event has the same inputs as the KeyDown.
 > 
 
+<!---
 ## <a id="KeyDown, KeyUp Events (ActiveX Controls)"></a>KeyDown, KeyUp Events (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -1465,6 +1615,7 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The KeyDown, KeyUp Events (ActiveX Controls) method...
 >
+--->
 
 ## <a id="KeyPress Event"></a>KeyPress Event ##
 > ### Inputs ###
@@ -1474,6 +1625,7 @@ Event procedures are special subroutines that objects call automatically when a 
 > The KeyPress event is similar to the KeyDown, but it happens after the KeyDown event. The event passes in the ASCII value of the key pressed via the KeyASCII property. Setting this property to 0 (zero) within the keypress event will nullify the keypress and, effectively, ignore it.
 >
 
+<!---
 ## <a id="KeyPress Event (ActiveX Controls)"></a>KeyPress Event (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -1482,7 +1634,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The KeyPress Event (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="LeaveCell Event"></a>LeaveCell Event ##
 > ### Inputs ###
 > -
@@ -1491,7 +1644,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LeaveCell Event method...
 >
-
+--->
+<!---
 ## <a id="LegendActivated Event"></a>LegendActivated Event ##
 > ### Inputs ###
 > -
@@ -1500,7 +1654,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LegendActivated Event method...
 >
-
+--->
+<!---
 ## <a id="LegendSelected Event"></a>LegendSelected Event ##
 > ### Inputs ###
 > -
@@ -1509,7 +1664,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LegendSelected Event method...
 >
-
+--->
+<!---
 ## <a id="LegendUpdated Event"></a>LegendUpdated Event ##
 > ### Inputs ###
 > -
@@ -1518,7 +1674,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LegendUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="LinkClose Event"></a>LinkClose Event ##
 > ### Inputs ###
 > -
@@ -1527,7 +1684,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LinkClose Event method...
 >
-
+--->
+<!---
 ## <a id="LinkError Event"></a>LinkError Event ##
 > ### Inputs ###
 > -
@@ -1536,7 +1694,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LinkError Event method...
 >
-
+--->
+<!---
 ## <a id="LinkExecute Event"></a>LinkExecute Event ##
 > ### Inputs ###
 > -
@@ -1545,7 +1704,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LinkExecute Event method...
 >
-
+--->
+<!---
 ## <a id="LinkNotify Event"></a>LinkNotify Event ##
 > ### Inputs ###
 > -
@@ -1554,7 +1714,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LinkNotify Event method...
 >
-
+--->
+<!---
 ## <a id="LinkOpen Event"></a>LinkOpen Event ##
 > ### Inputs ###
 > -
@@ -1563,7 +1724,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LinkOpen Event method...
 >
-
+--->
+<!---
 ## <a id="Load Event"></a>Load Event ##
 > ### Inputs ###
 > -
@@ -1572,7 +1734,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Load Event method...
 >
-
+--->
+<!---
 ## <a id="Load Event (DHTMLPage)"></a>Load Event (DHTMLPage) ##
 > ### Inputs ###
 > -
@@ -1581,6 +1744,7 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Load Event (DHTMLPage) method...
 >
+--->
 
 ## <a id="LostFocus Event"></a>LostFocus Event ##
 > ### Inputs ###
@@ -1591,6 +1755,7 @@ Event procedures are special subroutines that objects call automatically when a 
 > The LostFocus event is raised when the object loses focus. An object can lose focus when the user clicks the mouse on something else or uses the tab key to move the input selector.
 >
 
+<!---
 ## <a id="LostFocus Event (UserControl Object and UserDocument Object)"></a>LostFocus Event (UserControl Object and UserDocument Object) ##
 > ### Inputs ###
 > -
@@ -1599,6 +1764,7 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The LostFocus Event (UserControl Object and UserDocument Object) method...
 >
+--->
 
 ## <a id="MouseDown"></a><a id="MouseUp"></a>MouseDown, MouseUp Events ##
 > ### Inputs ###
@@ -1612,6 +1778,17 @@ Event procedures are special subroutines that objects call automatically when a 
 > The MouseDown event is raised when the mouse button is pressed while over the object. The MouseUp event is raised when the mouse button is released.
 >
 
+<!---
+## <a id="MouseDown, MouseUp Events (ActiveX Controls)"></a>MouseDown, MouseUp Events (ActiveX Controls) ##
+> ### Inputs ###
+> -
+> ### Outputs ###
+> -
+>
+> The MouseDown, MouseUp Events (ActiveX Controls) method...
+>
+--->
+
 ## <a id="mousemove"></a>MouseMove ##
 > ### Input Parameters ###
 > - **Button**: Integer - the ASCII value of the key pressed.
@@ -1622,40 +1799,7 @@ Event procedures are special subroutines that objects call automatically when a 
 > The MouseMove event is raised when the mouse is moved over the object. The MouseMove event has several parameters that provide useful information to the event. The Button parameter is an integer value that represents which button was pressed. The possible values are 1 = Left button, 2 = Right button, and 4 = Center button. See the KeyDown event for information on using bitwise boolean logic to determine which buttons were pressed. The Shift parameter works the same way for the MouseMove as it does for the KeyPress. Again, see the KeyPress event for help determining which shifting keys are being pressed. The X and Y parameters provide the location of the mouse as it moves.
 >
 
-## <a id="mouseup"></a>MouseUp ##
-> ### Input Parameters ###
-> - **Button**: Integer - the ASCII value of the key pressed.
-> - **Shift**: Integer - the bitwise value representing all of the shifting keys pressed.
-> - **X**: Integer - the number of pixels the mouse is from the left edge of the object's container
-> - **Y**: Integer - the number of pixels the mouse is from the top edge of the object's container
->
-> The MouseUp event is raised when the mouse button is released and the mouse is over the object.
->
-
-## <a id="nodecheck"></a>NodeCheck ##
-> ### Input Parameters ###
-
-
-
-
-## <a id="MouseDown, MouseUp Events (ActiveX Controls)"></a>MouseDown, MouseUp Events (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
-> -
->
-> The MouseDown, MouseUp Events (ActiveX Controls) method...
->
-
-## <a id="MouseMove Event"></a>MouseMove Event ##
-> ### Inputs ###
-> -
-> ### Outputs ###
-> -
->
-> The MouseMove Event method...
->
-
+<!---
 ## <a id="MouseMove Event (ActiveX Controls)"></a>MouseMove Event (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -1664,7 +1808,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The MouseMove Event (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="NodeCheck Event"></a>NodeCheck Event ##
 > ### Inputs ###
 > -
@@ -1673,7 +1818,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NodeCheck Event method...
 >
-
+--->
+<!---
 ## <a id="NodeClick Event"></a>NodeClick Event ##
 > ### Inputs ###
 > -
@@ -1682,7 +1828,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NodeClick Event method...
 >
-
+--->
+<!---
 ## <a id="Tab Property (SSTab Control)"></a>Tab Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1691,7 +1838,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Tab Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabAcrossSplits Property"></a>TabAcrossSplits Property ##
 > ### Inputs ###
 > -
@@ -1700,7 +1848,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabAcrossSplits Property method...
 >
-
+--->
+<!---
 ## <a id="TabAction Property"></a>TabAction Property ##
 > ### Inputs ###
 > -
@@ -1709,7 +1858,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabAction Property method...
 >
-
+--->
+<!---
 ## <a id="TabCaption Property (SSTab Control)"></a>TabCaption Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1718,7 +1868,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabCaption Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabEnabled Property (SSTab Control)"></a>TabEnabled Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1727,7 +1878,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabEnabled Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabFixedHeight, TabFixedWidth Properties"></a>TabFixedHeight, TabFixedWidth Properties ##
 > ### Inputs ###
 > -
@@ -1736,7 +1888,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabFixedHeight, TabFixedWidth Properties method...
 >
-
+--->
+<!---
 ## <a id="TabHeight Property (SSTab Control)"></a>TabHeight Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1745,7 +1898,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabHeight Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabIndex Property"></a>TabIndex Property ##
 > ### Inputs ###
 > -
@@ -1754,7 +1908,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabIndex Property method...
 >
-
+--->
+<!---
 ## <a id="TabMaxWidth Property (SSTab Control)"></a>TabMaxWidth Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1763,7 +1918,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabMaxWidth Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabMinWidth Property"></a>TabMinWidth Property ##
 > ### Inputs ###
 > -
@@ -1772,7 +1928,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabMinWidth Property method...
 >
-
+--->
+<!---
 ## <a id="TabOrientation Property (SSTab Control)"></a>TabOrientation Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1781,7 +1938,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabOrientation Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabPicture Property (SSTab Control)"></a>TabPicture Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1790,7 +1948,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabPicture Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="Tabs Property (SSTab Control)"></a>Tabs Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1799,7 +1958,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Tabs Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="Tabs Property (TabStrip Control)"></a>Tabs Property (TabStrip Control) ##
 > ### Inputs ###
 > -
@@ -1808,7 +1968,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Tabs Property (TabStrip Control) method...
 >
-
+--->
+<!---
 ## <a id="TabsPerRow Property (SSTab Control)"></a>TabsPerRow Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1817,7 +1978,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabsPerRow Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabStop Property"></a>TabStop Property ##
 > ### Inputs ###
 > -
@@ -1826,7 +1988,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabStop Property method...
 >
-
+--->
+<!---
 ## <a id="TabStyle Property"></a>TabStyle Property ##
 > ### Inputs ###
 > -
@@ -1835,7 +1998,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabStyle Property method...
 >
-
+--->
+<!---
 ## <a id="TabVisible Property (SSTab Control)"></a>TabVisible Property (SSTab Control) ##
 > ### Inputs ###
 > -
@@ -1844,7 +2008,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabVisible Property (SSTab Control) method...
 >
-
+--->
+<!---
 ## <a id="TabWidthStyle Property"></a>TabWidthStyle Property ##
 > ### Inputs ###
 > -
@@ -1853,7 +2018,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TabWidthStyle Property method...
 >
-
+--->
+<!---
 ## <a id="Tag Property"></a>Tag Property ##
 > ### Inputs ###
 > -
@@ -1862,7 +2028,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Tag Property method...
 >
-
+--->
+<!---
 ## <a id="Tag Property (ActiveX Controls)"></a>Tag Property (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -1871,7 +2038,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Tag Property (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="TagPrefix Property"></a>TagPrefix Property ##
 > ### Inputs ###
 > -
@@ -1880,7 +2048,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TagPrefix Property method...
 >
-
+--->
+<!---
 ## <a id="Target Property"></a>Target Property ##
 > ### Inputs ###
 > -
@@ -1889,7 +2058,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Target Property method...
 >
-
+--->
+<!---
 ## <a id="TargetObject Property"></a>TargetObject Property ##
 > ### Inputs ###
 > -
@@ -1898,7 +2068,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TargetObject Property method...
 >
-
+--->
+<!---
 ## <a id="TaskVisible Property"></a>TaskVisible Property ##
 > ### Inputs ###
 > -
@@ -1907,7 +2078,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TaskVisible Property method...
 >
-
+--->
+<!---
 ## <a id="Template Property"></a>Template Property ##
 > ### Inputs ###
 > -
@@ -1916,7 +2088,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Template Property method...
 >
-
+--->
+<!---
 ## <a id="TemplatePath Property"></a>TemplatePath Property ##
 > ### Inputs ###
 > -
@@ -1925,7 +2098,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TemplatePath Property method...
 >
-
+--->
+<!---
 ## <a id="Text Property"></a>Text Property ##
 > ### Inputs ###
 > -
@@ -1934,7 +2108,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Text Property method...
 >
-
+--->
+<!---
 ## <a id="Text Property (ActiveX Controls)"></a>Text Property (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -1943,7 +2118,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Text Property (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="Text Property (MaskedEdit Control)"></a>Text Property (MaskedEdit Control) ##
 > ### Inputs ###
 > -
@@ -1952,7 +2128,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Text Property (MaskedEdit Control) method...
 >
-
+--->
+<!---
 ## <a id="Text Property (MSChart)"></a>Text Property (MSChart) ##
 > ### Inputs ###
 > -
@@ -1961,7 +2138,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Text Property (MSChart) method...
 >
-
+--->
+<!---
 ## <a id="Text Property (MSHFlexGrid)"></a>Text Property (MSHFlexGrid) ##
 > ### Inputs ###
 > -
@@ -1970,7 +2148,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Text Property (MSHFlexGrid) method...
 >
-
+--->
+<!---
 ## <a id="TextAlign Property"></a>TextAlign Property ##
 > ### Inputs ###
 > -
@@ -1979,7 +2158,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextAlign Property method...
 >
-
+--->
+<!---
 ## <a id="TextAlignment Property"></a>TextAlignment Property ##
 > ### Inputs ###
 > -
@@ -1988,7 +2168,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextAlignment Property method...
 >
-
+--->
+<!---
 ## <a id="TextArray Property"></a>TextArray Property ##
 > ### Inputs ###
 > -
@@ -1997,7 +2178,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextArray Property method...
 >
-
+--->
+<!---
 ## <a id="TextBackground Property"></a>TextBackground Property ##
 > ### Inputs ###
 > -
@@ -2006,7 +2188,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextBackground Property method...
 >
-
+--->
+<!---
 ## <a id="TextLayout Property"></a>TextLayout Property ##
 > ### Inputs ###
 > -
@@ -2015,7 +2198,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextLayout Property method...
 >
-
+--->
+<!---
 ## <a id="TextLength Property"></a>TextLength Property ##
 > ### Inputs ###
 > -
@@ -2024,7 +2208,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextLength Property method...
 >
-
+--->
+<!---
 ## <a id="TextLengthType Property"></a>TextLengthType Property ##
 > ### Inputs ###
 > -
@@ -2033,7 +2218,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextLengthType Property method...
 >
-
+--->
+<!---
 ## <a id="TextMatrix Property"></a>TextMatrix Property ##
 > ### Inputs ###
 > -
@@ -2042,7 +2228,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextMatrix Property method...
 >
-
+--->
+<!---
 ## <a id="TextPosition Property"></a>TextPosition Property ##
 > ### Inputs ###
 > -
@@ -2051,7 +2238,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextPosition Property method...
 >
-
+--->
+<!---
 ## <a id="TextRTF Property"></a>TextRTF Property ##
 > ### Inputs ###
 > -
@@ -2060,7 +2248,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextRTF Property method...
 >
-
+--->
+<!---
 ## <a id="TextStyle, TextStyleBand, TextStyleFixed, TextStyleHeader Properties (MSHFlexGrid)"></a>TextStyle, TextStyleBand, TextStyleFixed, TextStyleHeader Properties (MSHFlexGrid) ##
 > ### Inputs ###
 > -
@@ -2069,7 +2258,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TextStyle, TextStyleBand, TextStyleFixed, TextStyleHeader Properties (MSHFlexGrid) method...
 >
-
+--->
+<!---
 ## <a id="ThreadID Property"></a>ThreadID Property ##
 > ### Inputs ###
 > -
@@ -2078,7 +2268,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ThreadID Property method...
 >
-
+--->
+<!---
 ## <a id="Tick Property"></a>Tick Property ##
 > ### Inputs ###
 > -
@@ -2087,7 +2278,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Tick Property method...
 >
-
+--->
+<!---
 ## <a id="TickFrequency Property"></a>TickFrequency Property ##
 > ### Inputs ###
 > -
@@ -2096,7 +2288,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TickFrequency Property method...
 >
-
+--->
+<!---
 ## <a id="TickStyle Property"></a>TickStyle Property ##
 > ### Inputs ###
 > -
@@ -2105,7 +2298,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TickStyle Property method...
 >
-
+--->
+<!---
 ## <a id="TimeFormat Property (Multimedia MCI Control)"></a>TimeFormat Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -2114,7 +2308,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TimeFormat Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="Title Property"></a>Title Property ##
 > ### Inputs ###
 > -
@@ -2123,7 +2318,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Title Property method...
 >
-
+--->
+<!---
 ## <a id="Title Property (DataReport Object)"></a>Title Property (DataReport Object) ##
 > ### Inputs ###
 > -
@@ -2132,7 +2328,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Title Property (DataReport Object) method...
 >
-
+--->
+<!---
 ## <a id="Title Property (MSChart)"></a>Title Property (MSChart) ##
 > ### Inputs ###
 > -
@@ -2141,7 +2338,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Title Property (MSChart) method...
 >
-
+--->
+<!---
 ## <a id="TitleBackColor, TitleForeColor Properties"></a>TitleBackColor, TitleForeColor Properties ##
 > ### Inputs ###
 > -
@@ -2150,7 +2348,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TitleBackColor, TitleForeColor Properties method...
 >
-
+--->
+<!---
 ## <a id="TitleText Property"></a>TitleText Property ##
 > ### Inputs ###
 > -
@@ -2159,7 +2358,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TitleText Property method...
 >
-
+--->
+<!---
 ## <a id="To Property (Multimedia MCI Control)"></a>To Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -2168,7 +2368,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The To Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="ToolboxBitmap Property"></a>ToolboxBitmap Property ##
 > ### Inputs ###
 > -
@@ -2177,7 +2378,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ToolboxBitmap Property method...
 >
-
+--->
+<!---
 ## <a id="ToolTipText Property"></a>ToolTipText Property ##
 > ### Inputs ###
 > -
@@ -2186,7 +2388,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ToolTipText Property method...
 >
-
+--->
+<!---
 ## <a id="ToolTipText Property (ActiveX Controls)"></a>ToolTipText Property (ActiveX Controls) ##
 > ### Inputs ###
 > -
@@ -2195,7 +2398,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ToolTipText Property (ActiveX Controls) method...
 >
-
+--->
+<!---
 ## <a id="Top Property"></a>Top Property ##
 > ### Inputs ###
 > -
@@ -2204,7 +2408,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Top Property method...
 >
-
+--->
+<!---
 ## <a id="TopIndex Property"></a>TopIndex Property ##
 > ### Inputs ###
 > -
@@ -2213,7 +2418,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TopIndex Property method...
 >
-
+--->
+<!---
 ## <a id="TopLine Property"></a>TopLine Property ##
 > ### Inputs ###
 > -
@@ -2222,7 +2428,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TopLine Property method...
 >
-
+--->
+<!---
 ## <a id="TopRow Property (MSHFlexGrid)"></a>TopRow Property (MSHFlexGrid) ##
 > ### Inputs ###
 > -
@@ -2231,7 +2438,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TopRow Property (MSHFlexGrid) method...
 >
-
+--->
+<!---
 ## <a id="TotalSize Property"></a>TotalSize Property ##
 > ### Inputs ###
 > -
@@ -2240,7 +2448,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TotalSize Property method...
 >
-
+--->
+<!---
 ## <a id="Track Property (Multimedia MCI Control)"></a>Track Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -2249,7 +2458,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Track Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="TrackDefault Property"></a>TrackDefault Property ##
 > ### Inputs ###
 > -
@@ -2258,7 +2468,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TrackDefault Property method...
 >
-
+--->
+<!---
 ## <a id="TrackLength Property (Multimedia MCI Control)"></a>TrackLength Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -2267,7 +2478,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TrackLength Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="TrackPosition Property (Multimedia MCI Control)"></a>TrackPosition Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -2276,7 +2488,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TrackPosition Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="Tracks Property (Multimedia MCI Control)"></a>Tracks Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -2285,7 +2498,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Tracks Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="TrailingForeColor Property"></a>TrailingForeColor Property ##
 > ### Inputs ###
 > -
@@ -2294,7 +2508,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TrailingForeColor Property method...
 >
-
+--->
+<!---
 ## <a id="Transactions Property (Remote Data)"></a>Transactions Property (Remote Data) ##
 > ### Inputs ###
 > -
@@ -2303,7 +2518,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Transactions Property (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="TrueValue Property"></a>TrueValue Property ##
 > ### Inputs ###
 > -
@@ -2312,7 +2528,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TrueValue Property method...
 >
-
+--->
+<!---
 ## <a id="TwipsPerPixelX, TwipsPerPixelY Properties"></a>TwipsPerPixelX, TwipsPerPixelY Properties ##
 > ### Inputs ###
 > -
@@ -2321,7 +2538,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TwipsPerPixelX, TwipsPerPixelY Properties method...
 >
-
+--->
+<!---
 ## <a id="Type Property (DEDesigner Extensibility)"></a>Type Property (DEDesigner Extensibility) ##
 > ### Inputs ###
 > -
@@ -2330,7 +2548,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Type Property (DEDesigner Extensibility) method...
 >
-
+--->
+<!---
 ## <a id="Type Property (File Object, Folder Object)"></a>Type Property (File Object, Folder Object) ##
 > ### Inputs ###
 > -
@@ -2339,7 +2558,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Type Property (File Object, Folder Object) method...
 >
-
+--->
+<!---
 ## <a id="Type Property (Format Objects)"></a>Type Property (Format Objects) ##
 > ### Inputs ###
 > -
@@ -2348,7 +2568,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Type Property (Format Objects) method...
 >
-
+--->
+<!---
 ## <a id="Type Property (MSChart)"></a>Type Property (MSChart) ##
 > ### Inputs ###
 > -
@@ -2357,7 +2578,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Type Property (MSChart) method...
 >
-
+--->
+<!---
 ## <a id="Type Property (Picture)"></a>Type Property (Picture) ##
 > ### Inputs ###
 > -
@@ -2366,7 +2588,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Type Property (Picture) method...
 >
-
+--->
+<!---
 ## <a id="Type Property (Remote Data)"></a>Type Property (Remote Data) ##
 > ### Inputs ###
 > -
@@ -2375,7 +2598,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Type Property (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="Type Property (VBA Add-In Object Model)"></a>Type Property (VBA Add-In Object Model) ##
 > ### Inputs ###
 > -
@@ -2384,7 +2608,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Type Property (VBA Add-In Object Model) method...
 >
-
+--->
+<!---
 ## <a id="Paint Event"></a>Paint Event ##
 > ### Inputs ###
 > -
@@ -2393,7 +2618,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Paint Event method...
 >
-
+--->
+<!---
 ## <a id="PanelClick Event"></a>PanelClick Event ##
 > ### Inputs ###
 > -
@@ -2402,7 +2628,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PanelClick Event method...
 >
-
+--->
+<!---
 ## <a id="PanelDblClick Event"></a>PanelDblClick Event ##
 > ### Inputs ###
 > -
@@ -2411,7 +2638,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PanelDblClick Event method...
 >
-
+--->
+<!---
 ## <a id="PathChange Event"></a>PathChange Event ##
 > ### Inputs ###
 > -
@@ -2420,7 +2648,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PathChange Event method...
 >
-
+--->
+<!---
 ## <a id="PatternChange Event"></a>PatternChange Event ##
 > ### Inputs ###
 > -
@@ -2429,7 +2658,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PatternChange Event method...
 >
-
+--->
+<!---
 ## <a id="PlotActivated Event"></a>PlotActivated Event ##
 > ### Inputs ###
 > -
@@ -2438,7 +2668,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PlotActivated Event method...
 >
-
+--->
+<!---
 ## <a id="PlotSelected Event"></a>PlotSelected Event ##
 > ### Inputs ###
 > -
@@ -2447,7 +2678,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PlotSelected Event method...
 >
-
+--->
+<!---
 ## <a id="PlotUpdated Event"></a>PlotUpdated Event ##
 > ### Inputs ###
 > -
@@ -2456,7 +2688,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PlotUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="PointActivated Event"></a>PointActivated Event ##
 > ### Inputs ###
 > -
@@ -2465,7 +2698,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PointActivated Event method...
 >
-
+--->
+<!---
 ## <a id="PointLabelActivated Event"></a>PointLabelActivated Event ##
 > ### Inputs ###
 > -
@@ -2474,7 +2708,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PointLabelActivated Event method...
 >
-
+--->
+<!---
 ## <a id="PointLabelSelected Event"></a>PointLabelSelected Event ##
 > ### Inputs ###
 > -
@@ -2483,7 +2718,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PointLabelSelected Event method...
 >
-
+--->
+<!---
 ## <a id="PointLabelUpdated Event"></a>PointLabelUpdated Event ##
 > ### Inputs ###
 > -
@@ -2492,7 +2728,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PointLabelUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="PointSelected Event"></a>PointSelected Event ##
 > ### Inputs ###
 > -
@@ -2501,7 +2738,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PointSelected Event method...
 >
-
+--->
+<!---
 ## <a id="PointUpdated Event"></a>PointUpdated Event ##
 > ### Inputs ###
 > -
@@ -2510,7 +2748,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PointUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="PowerQuerySuspend Event"></a>PowerQuerySuspend Event ##
 > ### Inputs ###
 > -
@@ -2519,7 +2758,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PowerQuerySuspend Event method...
 >
-
+--->
+<!---
 ## <a id="PowerResume Event"></a>PowerResume Event ##
 > ### Inputs ###
 > -
@@ -2528,7 +2768,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PowerResume Event method...
 >
-
+--->
+<!---
 ## <a id="PowerStatusChanged Event"></a>PowerStatusChanged Event ##
 > ### Inputs ###
 > -
@@ -2537,7 +2778,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PowerStatusChanged Event method...
 >
-
+--->
+<!---
 ## <a id="PowerSuspend Event"></a>PowerSuspend Event ##
 > ### Inputs ###
 > -
@@ -2546,7 +2788,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PowerSuspend Event method...
 >
-
+--->
+<!---
 ## <a id="ProcessingTimeout Event"></a>ProcessingTimeout Event ##
 > ### Inputs ###
 > -
@@ -2555,7 +2798,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ProcessingTimeout Event method...
 >
-
+--->
+<!---
 ## <a id="ProcessTag Event"></a>ProcessTag Event ##
 > ### Inputs ###
 > -
@@ -2564,7 +2808,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ProcessTag Event method...
 >
-
+--->
+<!---
 ## <a id="QueryChangeConfig Event"></a>QueryChangeConfig Event ##
 > ### Inputs ###
 > -
@@ -2573,7 +2818,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The QueryChangeConfig Event method...
 >
-
+--->
+<!---
 ## <a id="QueryClose Event"></a>QueryClose Event ##
 > ### Inputs ###
 > -
@@ -2582,7 +2828,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The QueryClose Event method...
 >
-
+--->
+<!---
 ## <a id="QueryComplete Event"></a>QueryComplete Event ##
 > ### Inputs ###
 > -
@@ -2591,7 +2838,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The QueryComplete Event method...
 >
-
+--->
+<!---
 ## <a id="QueryCompleted Event (Remote Data)"></a>QueryCompleted Event (Remote Data) ##
 > ### Inputs ###
 > -
@@ -2600,7 +2848,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The QueryCompleted Event (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="QueryTimeout Event"></a>QueryTimeout Event ##
 > ### Inputs ###
 > -
@@ -2609,7 +2858,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The QueryTimeout Event method...
 >
-
+--->
+<!---
 ## <a id="QueryUnload Event"></a>QueryUnload Event ##
 > ### Inputs ###
 > -
@@ -2618,7 +2868,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The QueryUnload Event method...
 >
-
+--->
+<!---
 ## <a id="ReadProperties Event"></a>ReadProperties Event ##
 > ### Inputs ###
 > -
@@ -2627,7 +2878,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ReadProperties Event method...
 >
-
+--->
+<!---
 ## <a id="RepeatedControlLoaded, RepeatedControlUnloaded Events"></a>RepeatedControlLoaded, RepeatedControlUnloaded Events ##
 > ### Inputs ###
 > -
@@ -2636,7 +2888,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RepeatedControlLoaded, RepeatedControlUnloaded Events method...
 >
-
+--->
+<!---
 ## <a id="Reposition Event"></a>Reposition Event ##
 > ### Inputs ###
 > -
@@ -2645,7 +2898,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Reposition Event method...
 >
-
+--->
+<!---
 ## <a id="Reposition Event (Remote Data)"></a>Reposition Event (Remote Data) ##
 > ### Inputs ###
 > -
@@ -2654,7 +2908,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Reposition Event (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="RequestChangeFileName Event"></a>RequestChangeFileName Event ##
 > ### Inputs ###
 > -
@@ -2663,7 +2918,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RequestChangeFileName Event method...
 >
-
+--->
+<!---
 ## <a id="RequestWriteFile Event"></a>RequestWriteFile Event ##
 > ### Inputs ###
 > -
@@ -2672,7 +2928,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RequestWriteFile Event method...
 >
-
+--->
+<!---
 ## <a id="Resize Event"></a>Resize Event ##
 > ### Inputs ###
 > -
@@ -2681,7 +2938,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Resize Event method...
 >
-
+--->
+<!---
 ## <a id="Respond Event"></a>Respond Event ##
 > ### Inputs ###
 > -
@@ -2690,7 +2948,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Respond Event method...
 >
-
+--->
+<!---
 ## <a id="ResultsChanged Event"></a>ResultsChanged Event ##
 > ### Inputs ###
 > -
@@ -2699,7 +2958,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ResultsChanged Event method...
 >
-
+--->
+<!---
 ## <a id="RetainedProject Property"></a>RetainedProject Property ##
 > ### Inputs ###
 > -
@@ -2708,7 +2968,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RetainedProject Property method...
 >
-
+--->
+<!---
 ## <a id="RollbackTrans Event"></a>RollbackTrans Event ##
 > ### Inputs ###
 > -
@@ -2717,7 +2978,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RollbackTrans Event method...
 >
-
+--->
+<!---
 ## <a id="RowColChange Event"></a>RowColChange Event ##
 > ### Inputs ###
 > -
@@ -2726,7 +2988,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RowColChange Event method...
 >
-
+--->
+<!---
 ## <a id="RowColChange Event (MSHFlexGrid)"></a>RowColChange Event (MSHFlexGrid) ##
 > ### Inputs ###
 > -
@@ -2735,7 +2998,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RowColChange Event (MSHFlexGrid) method...
 >
-
+--->
+<!---
 ## <a id="RowCurrencyChange Event"></a>RowCurrencyChange Event ##
 > ### Inputs ###
 > -
@@ -2744,7 +3008,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RowCurrencyChange Event method...
 >
-
+--->
+<!---
 ## <a id="RowResize Event"></a>RowResize Event ##
 > ### Inputs ###
 > -
@@ -2753,7 +3018,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RowResize Event method...
 >
-
+--->
+<!---
 ## <a id="RowStatusChanged Event"></a>RowStatusChanged Event ##
 > ### Inputs ###
 > -
@@ -2762,7 +3028,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The RowStatusChanged Event method...
 >
-
+--->
+<!---
 ## <a id="Partition Function"></a>Partition Function ##
 > ### Inputs ###
 > -
@@ -2771,7 +3038,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Partition Function method...
 >
-
+--->
+<!---
 ## <a id="Pmt Function"></a>Pmt Function ##
 > ### Inputs ###
 > -
@@ -2780,7 +3048,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Pmt Function method...
 >
-
+--->
+<!---
 ## <a id="PPmt Function"></a>PPmt Function ##
 > ### Inputs ###
 > -
@@ -2789,7 +3058,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PPmt Function method...
 >
-
+--->
+<!---
 ## <a id="PV Function"></a>PV Function ##
 > ### Inputs ###
 > -
@@ -2798,7 +3068,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The PV Function method...
 >
-
+--->
+<!---
 ## <a id="Terminate Event"></a>Terminate Event ##
 > ### Inputs ###
 > -
@@ -2807,7 +3078,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Terminate Event method...
 >
-
+--->
+<!---
 ## <a id="TimeChanged Event"></a>TimeChanged Event ##
 > ### Inputs ###
 > -
@@ -2816,7 +3088,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TimeChanged Event method...
 >
-
+--->
+<!---
 ## <a id="Timer Event"></a>Timer Event ##
 > ### Inputs ###
 > -
@@ -2825,7 +3098,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Timer Event method...
 >
-
+--->
+<!---
 ## <a id="TitleActivated Event"></a>TitleActivated Event ##
 > ### Inputs ###
 > -
@@ -2834,7 +3108,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TitleActivated Event method...
 >
-
+--->
+<!---
 ## <a id="TitleSelected Event"></a>TitleSelected Event ##
 > ### Inputs ###
 > -
@@ -2843,7 +3118,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TitleSelected Event method...
 >
-
+--->
+<!---
 ## <a id="TitleUpdated Event"></a>TitleUpdated Event ##
 > ### Inputs ###
 > -
@@ -2852,7 +3128,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The TitleUpdated Event method...
 >
-
+--->
+<!---
 ## <a id="Name Property"></a>Name Property ##
 > ### Inputs ###
 > -
@@ -2861,7 +3138,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property method...
 >
-
+--->
+<!---
 ## <a id="Name Property (DEDesigner Extensibility)"></a>Name Property (DEDesigner Extensibility) ##
 > ### Inputs ###
 > -
@@ -2870,7 +3148,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property (DEDesigner Extensibility) method...
 >
-
+--->
+<!---
 ## <a id="Name Property (File Object, Folder Object)"></a>Name Property (File Object, Folder Object) ##
 > ### Inputs ###
 > -
@@ -2879,7 +3158,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property (File Object, Folder Object) method...
 >
-
+--->
+<!---
 ## <a id="Name Property (Remote Data)"></a>Name Property (Remote Data) ##
 > ### Inputs ###
 > -
@@ -2888,7 +3168,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="Name Property (SysInfo Control)"></a>Name Property (SysInfo Control) ##
 > ### Inputs ###
 > -
@@ -2897,7 +3178,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property (SysInfo Control) method...
 >
-
+--->
+<!---
 ## <a id="Name Property (VBA Add-In Object Model)"></a>Name Property (VBA Add-In Object Model) ##
 > ### Inputs ###
 > -
@@ -2906,7 +3188,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property (VBA Add-In Object Model) method...
 >
-
+--->
+<!---
 ## <a id="Name Property (VtFont)"></a>Name Property (VtFont) ##
 > ### Inputs ###
 > -
@@ -2915,7 +3198,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property (VtFont) method...
 >
-
+--->
+<!---
 ## <a id="Name Property (WebClass, WebItem)"></a>Name Property (WebClass, WebItem) ##
 > ### Inputs ###
 > -
@@ -2924,7 +3208,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Name Property (WebClass, WebItem) method...
 >
-
+--->
+<!---
 ## <a id="NameInURL Property"></a>NameInURL Property ##
 > ### Inputs ###
 > -
@@ -2933,7 +3218,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NameInURL Property method...
 >
-
+--->
+<!---
 ## <a id="Negotiate Property"></a>Negotiate Property ##
 > ### Inputs ###
 > -
@@ -2942,7 +3228,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Negotiate Property method...
 >
-
+--->
+<!---
 ## <a id="NegotiateMenus Property"></a>NegotiateMenus Property ##
 > ### Inputs ###
 > -
@@ -2951,7 +3238,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NegotiateMenus Property method...
 >
-
+--->
+<!---
 ## <a id="NegotiatePosition Property"></a>NegotiatePosition Property ##
 > ### Inputs ###
 > -
@@ -2960,7 +3248,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NegotiatePosition Property method...
 >
-
+--->
+<!---
 ## <a id="NegotiateToolbars Property"></a>NegotiateToolbars Property ##
 > ### Inputs ###
 > -
@@ -2969,7 +3258,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NegotiateToolbars Property method...
 >
-
+--->
+<!---
 ## <a id="NewIndex Property"></a>NewIndex Property ##
 > ### Inputs ###
 > -
@@ -2978,7 +3268,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NewIndex Property method...
 >
-
+--->
+<!---
 ## <a id="NewRow Property"></a>NewRow Property ##
 > ### Inputs ###
 > -
@@ -2987,7 +3278,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NewRow Property method...
 >
-
+--->
+<!---
 ## <a id="NewSession Property"></a>NewSession Property ##
 > ### Inputs ###
 > -
@@ -2996,7 +3288,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NewSession Property method...
 >
-
+--->
+<!---
 ## <a id="Next Property"></a>Next Property ##
 > ### Inputs ###
 > -
@@ -3005,7 +3298,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Next Property method...
 >
-
+--->
+<!---
 ## <a id="NextItem Property"></a>NextItem Property ##
 > ### Inputs ###
 > -
@@ -3014,7 +3308,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NextItem Property method...
 >
-
+--->
+<!---
 ## <a id="Nodes Property"></a>Nodes Property ##
 > ### Inputs ###
 > -
@@ -3023,7 +3318,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Nodes Property method...
 >
-
+--->
+<!---
 ## <a id="NonModalAllowed Property"></a>NonModalAllowed Property ##
 > ### Inputs ###
 > -
@@ -3032,7 +3328,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NonModalAllowed Property method...
 >
-
+--->
+<!---
 ## <a id="Notify Property (Multimedia MCI Control)"></a>Notify Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -3041,7 +3338,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Notify Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="NotifyMessage Property (Multimedia MCI Control)"></a>NotifyMessage Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -3050,7 +3348,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NotifyMessage Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="NotifyValue Property (Multimedia MCI Control)"></a>NotifyValue Property (Multimedia MCI Control) ##
 > ### Inputs ###
 > -
@@ -3059,7 +3358,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NotifyValue Property (Multimedia MCI Control) method...
 >
-
+--->
+<!---
 ## <a id="NullDiscard Property"></a>NullDiscard Property ##
 > ### Inputs ###
 > -
@@ -3068,7 +3368,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NullDiscard Property method...
 >
-
+--->
+<!---
 ## <a id="NullValue Property"></a>NullValue Property ##
 > ### Inputs ###
 > -
@@ -3077,7 +3378,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NullValue Property method...
 >
-
+--->
+<!---
 ## <a id="Number Property"></a>Number Property ##
 > ### Inputs ###
 > -
@@ -3086,7 +3388,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Number Property method...
 >
-
+--->
+<!---
 ## <a id="Number Property (Remote Data)"></a>Number Property (Remote Data) ##
 > ### Inputs ###
 > -
@@ -3095,7 +3398,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Number Property (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="NumberFormat Property"></a>NumberFormat Property ##
 > ### Inputs ###
 > -
@@ -3104,7 +3408,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NumberFormat Property method...
 >
-
+--->
+<!---
 ## <a id="NumericScale Property"></a>NumericScale Property ##
 > ### Inputs ###
 > -
@@ -3113,7 +3418,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NumericScale Property method...
 >
-
+--->
+<!---
 ## <a id="NumIndices Property"></a>NumIndices Property ##
 > ### Inputs ###
 > -
@@ -3122,7 +3428,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NumIndices Property method...
 >
-
+--->
+<!---
 ## <a id="NumIndices Property (VBA Add-In Object Model)"></a>NumIndices Property (VBA Add-In Object Model) ##
 > ### Inputs ###
 > -
@@ -3131,7 +3438,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The NumIndices Property (VBA Add-In Object Model) method...
 >
-
+--->
+<!---
 ## <a id="Validate Event"></a>Validate Event ##
 > ### Inputs ###
 > -
@@ -3140,7 +3448,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Validate Event method...
 >
-
+--->
+<!---
 ## <a id="Validate Event (Data Control)"></a>Validate Event (Data Control) ##
 > ### Inputs ###
 > -
@@ -3149,7 +3458,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Validate Event (Data Control) method...
 >
-
+--->
+<!---
 ## <a id="Validate Event (Remote Data)"></a>Validate Event (Remote Data) ##
 > ### Inputs ###
 > -
@@ -3158,7 +3468,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The Validate Event (Remote Data) method...
 >
-
+--->
+<!---
 ## <a id="ValidationError Event"></a>ValidationError Event ##
 > ### Inputs ###
 > -
@@ -3167,7 +3478,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The ValidationError Event method...
 >
-
+--->
+<!---
 ## <a id="VisibleRecordChanged Event"></a>VisibleRecordChanged Event ##
 > ### Inputs ###
 > -
@@ -3176,7 +3488,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The VisibleRecordChanged Event method...
 >
-
+--->
+<!---
 ## <a id="WillAssociate Event"></a>WillAssociate Event ##
 > ### Inputs ###
 > -
@@ -3185,7 +3498,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The WillAssociate Event method...
 >
-
+--->
+<!---
 ## <a id="WillChangeData Event"></a>WillChangeData Event ##
 > ### Inputs ###
 > -
@@ -3194,7 +3508,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The WillChangeData Event method...
 >
-
+--->
+<!---
 ## <a id="WillDissociate Event"></a>WillDissociate Event ##
 > ### Inputs ###
 > -
@@ -3203,7 +3518,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The WillDissociate Event method...
 >
-
+--->
+<!---
 ## <a id="WillExecute Event"></a>WillExecute Event ##
 > ### Inputs ###
 > -
@@ -3212,7 +3528,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The WillExecute Event method...
 >
-
+--->
+<!---
 ## <a id="WillUpdateRows Event"></a>WillUpdateRows Event ##
 > ### Inputs ###
 > -
@@ -3221,7 +3538,8 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The WillUpdateRows Event method...
 >
-
+--->
+<!---
 ## <a id="WriteProperties Event"></a>WriteProperties Event ##
 > ### Inputs ###
 > -
@@ -3230,4 +3548,4 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 > The WriteProperties Event method...
 >
-
+--->
