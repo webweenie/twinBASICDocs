@@ -5789,15 +5789,6 @@ Dim strMyText as String = Text1.text
 > Gets and sets the height or width, in pixels, of the object.
 > 
 
-## <a id="Height, Width Properties"></a>Height, Width Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
-> -
->
-> The Height, Width Properties method...
->
---->
 <!---
 ## <a id="Height, Width Properties (ActiveX Controls)"></a>Height, Width Properties (ActiveX Controls) ##
 > ### Inputs ###
