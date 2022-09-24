@@ -13,9 +13,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="AccessKeys Property"></a>AccessKeys Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AccessKeys Property method...
@@ -23,9 +21,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AccessType Property"></a>AccessType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AccessType Property method...
@@ -33,9 +29,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ACStatus Property"></a>ACStatus Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ACStatus Property method...
@@ -43,9 +37,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Action Property (CommonDialog)"></a>Action Property (CommonDialog) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Action Property (CommonDialog) method...
@@ -53,9 +45,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Action Property (MAPIMessages Control)"></a>Action Property (MAPIMessages Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Action Property (MAPIMessages Control) method...
@@ -63,9 +53,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Action Property (MAPISession Control)"></a>Action Property (MAPISession Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Action Property (MAPISession Control) method...
@@ -73,9 +61,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Action Property (OLE Container)"></a>Action Property (OLE Container) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Action Property (OLE Container) method...
@@ -83,9 +69,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveCodePane Property"></a>ActiveCodePane Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveCodePane Property method...
@@ -93,9 +77,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveConnection Property"></a>ActiveConnection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveConnection Property method...
@@ -103,9 +85,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveControl Property"></a>ActiveControl Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveControl Property method...
@@ -113,9 +93,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveForm Property"></a>ActiveForm Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveForm Property method...
@@ -123,9 +101,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveRow Property"></a>ActiveRow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveRow Property method...
@@ -133,9 +109,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveSeriesCount Property"></a>ActiveSeriesCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveSeriesCount Property method...
@@ -143,9 +117,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveVBProject Property"></a>ActiveVBProject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveVBProject Property method...
@@ -153,9 +125,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ActiveWindow Property"></a>ActiveWindow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ActiveWindow Property method...
@@ -163,9 +133,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AddIns Property"></a>AddIns Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AddIns Property method...
@@ -173,9 +141,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AddNewMode Property"></a>AddNewMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AddNewMode Property method...
@@ -183,9 +149,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AddressCaption Property"></a>AddressCaption Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AddressCaption Property method...
@@ -193,9 +157,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AddressEditFieldCount Property"></a>AddressEditFieldCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AddressEditFieldCount Property method...
@@ -203,9 +165,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AddressLabel Property"></a>AddressLabel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AddressLabel Property method...
@@ -213,9 +173,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AddressModifiable Property"></a>AddressModifiable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AddressModifiable Property method...
@@ -223,9 +181,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AddressResolveUI Property"></a>AddressResolveUI Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AddressResolveUI Property method...
@@ -233,9 +189,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AggregateOn Property"></a>AggregateOn Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AggregateOn Property method...
@@ -243,9 +197,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AggregateType Property"></a>AggregateType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AggregateType Property method...
@@ -253,9 +205,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Align Property"></a>Align Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Align Property method...
@@ -263,9 +213,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Alignable Property"></a>Alignable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Alignable Property method...
@@ -273,9 +221,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Alignment Property"></a>Alignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Alignment Property method...
@@ -283,9 +229,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Alignment Property (ColumnHeader Object)"></a>Alignment Property (ColumnHeader Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Alignment Property (ColumnHeader Object) method...
@@ -293,9 +237,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Alignment Property (HeaderItem, Panel Object)"></a>Alignment Property (HeaderItem, Panel Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Alignment Property (HeaderItem, Panel Object) method...
@@ -303,9 +245,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Alignment Property (UpDown Control)"></a>Alignment Property (UpDown Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Alignment Property (UpDown Control) method...
@@ -313,9 +253,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowAddNew Property"></a>AllowAddNew Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowAddNew Property method...
@@ -323,9 +261,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowArrows Property"></a>AllowArrows Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowArrows Property method...
@@ -333,9 +269,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowBigSelection Property"></a>AllowBigSelection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowBigSelection Property method...
@@ -343,9 +277,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowColumnReorder Property"></a>AllowColumnReorder Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowColumnReorder Property method...
@@ -353,9 +285,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowCustomize Property"></a>AllowCustomize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowCustomize Property method...
@@ -363,9 +293,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowDelete Property"></a>AllowDelete Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowDelete Property method...
@@ -373,9 +301,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowDithering Property"></a>AllowDithering Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowDithering Property method...
@@ -383,9 +309,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowDynamicRotation Property"></a>AllowDynamicRotation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowDynamicRotation Property method...
@@ -393,9 +317,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowFocus Property"></a>AllowFocus Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowFocus Property method...
@@ -403,9 +325,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowPrompt Property"></a>AllowPrompt Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowPrompt Property method...
@@ -413,9 +333,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowRowSizing Property"></a>AllowRowSizing Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowRowSizing Property method...
@@ -423,9 +341,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowSelections Property"></a>AllowSelections Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowSelections Property method...
@@ -433,9 +349,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowSeriesSelection Property"></a>AllowSeriesSelection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowSeriesSelection Property method...
@@ -443,9 +357,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowSizing Property"></a>AllowSizing Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowSizing Property method...
@@ -453,9 +365,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowUpdate Property"></a>AllowUpdate Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowUpdate Property method...
@@ -463,9 +373,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowUserResizing Property"></a>AllowUserResizing Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowUserResizing Property method...
@@ -473,9 +381,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowVertical Property (Band Object)"></a>AllowVertical Property (Band Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowVertical Property (Band Object) method...
@@ -483,9 +389,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AllowZeroLength Property (Remote Data)"></a>AllowZeroLength Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AllowZeroLength Property (Remote Data) method...
@@ -493,9 +397,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Ambient Property"></a>Ambient Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Ambient Property method...
@@ -503,9 +405,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AmbientIntensity Property"></a>AmbientIntensity Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AmbientIntensity Property method...
@@ -520,9 +420,7 @@ Dim strMyText as String = Text1.text
 > 
 <!---
 ## <a id="AngleUnit Property"></a>AngleUnit Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AngleUnit Property method...
@@ -530,9 +428,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="App Property"></a>App Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The App Property method...
@@ -548,9 +444,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Appearance Property (ActiveX Controls)"></a>Appearance Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Appearance Property (ActiveX Controls) method...
@@ -558,9 +452,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Appearance Property (FlatScrollBar Control)"></a>Appearance Property (FlatScrollBar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Appearance Property (FlatScrollBar Control) method...
@@ -568,9 +460,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AppIsRunning Property"></a>AppIsRunning Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AppIsRunning Property method...
@@ -578,9 +468,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Application Property (WebClass)"></a>Application Property (WebClass) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Application Property (WebClass) method...
@@ -588,9 +476,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ApproxCount Property"></a>ApproxCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ApproxCount Property method...
@@ -598,9 +484,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Archive, Hidden, Normal, System Properties"></a>Archive, Hidden, Normal, System Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Archive, Hidden, Normal, System Properties method...
@@ -608,9 +492,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Arrange Property (ListView Control)"></a>Arrange Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Arrange Property (ListView Control) method...
@@ -618,9 +500,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Arrows Property"></a>Arrows Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Arrows Property method...
@@ -628,9 +508,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AsyncCheckInterval Property (Remote Data)"></a>AsyncCheckInterval Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AsyncCheckInterval Property (Remote Data) method...
@@ -638,9 +516,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AsyncCount Property"></a>AsyncCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AsyncCount Property method...
@@ -648,9 +524,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AsyncLoad Property"></a>AsyncLoad Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AsyncLoad Property method...
@@ -658,9 +532,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AsyncType Property"></a>AsyncType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AsyncType Property method...
@@ -668,9 +540,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AtEndOfLine Property"></a>AtEndOfLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AtEndOfLine Property method...
@@ -678,9 +548,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AtEndOfStream Property"></a>AtEndOfStream Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AtEndOfStream Property method...
@@ -688,9 +556,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AttachmentCount Property"></a>AttachmentCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AttachmentCount Property method...
@@ -698,9 +564,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AttachmentIndex Property"></a>AttachmentIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AttachmentIndex Property method...
@@ -708,9 +572,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AttachmentName Property"></a>AttachmentName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AttachmentName Property method...
@@ -718,9 +580,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AttachmentPathName Property"></a>AttachmentPathName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AttachmentPathName Property method...
@@ -728,9 +588,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AttachmentPosition Property"></a>AttachmentPosition Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AttachmentPosition Property method...
@@ -738,9 +596,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AttachmentType Property"></a>AttachmentType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AttachmentType Property method...
@@ -748,9 +604,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Attributes Property"></a>Attributes Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Attributes Property method...
@@ -758,9 +612,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Attributes Property (DEDesigner Extensibility)"></a>Attributes Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Attributes Property (DEDesigner Extensibility) method...
@@ -768,9 +620,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Attributes Property (Remote Data)"></a>Attributes Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Attributes Property (Remote Data) method...
@@ -778,9 +628,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Auto Property (CategoryScale)"></a>Auto Property (CategoryScale) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Auto Property (CategoryScale) method...
@@ -788,9 +636,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Auto Property (Intersection)"></a>Auto Property (Intersection) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Auto Property (Intersection) method...
@@ -798,9 +644,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Auto Property (Label)"></a>Auto Property (Label) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Auto Property (Label) method...
@@ -808,9 +652,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Auto Property (SeriesMarker)"></a>Auto Property (SeriesMarker) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Auto Property (SeriesMarker) method...
@@ -818,9 +660,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Auto Property (ValueScale)"></a>Auto Property (ValueScale) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Auto Property (ValueScale) method...
@@ -828,9 +668,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoActivate Property"></a>AutoActivate Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoActivate Property method...
@@ -838,9 +676,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoBuddy Property"></a>AutoBuddy Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoBuddy Property method...
@@ -848,9 +684,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoEnable Property (Multimedia MCI Control)"></a>AutoEnable Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoEnable Property (Multimedia MCI Control) method...
@@ -858,9 +692,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoIncrement Property"></a>AutoIncrement Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoIncrement Property method...
@@ -868,9 +700,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoLayout Property"></a>AutoLayout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoLayout Property method...
@@ -878,9 +708,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Automatic Property"></a>Automatic Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Automatic Property method...
@@ -888,9 +716,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoPlay Property"></a>AutoPlay Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoPlay Property method...
@@ -898,9 +724,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoRedraw Property"></a>AutoRedraw Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoRedraw Property method...
@@ -908,9 +732,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoShowChildren Property"></a>AutoShowChildren Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoShowChildren Property method...
@@ -918,9 +740,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoSize Property"></a>AutoSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoSize Property method...
@@ -928,9 +748,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoSize Property (Panel Object)"></a>AutoSize Property (Panel Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoSize Property (Panel Object) method...
@@ -938,9 +756,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoTab Property"></a>AutoTab Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoTab Property method...
@@ -948,9 +764,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoVerbMenu Property"></a>AutoVerbMenu Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoVerbMenu Property method...
@@ -958,9 +772,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AutoVerbMenu Property (RichTextBox Control)"></a>AutoVerbMenu Property (RichTextBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AutoVerbMenu Property (RichTextBox Control) method...
@@ -968,9 +780,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AvailableSpace Property"></a>AvailableSpace Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AvailableSpace Property method...
@@ -978,9 +788,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Axis Property"></a>Axis Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Axis Property method...
@@ -988,9 +796,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AxisGrid Property"></a>AxisGrid Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AxisGrid Property method...
@@ -998,9 +804,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AxisId Property"></a>AxisId Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AxisId Property method...
@@ -1008,9 +812,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AxisScale Property"></a>AxisScale Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AxisScale Property method...
@@ -1018,9 +820,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="AxisTitle Property"></a>AxisTitle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The AxisTitle Property method...
@@ -1028,9 +828,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BackColor, BackColorBkg, BackColorFixed, BackColorSel Properties"></a>BackColor, BackColorBkg, BackColorFixed, BackColorSel Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BackColor, BackColorBkg, BackColorFixed, BackColorSel Properties method...
@@ -1049,9 +847,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="BackColor, ForeColor Properties (ActiveX Controls)"></a>BackColor, ForeColor Properties (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BackColor, ForeColor Properties (ActiveX Controls) method...
@@ -1059,9 +855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BackColorBand, BackColorHeader, BackColorIndent, BackColorUnpopulated Properties"></a>BackColorBand, BackColorHeader, BackColorIndent, BackColorUnpopulated Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BackColorBand, BackColorHeader, BackColorIndent, BackColorUnpopulated Properties method...
@@ -1069,9 +863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Backdrop Property"></a>Backdrop Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Backdrop Property method...
@@ -1079,9 +871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BackStyle Property"></a>BackStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BackStyle Property method...
@@ -1089,9 +879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BackStyle Property (Animation Control)"></a>BackStyle Property (Animation Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BackStyle Property (Animation Control) method...
@@ -1099,9 +887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BackStyle Property (UserControl Object)"></a>BackStyle Property (UserControl Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BackStyle Property (UserControl Object) method...
@@ -1109,9 +895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BandBorders Property"></a>BandBorders Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BandBorders Property method...
@@ -1119,9 +903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BandDisplay Property (MSHFlexGrid)"></a>BandDisplay Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BandDisplay Property (MSHFlexGrid) method...
@@ -1129,9 +911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BandExpandable Property (MSHFlexGrid)"></a>BandExpandable Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BandExpandable Property (MSHFlexGrid) method...
@@ -1139,9 +919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BandIndent Property (MSHFlexGrid)"></a>BandIndent Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BandIndent Property (MSHFlexGrid) method...
@@ -1149,9 +927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BandLevel Property (MSHFlexGrid)"></a>BandLevel Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BandLevel Property (MSHFlexGrid) method...
@@ -1159,9 +935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bands Property"></a>Bands Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bands Property method...
@@ -1169,9 +943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bands Property (MSHFlexGrid)"></a>Bands Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bands Property (MSHFlexGrid) method...
@@ -1179,9 +951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BarGap Property"></a>BarGap Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BarGap Property method...
@@ -1189,9 +959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BaseHeight Property"></a>BaseHeight Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BaseHeight Property method...
@@ -1199,9 +967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BaseWindow Property"></a>BaseWindow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BaseWindow Property method...
@@ -1209,9 +975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Basis Property"></a>Basis Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Basis Property method...
@@ -1219,9 +983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatchCollisionCount Property"></a>BatchCollisionCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatchCollisionCount Property method...
@@ -1229,9 +991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatchCollisionRows Property"></a>BatchCollisionRows Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatchCollisionRows Property method...
@@ -1239,9 +999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatchConflictValue Property"></a>BatchConflictValue Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatchConflictValue Property method...
@@ -1249,9 +1007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatchSize Property"></a>BatchSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatchSize Property method...
@@ -1259,9 +1015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatteryFullTime Property"></a>BatteryFullTime Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatteryFullTime Property method...
@@ -1269,9 +1023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatteryLifePercent Property"></a>BatteryLifePercent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatteryLifePercent Property method...
@@ -1279,9 +1031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatteryLifeTime Property"></a>BatteryLifeTime Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatteryLifeTime Property method...
@@ -1289,9 +1039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BatteryStatus Property"></a>BatteryStatus Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BatteryStatus Property method...
@@ -1299,9 +1047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bevel Property (Panel Object)"></a>Bevel Property (Panel Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bevel Property (Panel Object) method...
@@ -1309,9 +1055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bindable Property"></a>Bindable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bindable Property method...
@@ -1319,9 +1063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BindThreshold Property"></a>BindThreshold Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BindThreshold Property method...
@@ -1329,9 +1071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Blue Property"></a>Blue Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Blue Property method...
@@ -1339,9 +1079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BOF, EOF Properties (Remote Data)"></a>BOF, EOF Properties (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BOF, EOF Properties (Remote Data) method...
@@ -1349,9 +1087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BOFAction, EOFAction Properties"></a>BOFAction, EOFAction Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BOFAction, EOFAction Properties method...
@@ -1359,9 +1095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BOFAction, EOFAction Properties (Remote Data)"></a>BOFAction, EOFAction Properties (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BOFAction, EOFAction Properties (Remote Data) method...
@@ -1369,9 +1103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bold Property"></a>Bold Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bold Property method...
@@ -1379,9 +1111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bold Property (Windows Common Controls)"></a>Bold Property (Windows Common Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bold Property (Windows Common Controls) method...
@@ -1389,9 +1119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bookmark Property (DataGrid)"></a>Bookmark Property (DataGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bookmark Property (DataGrid) method...
@@ -1399,9 +1127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bookmark Property (Remote Data)"></a>Bookmark Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bookmark Property (Remote Data) method...
@@ -1409,9 +1135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Bookmarkable Property (Remote Data)"></a>Bookmarkable Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Bookmarkable Property (Remote Data) method...
@@ -1419,9 +1143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BorderColor Property"></a>BorderColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BorderColor Property method...
@@ -1429,9 +1151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BorderStyle Property"></a>BorderStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BorderStyle Property method...
@@ -1439,9 +1159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BorderStyle Property (ActiveX Controls)"></a>BorderStyle Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BorderStyle Property (ActiveX Controls) method...
@@ -1449,9 +1167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BorderWidth Property"></a>BorderWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BorderWidth Property method...
@@ -1459,9 +1175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BottomMargin, TopMargin Properties"></a>BottomMargin, TopMargin Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BottomMargin, TopMargin Properties method...
@@ -1469,9 +1183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BoundColumn Property"></a>BoundColumn Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BoundColumn Property method...
@@ -1479,9 +1191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BoundText Property"></a>BoundText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BoundText Property method...
@@ -1489,9 +1199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Break Property"></a>Break Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Break Property method...
@@ -1499,9 +1207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Browsable Property"></a>Browsable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Browsable Property method...
@@ -1509,9 +1215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BrowserType Property"></a>BrowserType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BrowserType Property method...
@@ -1519,9 +1223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Brush Property"></a>Brush Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Brush Property method...
@@ -1529,9 +1231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BuddyControl Property"></a>BuddyControl Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BuddyControl Property method...
@@ -1539,9 +1239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BuddyProperty Property"></a>BuddyProperty Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BuddyProperty Property method...
@@ -1549,9 +1247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BuildFile Property"></a>BuildFile Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BuildFile Property method...
@@ -1559,9 +1255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BuildFileName Property"></a>BuildFileName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BuildFileName Property method...
@@ -1569,9 +1263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BuiltIn Property"></a>BuiltIn Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BuiltIn Property method...
@@ -1579,9 +1271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BulletIndent Property"></a>BulletIndent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BulletIndent Property method...
@@ -1589,9 +1279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Button Property (Column Object)"></a>Button Property (Column Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Button Property (Column Object) method...
@@ -1599,9 +1287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ButtonEnabled Property (Multimedia MCI Control)"></a>ButtonEnabled Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ButtonEnabled Property (Multimedia MCI Control) method...
@@ -1609,9 +1295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ButtonHeight, ButtonWidth Properties"></a>ButtonHeight, ButtonWidth Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ButtonHeight, ButtonWidth Properties method...
@@ -1619,9 +1303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ButtonMenus Property"></a>ButtonMenus Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ButtonMenus Property method...
@@ -1629,9 +1311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Buttons Property"></a>Buttons Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Buttons Property method...
@@ -1639,9 +1319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ButtonVisible Property (Multimedia MCI Control)"></a>ButtonVisible Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ButtonVisible Property (Multimedia MCI Control) method...
@@ -1649,9 +1327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BytesMax Property"></a>BytesMax Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BytesMax Property method...
@@ -1659,9 +1335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BytesRead Property"></a>BytesRead Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BytesRead Property method...
@@ -1669,9 +1343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="BytesReceived Property"></a>BytesReceived Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The BytesReceived Property method...
@@ -1679,9 +1351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CacheSize Property"></a>CacheSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CacheSize Property method...
@@ -1689,9 +1359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Calendar Property"></a>Calendar Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Calendar Property method...
@@ -1699,9 +1367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CalendarBackColor, CalendarForeColor Properties"></a>CalendarBackColor, CalendarForeColor Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CalendarBackColor, CalendarForeColor Properties method...
@@ -1709,9 +1375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CalendarTitleBackColor, CalendarTitleForeColor Properties"></a>CalendarTitleBackColor, CalendarTitleForeColor Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CalendarTitleBackColor, CalendarTitleForeColor Properties method...
@@ -1719,9 +1383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CalendarTrailingForeColor Property"></a>CalendarTrailingForeColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CalendarTrailingForeColor Property method...
@@ -1729,9 +1391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CallSyntax Property"></a>CallSyntax Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CallSyntax Property method...
@@ -1739,9 +1399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Cancel Property"></a>Cancel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Cancel Property method...
@@ -1749,9 +1407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CancelError Property"></a>CancelError Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CancelError Property method...
@@ -1759,9 +1415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CanEject Property (Multimedia MCI Control)"></a>CanEject Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CanEject Property (Multimedia MCI Control) method...
@@ -1769,9 +1423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CanGetFocus Property"></a>CanGetFocus Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CanGetFocus Property method...
@@ -1779,9 +1431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CanGrow Property"></a>CanGrow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CanGrow Property method...
@@ -1789,9 +1439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CanPaste Property"></a>CanPaste Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CanPaste Property method...
@@ -1799,9 +1447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CanPlay Property (Multimedia MCI Control)"></a>CanPlay Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CanPlay Property (Multimedia MCI Control) method...
@@ -1809,9 +1455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CanRecord Property (Multimedia MCI Control)"></a>CanRecord Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CanRecord Property (Multimedia MCI Control) method...
@@ -1819,9 +1463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CanStep Property (Multimedia MCI Control)"></a>CanStep Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CanStep Property (Multimedia MCI Control) method...
@@ -1829,9 +1471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Cap Property"></a>Cap Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Cap Property method...
@@ -1847,9 +1487,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Caption Property (ActiveX Controls)"></a>Caption Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Caption Property (ActiveX Controls) method...
@@ -1857,9 +1495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Caption Property (Band Object)"></a>Caption Property (Band Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Caption Property (Band Object) method...
@@ -1867,9 +1503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Caption Property (DataGrid Control, Column Object)"></a>Caption Property (DataGrid Control, Column Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Caption Property (DataGrid Control, Column Object) method...
@@ -1877,9 +1511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Caption Property (DEDesigner Extensibility)"></a>Caption Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Caption Property (DEDesigner Extensibility) method...
@@ -1887,9 +1519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Caption Property (Tab Object)"></a>Caption Property (Tab Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Caption Property (Tab Object) method...
@@ -1897,9 +1527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Caption Property (VBA Add-In Object Model)"></a>Caption Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Caption Property (VBA Add-In Object Model) method...
@@ -1907,9 +1535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CaptionStyle Property"></a>CaptionStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CaptionStyle Property method...
@@ -1917,9 +1543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Category Property"></a>Category Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Category Property method...
@@ -1927,9 +1551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CategoryScale Property"></a>CategoryScale Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CategoryScale Property method...
@@ -1937,9 +1559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CausesValidation Property"></a>CausesValidation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CausesValidation Property method...
@@ -1947,9 +1567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CDHolding Property"></a>CDHolding Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CDHolding Property method...
@@ -1957,9 +1575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellAlignment Property"></a>CellAlignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellAlignment Property method...
@@ -1967,9 +1583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellBackColor, CellForeColor Properties"></a>CellBackColor, CellForeColor Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellBackColor, CellForeColor Properties method...
@@ -1977,9 +1591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellFontBold Property"></a>CellFontBold Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellFontBold Property method...
@@ -1987,9 +1599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellFontItalic Property"></a>CellFontItalic Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellFontItalic Property method...
@@ -1997,9 +1607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellFontName Property"></a>CellFontName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellFontName Property method...
@@ -2007,9 +1615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellFontSize Property"></a>CellFontSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellFontSize Property method...
@@ -2017,9 +1623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellFontStrikeThrough Property"></a>CellFontStrikeThrough Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellFontStrikeThrough Property method...
@@ -2027,9 +1631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellFontUnderline Property"></a>CellFontUnderline Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellFontUnderline Property method...
@@ -2037,9 +1639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellFontWidth Property"></a>CellFontWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellFontWidth Property method...
@@ -2047,9 +1647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellHeight, CellLeft, CellTop, CellWidth Properties (MSHFlexGrid)"></a>CellHeight, CellLeft, CellTop, CellWidth Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellHeight, CellLeft, CellTop, CellWidth Properties (MSHFlexGrid) method...
@@ -2057,9 +1655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellHeight, CellWidth Properties (PictureClip Control)"></a>CellHeight, CellWidth Properties (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellHeight, CellWidth Properties (PictureClip Control) method...
@@ -2067,9 +1663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellPicture Property"></a>CellPicture Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellPicture Property method...
@@ -2077,9 +1671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellPictureAlignment Property"></a>CellPictureAlignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellPictureAlignment Property method...
@@ -2087,9 +1679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellTextStyle Property"></a>CellTextStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellTextStyle Property method...
@@ -2097,9 +1687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CellType Property (MSHFlexGrid)"></a>CellType Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CellType Property (MSHFlexGrid) method...
@@ -2107,9 +1695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Center Property"></a>Center Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Center Property method...
@@ -2117,9 +1703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Changed Property"></a>Changed Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Changed Property method...
@@ -2127,9 +1711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Charset Property"></a>Charset Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Charset Property method...
@@ -2137,9 +1719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Chart3d Property"></a>Chart3d Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Chart3d Property method...
@@ -2147,9 +1727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ChartData Property"></a>ChartData Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ChartData Property method...
@@ -2157,9 +1735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ChartType Property"></a>ChartType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ChartType Property method...
@@ -2167,9 +1743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CheckBox Property"></a>CheckBox Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CheckBox Property method...
@@ -2177,9 +1751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Checkboxes Property"></a>Checkboxes Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Checkboxes Property method...
@@ -2187,9 +1759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Checked Property"></a>Checked Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Checked Property method...
@@ -2197,9 +1767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Checked Property (Windows Common Controls)"></a>Checked Property (Windows Common Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Checked Property (Windows Common Controls) method...
@@ -2207,9 +1775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Child Property (Band Object)"></a>Child Property (Band Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Child Property (Band Object) method...
@@ -2217,9 +1783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Child Property (Node Object)"></a>Child Property (Node Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Child Property (Node Object) method...
@@ -2227,9 +1791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ChildComparison Property"></a>ChildComparison Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ChildComparison Property method...
@@ -2237,9 +1799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ChildCondition Property"></a>ChildCondition Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ChildCondition Property method...
@@ -2247,9 +1807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Children Property"></a>Children Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Children Property method...
@@ -2257,9 +1815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ChunkRequired Property (Remote Data)"></a>ChunkRequired Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ChunkRequired Property (Remote Data) method...
@@ -2267,9 +1823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Class Property"></a>Class Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Class Property method...
@@ -2277,9 +1831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Class Property (OLEObject Object)"></a>Class Property (OLEObject Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Class Property (OLEObject Object) method...
@@ -2287,9 +1839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClassName Property"></a>ClassName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClassName Property method...
@@ -2297,9 +1847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClientHeight, ClientWidth, ClientLeft, ClientTop Properties"></a>ClientHeight, ClientWidth, ClientLeft, ClientTop Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClientHeight, ClientWidth, ClientLeft, ClientTop Properties method...
@@ -2307,9 +1855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Clip Property (MSHFlexGrid)"></a>Clip Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Clip Property (MSHFlexGrid) method...
@@ -2317,9 +1863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Clip Property (PictureClip Control)"></a>Clip Property (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Clip Property (PictureClip Control) method...
@@ -2327,9 +1871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipBehavior Property"></a>ClipBehavior Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipBehavior Property method...
@@ -2337,9 +1879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Clipboard Property"></a>Clipboard Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Clipboard Property method...
@@ -2347,9 +1887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipControls Property"></a>ClipControls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipControls Property method...
@@ -2357,9 +1895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipHeight Property (PictureClip Control)"></a>ClipHeight Property (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipHeight Property (PictureClip Control) method...
@@ -2367,9 +1903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipMode Property"></a>ClipMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipMode Property method...
@@ -2377,9 +1911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipText Property"></a>ClipText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipText Property method...
@@ -2387,9 +1919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipWidth Property (PictureClip Control)"></a>ClipWidth Property (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipWidth Property (PictureClip Control) method...
@@ -2397,9 +1927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipX Property (PictureClip Control)"></a>ClipX Property (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipX Property (PictureClip Control) method...
@@ -2407,9 +1935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ClipY Property (PictureClip Control)"></a>ClipY Property (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ClipY Property (PictureClip Control) method...
@@ -2417,9 +1943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Clockwise Property"></a>Clockwise Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Clockwise Property method...
@@ -2427,9 +1951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CodeLocation Property"></a>CodeLocation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CodeLocation Property method...
@@ -2437,9 +1959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CodeModule Property"></a>CodeModule Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CodeModule Property method...
@@ -2447,9 +1967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CodePane Property"></a>CodePane Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CodePane Property method...
@@ -2457,9 +1975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CodePanes Property"></a>CodePanes Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CodePanes Property method...
@@ -2467,9 +1983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CodePaneView Property"></a>CodePaneView Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CodePaneView Property method...
@@ -2477,9 +1991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Col, Row Properties (MSHFlexGrid)"></a>Col, Row Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Col, Row Properties (MSHFlexGrid) method...
@@ -2487,9 +1999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColAlignment, ColAlignmentBand, ColAlignmentHeader Properties (MSHFlexGrid)"></a>ColAlignment, ColAlignmentBand, ColAlignmentHeader Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColAlignment, ColAlignmentBand, ColAlignmentHeader Properties (MSHFlexGrid) method...
@@ -2497,9 +2007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColAlignmentFixed Property"></a>ColAlignmentFixed Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColAlignmentFixed Property method...
@@ -2507,9 +2015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColData, RowData, BandData Properties (MSHFlexGrid)"></a>ColData, RowData, BandData Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColData, RowData, BandData Properties (MSHFlexGrid) method...
@@ -2517,9 +2023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColHeader Property (MSHFlexGrid)"></a>ColHeader Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColHeader Property (MSHFlexGrid) method...
@@ -2527,9 +2031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColHeaderCaption Property (MSHFlexGrid)"></a>ColHeaderCaption Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColHeaderCaption Property (MSHFlexGrid) method...
@@ -2537,9 +2039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColIndex Property"></a>ColIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColIndex Property method...
@@ -2547,9 +2047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColIsVisible Property"></a>ColIsVisible Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColIsVisible Property method...
@@ -2557,9 +2055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Collection Property"></a>Collection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Collection Property method...
@@ -2567,9 +2063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Color Property"></a>Color Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Color Property method...
@@ -2577,9 +2071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColorMode Property"></a>ColorMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColorMode Property method...
@@ -2587,9 +2079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColPos Property"></a>ColPos Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColPos Property method...
@@ -2597,9 +2087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColPosition, RowPosition Properties"></a>ColPosition, RowPosition Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColPosition, RowPosition Properties method...
@@ -2607,9 +2095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Cols, Rows Properties (MSHFlexGrid)"></a>Cols, Rows Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Cols, Rows Properties (MSHFlexGrid) method...
@@ -2617,9 +2103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Cols, Rows Properties (PictureClip Control)"></a>Cols, Rows Properties (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Cols, Rows Properties (PictureClip Control) method...
@@ -2627,9 +2111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColSel, RowSel Properties"></a>ColSel, RowSel Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColSel, RowSel Properties method...
@@ -2637,9 +2119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Column Property"></a>Column Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Column Property method...
@@ -2647,9 +2127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Column Property (MSChart Control)"></a>Column Property (MSChart Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Column Property (MSChart Control) method...
@@ -2657,9 +2135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnCount Property"></a>ColumnCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnCount Property method...
@@ -2667,9 +2143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnHeaderIcons Property"></a>ColumnHeaderIcons Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnHeaderIcons Property method...
@@ -2677,9 +2151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnHeaders Property"></a>ColumnHeaders Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnHeaders Property method...
@@ -2687,9 +2159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnHeaders Property (ListView Control)"></a>ColumnHeaders Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnHeaders Property (ListView Control) method...
@@ -2697,9 +2167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnLabel Property (DataGrid Object)"></a>ColumnLabel Property (DataGrid Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnLabel Property (DataGrid Object) method...
@@ -2707,9 +2175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnLabel Property (MSChart)"></a>ColumnLabel Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnLabel Property (MSChart) method...
@@ -2717,9 +2183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnLabelCount Property"></a>ColumnLabelCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnLabelCount Property method...
@@ -2727,9 +2191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColumnLabelIndex Property"></a>ColumnLabelIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColumnLabelIndex Property method...
@@ -2737,9 +2199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Columns Property (DataGrid)"></a>Columns Property (DataGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Columns Property (DataGrid) method...
@@ -2747,9 +2207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Columns Property (ListBox)"></a>Columns Property (ListBox) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Columns Property (ListBox) method...
@@ -2757,9 +2215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ColWidth Property (MSHFlexGrid)"></a>ColWidth Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ColWidth Property (MSHFlexGrid) method...
@@ -2767,9 +2223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ComboItems Property"></a>ComboItems Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ComboItems Property method...
@@ -2777,9 +2231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Command Property (Multimedia MCI Control)"></a>Command Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Command Property (Multimedia MCI Control) method...
@@ -2787,9 +2239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommandBarEvents Property"></a>CommandBarEvents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommandBarEvents Property method...
@@ -2797,9 +2247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommandBars Property"></a>CommandBars Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommandBars Property method...
@@ -2807,9 +2255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommandText Property"></a>CommandText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommandText Property method...
@@ -2817,9 +2263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommandTimeout Property"></a>CommandTimeout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommandTimeout Property method...
@@ -2827,9 +2271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommandType Property"></a>CommandType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommandType Property method...
@@ -2837,9 +2279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Comments Property"></a>Comments Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Comments Property method...
@@ -2847,9 +2287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommEvent Property"></a>CommEvent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommEvent Property method...
@@ -2857,9 +2295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommID Property"></a>CommID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommID Property method...
@@ -2867,9 +2303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CommPort Property"></a>CommPort Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CommPort Property method...
@@ -2877,9 +2311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CompanyName Property"></a>CompanyName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CompanyName Property method...
@@ -2887,9 +2319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CompareMode Property"></a>CompareMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CompareMode Property method...
@@ -2897,9 +2327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CompatibleOLEServer Property"></a>CompatibleOLEServer Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CompatibleOLEServer Property method...
@@ -2907,9 +2335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Component Property"></a>Component Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Component Property method...
@@ -2917,9 +2343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CompositeColumnLabel Property"></a>CompositeColumnLabel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CompositeColumnLabel Property method...
@@ -2927,9 +2351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CompositeRowLabel Property"></a>CompositeRowLabel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CompositeRowLabel Property method...
@@ -2937,9 +2359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Connect Property"></a>Connect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Connect Property method...
@@ -2947,9 +2367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Connect Property (Remote Data)"></a>Connect Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Connect Property (Remote Data) method...
@@ -2957,9 +2375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Connection Property (Remote Data)"></a>Connection Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Connection Property (Remote Data) method...
@@ -2967,9 +2383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ConnectionName Property"></a>ConnectionName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ConnectionName Property method...
@@ -2977,9 +2391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ConnectionSource Property"></a>ConnectionSource Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ConnectionSource Property method...
@@ -2987,9 +2399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ConnectionTimeout Property"></a>ConnectionTimeout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ConnectionTimeout Property method...
@@ -2997,9 +2407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ContainedControls Property"></a>ContainedControls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ContainedControls Property method...
@@ -3007,9 +2415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ContainedVBControls Property"></a>ContainedVBControls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ContainedVBControls Property method...
@@ -3017,9 +2423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Container Property"></a>Container Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Container Property method...
@@ -3027,9 +2431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Container Property (Document Object)"></a>Container Property (Document Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Container Property (Document Object) method...
@@ -3037,9 +2439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ContainerHWnd Property"></a>ContainerHWnd Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ContainerHWnd Property method...
@@ -3047,9 +2447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Contents Property"></a>Contents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Contents Property method...
@@ -3057,9 +2455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ContinuousScroll Property"></a>ContinuousScroll Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ContinuousScroll Property method...
@@ -3067,9 +2463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Control Property"></a>Control Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Control Property method...
@@ -3077,9 +2471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ControlBox Property"></a>ControlBox Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ControlBox Property method...
@@ -3087,9 +2479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ControlContainer Property"></a>ControlContainer Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ControlContainer Property method...
@@ -3097,9 +2487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ControlObject Property"></a>ControlObject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ControlObject Property method...
@@ -3107,9 +2495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Controls Property"></a>Controls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Controls Property method...
@@ -3117,9 +2503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Controls Property (Toolbar Control)"></a>Controls Property (Toolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Controls Property (Toolbar Control) method...
@@ -3127,9 +2511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ControlType Property"></a>ControlType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ControlType Property method...
@@ -3137,9 +2519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Copies Property"></a>Copies Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Copies Property method...
@@ -3147,9 +2527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Count Property"></a>Count Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Count Property method...
@@ -3157,9 +2535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Count Property (ActiveX Controls)"></a>Count Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Count Property (ActiveX Controls) method...
@@ -3167,9 +2543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Count Property (DEDesigner Extensibility)"></a>Count Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Count Property (DEDesigner Extensibility) method...
@@ -3177,9 +2551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Count Property (FileSystem Object)"></a>Count Property (FileSystem Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Count Property (FileSystem Object) method...
@@ -3187,9 +2559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Count Property (VB Collections)"></a>Count Property (VB Collections) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Count Property (VB Collections) method...
@@ -3197,9 +2567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Count Property (VBA Add-In Object Model)"></a>Count Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Count Property (VBA Add-In Object Model) method...
@@ -3207,9 +2575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CountOfDeclarationLines Property"></a>CountOfDeclarationLines Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CountOfDeclarationLines Property method...
@@ -3217,9 +2583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CountOfLines Property"></a>CountOfLines Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CountOfLines Property method...
@@ -3227,9 +2591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CountOfVisibleLines Property"></a>CountOfVisibleLines Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CountOfVisibleLines Property method...
@@ -3237,9 +2599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CTSHolding Property"></a>CTSHolding Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CTSHolding Property method...
@@ -3247,9 +2607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CurrentCellModified Property"></a>CurrentCellModified Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CurrentCellModified Property method...
@@ -3257,9 +2615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CurrentCellVisible Property"></a>CurrentCellVisible Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CurrentCellVisible Property method...
@@ -3267,9 +2623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CurrentRecord Property"></a>CurrentRecord Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CurrentRecord Property method...
@@ -3277,9 +2631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CurrentX, CurrentY Properties"></a>CurrentX, CurrentY Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CurrentX, CurrentY Properties method...
@@ -3287,9 +2639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CursorDriver Property (Remote Data)"></a>CursorDriver Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CursorDriver Property (Remote Data) method...
@@ -3297,9 +2647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CursorDriver, rdoDefaultCursorDriver Property Constants"></a>CursorDriver, rdoDefaultCursorDriver Property Constants ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CursorDriver, rdoDefaultCursorDriver Property Constants method...
@@ -3307,9 +2655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CursorLocation Property"></a>CursorLocation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CursorLocation Property method...
@@ -3317,9 +2663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CursorType Property"></a>CursorType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CursorType Property method...
@@ -3327,9 +2671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CursorType Property (DEDesigner Extensibility)"></a>CursorType Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CursorType Property (DEDesigner Extensibility) method...
@@ -3337,9 +2679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Custom Property"></a>Custom Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Custom Property method...
@@ -3347,9 +2687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="CustomFormat Property"></a>CustomFormat Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The CustomFormat Property method...
@@ -3357,9 +2695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Data Property"></a>Data Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Data Property method...
@@ -3367,9 +2703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Data Property (MSChart)"></a>Data Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Data Property (MSChart) method...
@@ -3377,9 +2711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Database Property"></a>Database Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Database Property method...
@@ -3387,9 +2719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DatabaseName Property"></a>DatabaseName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DatabaseName Property method...
@@ -3397,9 +2727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataBindingBehavior Property"></a>DataBindingBehavior Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataBindingBehavior Property method...
@@ -3407,9 +2735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataBindings Property"></a>DataBindings Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataBindings Property method...
@@ -3417,9 +2743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataChanged Property"></a>DataChanged Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataChanged Property method...
@@ -3427,9 +2751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataChanged Property (ActiveX Controls)"></a>DataChanged Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataChanged Property (ActiveX Controls) method...
@@ -3437,9 +2759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataChanged Property (DataGrid)"></a>DataChanged Property (DataGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataChanged Property (DataGrid) method...
@@ -3447,9 +2767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataField Property"></a>DataField Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataField Property method...
@@ -3457,9 +2775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataField Property (DataGrid Control, Column Object)"></a>DataField Property (DataGrid Control, Column Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataField Property (DataGrid Control, Column Object) method...
@@ -3467,9 +2783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataField Property (MSHFlexGrid)"></a>DataField Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataField Property (MSHFlexGrid) method...
@@ -3477,9 +2791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataField Property (RepeaterBinding Object)"></a>DataField Property (RepeaterBinding Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataField Property (RepeaterBinding Object) method...
@@ -3487,9 +2799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataFields Property"></a>DataFields Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataFields Property method...
@@ -3497,9 +2807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataFormat Property"></a>DataFormat Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataFormat Property method...
@@ -3507,9 +2815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataFormat Property (RepeaterBinding Object)"></a>DataFormat Property (RepeaterBinding Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataFormat Property (RepeaterBinding Object) method...
@@ -3517,9 +2823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataFormats Property"></a>DataFormats Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataFormats Property method...
@@ -3527,9 +2831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataGrid Property"></a>DataGrid Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataGrid Property method...
@@ -3537,9 +2839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataMember Property"></a>DataMember Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataMember Property method...
@@ -3547,9 +2847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataMember Property (ActiveX Controls)"></a>DataMember Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataMember Property (ActiveX Controls) method...
@@ -3557,9 +2855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataMembers Property"></a>DataMembers Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataMembers Property method...
@@ -3567,9 +2863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataPointLabel Property"></a>DataPointLabel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataPointLabel Property method...
@@ -3577,9 +2871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataPoints Property"></a>DataPoints Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataPoints Property method...
@@ -3587,9 +2879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataSeriesInRow Property"></a>DataSeriesInRow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataSeriesInRow Property method...
@@ -3597,9 +2887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataSource Property"></a>DataSource Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataSource Property method...
@@ -3607,9 +2895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataSource Property (ActiveX Controls)"></a>DataSource Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataSource Property (ActiveX Controls) method...
@@ -3617,9 +2903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataSourceBehavior Property"></a>DataSourceBehavior Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataSourceBehavior Property method...
@@ -3627,9 +2911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataSourceName Property (Remote Data)"></a>DataSourceName Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataSourceName Property (Remote Data) method...
@@ -3637,9 +2919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DataText Property"></a>DataText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DataText Property method...
@@ -3647,9 +2927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DateCreated Property"></a>DateCreated Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DateCreated Property method...
@@ -3657,9 +2935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DateLastAccessed Property"></a>DateLastAccessed Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DateLastAccessed Property method...
@@ -3667,9 +2943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DateLastModified Property"></a>DateLastModified Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DateLastModified Property method...
@@ -3677,9 +2951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Day Property"></a>Day Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Day Property method...
@@ -3687,9 +2959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DayBold Property"></a>DayBold Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DayBold Property method...
@@ -3697,9 +2967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DayOfWeek Property"></a>DayOfWeek Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DayOfWeek Property method...
@@ -3707,9 +2975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DEAggregates Property"></a>DEAggregates Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DEAggregates Property method...
@@ -3717,9 +2983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DECommands Property"></a>DECommands Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DECommands Property method...
@@ -3727,9 +2991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DEConnections Property"></a>DEConnections Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DEConnections Property method...
@@ -3737,9 +2999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Default Property"></a>Default Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Default Property method...
@@ -3747,9 +3007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefaultBind Property"></a>DefaultBind Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefaultBind Property method...
@@ -3757,9 +3015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefaultCancel Property"></a>DefaultCancel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefaultCancel Property method...
@@ -3767,9 +3023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefaultCursorType Property (Data Control)"></a>DefaultCursorType Property (Data Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefaultCursorType Property (Data Control) method...
@@ -3777,9 +3031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefaultExt Property"></a>DefaultExt Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefaultExt Property method...
@@ -3787,9 +3039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefaultPercentBasis Property"></a>DefaultPercentBasis Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefaultPercentBasis Property method...
@@ -3797,9 +3047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefaultType Property (Data Control)"></a>DefaultType Property (Data Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefaultType Property (Data Control) method...
@@ -3807,9 +3055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefaultValue Property (DataGrid Control)"></a>DefaultValue Property (DataGrid Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefaultValue Property (DataGrid Control) method...
@@ -3817,9 +3063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefColWidth Property"></a>DefColWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefColWidth Property method...
@@ -3827,9 +3071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DEFields Property"></a>DEFields Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DEFields Property method...
@@ -3837,9 +3079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DefinedSize Property"></a>DefinedSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DefinedSize Property method...
@@ -3847,9 +3087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DEGroupingFields Property"></a>DEGroupingFields Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DEGroupingFields Property method...
@@ -3857,9 +3095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DEParameters Property"></a>DEParameters Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DEParameters Property method...
@@ -3867,9 +3103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DepthToHeightRatio Property"></a>DepthToHeightRatio Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DepthToHeightRatio Property method...
@@ -3877,9 +3111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DERelationConditions Property"></a>DERelationConditions Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DERelationConditions Property method...
@@ -3887,9 +3119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Description Property"></a>Description Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Description Property method...
@@ -3897,9 +3127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Description Property (VBA Add-In Object Model)"></a>Description Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Description Property (VBA Add-In Object Model) method...
@@ -3907,9 +3135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Description Property (Button Object)"></a>Description Property (Button Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Description Property (Button Object) method...
@@ -3917,9 +3143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Description Property (Remote Data)"></a>Description Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Description Property (Remote Data) method...
@@ -3927,9 +3151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Designer Property"></a>Designer Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Designer Property method...
@@ -3937,9 +3159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DesignerID Property"></a>DesignerID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DesignerID Property method...
@@ -3947,9 +3167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DesignPassword Property"></a>DesignPassword Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DesignPassword Property method...
@@ -3957,9 +3175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DesignPromptBehavior Property"></a>DesignPromptBehavior Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DesignPromptBehavior Property method...
@@ -3967,9 +3183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DesignSaveAuthentication Property"></a>DesignSaveAuthentication Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DesignSaveAuthentication Property method...
@@ -3977,9 +3191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DesignUserName Property"></a>DesignUserName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DesignUserName Property method...
@@ -3987,9 +3199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DeviceID Property (Multimedia MCI Control)"></a>DeviceID Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DeviceID Property (Multimedia MCI Control) method...
@@ -3997,9 +3207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DeviceName Property"></a>DeviceName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DeviceName Property method...
@@ -4007,9 +3215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DeviceType Property (Multimedia MCI Control)"></a>DeviceType Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DeviceType Property (Multimedia MCI Control) method...
@@ -4017,9 +3223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DHTMLEvent Property"></a>DHTMLEvent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DHTMLEvent Property method...
@@ -4027,9 +3231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DialogTitle Property"></a>DialogTitle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DialogTitle Property method...
@@ -4037,9 +3239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Direction Property (DEDesigner Extensibility)"></a>Direction Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Direction Property (DEDesigner Extensibility) method...
@@ -4047,9 +3247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Direction Property (Remote Data)"></a>Direction Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Direction Property (Remote Data) method...
@@ -4057,9 +3255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisabledImageList Property"></a>DisabledImageList Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisabledImageList Property method...
@@ -4067,9 +3263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisabledPicture Property"></a>DisabledPicture Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisabledPicture Property method...
@@ -4077,9 +3271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisableNoScroll Property"></a>DisableNoScroll Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisableNoScroll Property method...
@@ -4087,9 +3279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisableWarnings Property"></a>DisableWarnings Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisableWarnings Property method...
@@ -4097,9 +3287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisplayAsDefault Property"></a>DisplayAsDefault Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisplayAsDefault Property method...
@@ -4107,9 +3295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisplayBind Property"></a>DisplayBind Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisplayBind Property method...
@@ -4117,9 +3303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisplayModel Property"></a>DisplayModel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisplayModel Property method...
@@ -4127,9 +3311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisplayName Property"></a>DisplayName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisplayName Property method...
@@ -4137,9 +3319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisplayName Property (DEDesigner Extensibility)"></a>DisplayName Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisplayName Property (DEDesigner Extensibility) method...
@@ -4147,9 +3327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisplayType Property"></a>DisplayType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisplayType Property method...
@@ -4157,9 +3335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DisplayType Property (OLEObject Object)"></a>DisplayType Property (OLEObject Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DisplayType Property (OLEObject Object) method...
@@ -4167,9 +3343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DividerStyle Property"></a>DividerStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DividerStyle Property method...
@@ -4177,9 +3351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DivisionsPerLabel Property"></a>DivisionsPerLabel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DivisionsPerLabel Property method...
@@ -4187,9 +3359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DivisionsPerTick Property"></a>DivisionsPerTick Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DivisionsPerTick Property method...
@@ -4205,9 +3375,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Document Property"></a>Document Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Document Property method...
@@ -4215,9 +3383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Document Property (DHTMLPageDesigner)"></a>Document Property (DHTMLPageDesigner) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Document Property (DHTMLPageDesigner) method...
@@ -4225,9 +3391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DoSetCursor Property"></a>DoSetCursor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DoSetCursor Property method...
@@ -4235,9 +3399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DownloadMail Property"></a>DownloadMail Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DownloadMail Property method...
@@ -4245,9 +3407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DownPicture Property"></a>DownPicture Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DownPicture Property method...
@@ -4255,9 +3415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DragIcon Property"></a>DragIcon Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DragIcon Property method...
@@ -4265,9 +3423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DragMode Property"></a>DragMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DragMode Property method...
@@ -4275,9 +3431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DrawMode Property"></a>DrawMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DrawMode Property method...
@@ -4285,9 +3439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DrawMode Property (MSChart)"></a>DrawMode Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DrawMode Property (MSChart) method...
@@ -4295,9 +3447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DrawStyle Property"></a>DrawStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DrawStyle Property method...
@@ -4305,9 +3455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DrawWidth Property"></a>DrawWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DrawWidth Property method...
@@ -4315,9 +3463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Drive Property"></a>Drive Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Drive Property method...
@@ -4325,9 +3471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Drive Property (File Object, Folder Object)"></a>Drive Property (File Object, Folder Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Drive Property (File Object, Folder Object) method...
@@ -4335,9 +3479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DriveLetter Property"></a>DriveLetter Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DriveLetter Property method...
@@ -4345,9 +3487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DriverName Property"></a>DriverName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DriverName Property method...
@@ -4355,9 +3495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Drives Property"></a>Drives Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Drives Property method...
@@ -4365,9 +3503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DriveType Property"></a>DriveType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DriveType Property method...
@@ -4375,9 +3511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DropHighlight Property (ListView, TreeView Controls)"></a>DropHighlight Property (ListView, TreeView Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DropHighlight Property (ListView, TreeView Controls) method...
@@ -4385,9 +3519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DSRHolding Property"></a>DSRHolding Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DSRHolding Property method...
@@ -4395,9 +3527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="DTREnable Property"></a>DTREnable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The DTREnable Property method...
@@ -4405,9 +3535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Duplex Property"></a>Duplex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Duplex Property method...
@@ -4415,9 +3543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EdgeIntensity Property"></a>EdgeIntensity Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EdgeIntensity Property method...
@@ -4425,9 +3551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EdgePen Property"></a>EdgePen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EdgePen Property method...
@@ -4435,9 +3559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EdgeVisible Property"></a>EdgeVisible Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EdgeVisible Property method...
@@ -4445,9 +3567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EditActive Property"></a>EditActive Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EditActive Property method...
@@ -4455,9 +3575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EditAtDesignTime Property"></a>EditAtDesignTime Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EditAtDesignTime Property method...
@@ -4465,9 +3583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EditMode Property (Remote Data)"></a>EditMode Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EditMode Property (Remote Data) method...
@@ -4475,9 +3591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Effect Property"></a>Effect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Effect Property method...
@@ -4485,9 +3599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Elevation Property"></a>Elevation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Elevation Property method...
@@ -4495,9 +3607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EmbossHighlight Property"></a>EmbossHighlight Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EmbossHighlight Property method...
@@ -4505,9 +3615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EmbossPicture Property"></a>EmbossPicture Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EmbossPicture Property method...
@@ -4515,9 +3623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EmbossShadow Property"></a>EmbossShadow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EmbossShadow Property method...
@@ -4533,9 +3639,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Enabled Property (ActiveX Controls)"></a>Enabled Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Enabled Property (ActiveX Controls) method...
@@ -4543,9 +3647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Enabled Property (Multimedia MCI Control)"></a>Enabled Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Enabled Property (Multimedia MCI Control) method...
@@ -4553,9 +3655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Environment Property (Remote Data)"></a>Environment Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Environment Property (Remote Data) method...
@@ -4563,9 +3663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EOFEnable Property"></a>EOFEnable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EOFEnable Property method...
@@ -4573,9 +3671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Error Property (Multimedia MCI Control)"></a>Error Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Error Property (Multimedia MCI Control) method...
@@ -4583,9 +3679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Error Property (WebClass Object)"></a>Error Property (WebClass Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Error Property (WebClass Object) method...
@@ -4593,9 +3687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ErrorMessage Property (Multimedia MCI Control)"></a>ErrorMessage Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ErrorMessage Property (Multimedia MCI Control) method...
@@ -4603,9 +3695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ErrorNumber Property"></a>ErrorNumber Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ErrorNumber Property method...
@@ -4613,9 +3703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ErrorText Property"></a>ErrorText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ErrorText Property method...
@@ -4623,9 +3711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ErrorThreshold Property (Remote Data)"></a>ErrorThreshold Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ErrorThreshold Property (Remote Data) method...
@@ -4633,9 +3719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EventParameters Property (EventInfo Object)"></a>EventParameters Property (EventInfo Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EventParameters Property (EventInfo Object) method...
@@ -4643,9 +3727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Events Property"></a>Events Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Events Property method...
@@ -4653,9 +3735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EventsFrozen Property"></a>EventsFrozen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EventsFrozen Property method...
@@ -4663,9 +3743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Excluded Property"></a>Excluded Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Excluded Property method...
@@ -4673,9 +3751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Exclusive Property"></a>Exclusive Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Exclusive Property method...
@@ -4683,9 +3759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="EXEName Property"></a>EXEName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The EXEName Property method...
@@ -4693,9 +3767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Expanded Property"></a>Expanded Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Expanded Property method...
@@ -4703,9 +3775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ExpandedImage Property"></a>ExpandedImage Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ExpandedImage Property method...
@@ -4713,9 +3783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ExportFormats Property"></a>ExportFormats Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ExportFormats Property method...
@@ -4723,9 +3791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Extender Property"></a>Extender Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Extender Property method...
@@ -4733,9 +3799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FalseValue Property"></a>FalseValue Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FalseValue Property method...
@@ -4743,9 +3807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FetchMsgType Property"></a>FetchMsgType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FetchMsgType Property method...
@@ -4753,9 +3815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FetchSorted Property"></a>FetchSorted Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FetchSorted Property method...
@@ -4763,9 +3823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FetchUnreadOnly Property"></a>FetchUnreadOnly Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FetchUnreadOnly Property method...
@@ -4773,9 +3831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FieldToAggregate Property"></a>FieldToAggregate Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FieldToAggregate Property method...
@@ -4783,9 +3839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileControlEvents Property"></a>FileControlEvents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileControlEvents Property method...
@@ -4793,9 +3847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileCount Property"></a>FileCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileCount Property method...
@@ -4803,9 +3855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileDescription Property"></a>FileDescription Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileDescription Property method...
@@ -4813,9 +3863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileFilter Property"></a>FileFilter Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileFilter Property method...
@@ -4823,9 +3871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileFormatString Property"></a>FileFormatString Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileFormatString Property method...
@@ -4833,9 +3879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileName Property"></a>FileName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileName Property method...
@@ -4843,9 +3887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileName Property"></a>FileName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileName Property method...
@@ -4853,9 +3895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileName Property (Multimedia MCI Control)"></a>FileName Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileName Property (Multimedia MCI Control) method...
@@ -4863,9 +3903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileName Property (RichTextBox Control)"></a>FileName Property (RichTextBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileName Property (RichTextBox Control) method...
@@ -4873,9 +3911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileNames Property"></a>FileNames Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileNames Property method...
@@ -4883,9 +3919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileNumber Property"></a>FileNumber Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileNumber Property method...
@@ -4893,9 +3927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Files Property"></a>Files Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Files Property method...
@@ -4903,9 +3935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Files Property (Folder Object)"></a>Files Property (Folder Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Files Property (Folder Object) method...
@@ -4913,9 +3943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileSystem Property"></a>FileSystem Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileSystem Property method...
@@ -4923,9 +3951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FileTitle Property"></a>FileTitle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FileTitle Property method...
@@ -4933,9 +3959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Fill Property"></a>Fill Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Fill Property method...
@@ -4943,9 +3967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FillColor Property"></a>FillColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FillColor Property method...
@@ -4953,9 +3975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FillColor Property"></a>FillColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FillColor Property method...
@@ -4963,9 +3983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FillStyle Property"></a>FillStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FillStyle Property method...
@@ -4973,9 +3991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FillStyle Property (MSHFlexGrid)"></a>FillStyle Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FillStyle Property (MSHFlexGrid) method...
@@ -4983,9 +3999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Filter Property (CommonDialog)"></a>Filter Property (CommonDialog) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Filter Property (CommonDialog) method...
@@ -4993,9 +4007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FilterIndex Property"></a>FilterIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FilterIndex Property method...
@@ -5003,9 +4015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FirstDayOfWeek Property"></a>FirstDayOfWeek Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FirstDayOfWeek Property method...
@@ -5013,9 +4023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FirstRow Property"></a>FirstRow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FirstRow Property method...
@@ -5023,9 +4031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FirstSibling Property"></a>FirstSibling Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FirstSibling Property method...
@@ -5033,9 +4039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FirstWeekOfYear Property"></a>FirstWeekOfYear Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FirstWeekOfYear Property method...
@@ -5043,9 +4047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FixedBackground Property (Band Object)"></a>FixedBackground Property (Band Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FixedBackground Property (Band Object) method...
@@ -5053,9 +4055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FixedCols, FixedRows Properties (MSHFlexGrid)"></a>FixedCols, FixedRows Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FixedCols, FixedRows Properties (MSHFlexGrid) method...
@@ -5063,9 +4063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FixedOrder Property"></a>FixedOrder Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FixedOrder Property method...
@@ -5073,9 +4071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Flag Property"></a>Flag Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Flag Property method...
@@ -5083,9 +4079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Flags Property (All Common Dialogs)"></a>Flags Property (All Common Dialogs) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Flags Property (All Common Dialogs) method...
@@ -5093,9 +4087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Flags Property (Color Dialog)"></a>Flags Property (Color Dialog) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Flags Property (Color Dialog) method...
@@ -5103,9 +4095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Flags Property (Font Dialog)"></a>Flags Property (Font Dialog) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Flags Property (Font Dialog) method...
@@ -5113,9 +4103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Flags Property (Open, Save As Dialogs)"></a>Flags Property (Open, Save As Dialogs) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Flags Property (Open, Save As Dialogs) method...
@@ -5123,9 +4111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Flags Property (Print Dialog)"></a>Flags Property (Print Dialog) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Flags Property (Print Dialog) method...
@@ -5133,9 +4119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FlatScrollBar Property"></a>FlatScrollBar Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FlatScrollBar Property method...
@@ -5143,9 +4127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FocusRect Property"></a>FocusRect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FocusRect Property method...
@@ -5153,9 +4135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Font Property"></a>Font Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Font Property method...
@@ -5163,9 +4143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Font Property (ActiveX Controls)"></a>Font Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Font Property (ActiveX Controls) method...
@@ -5173,9 +4151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Font Property (MSChart)"></a>Font Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Font Property (MSChart) method...
@@ -5183,9 +4159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Font, FontBand, FontFixed, FontHeader Properties (MSHFlexGrid)"></a>Font, FontBand, FontFixed, FontHeader Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Font, FontBand, FontFixed, FontHeader Properties (MSHFlexGrid) method...
@@ -5193,9 +4167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontBold, FontItalic, FontStrikethru, FontUnderline Properties"></a>FontBold, FontItalic, FontStrikethru, FontUnderline Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontBold, FontItalic, FontStrikethru, FontUnderline Properties method...
@@ -5203,9 +4175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontCount Property"></a>FontCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontCount Property method...
@@ -5213,9 +4183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontName Property"></a>FontName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontName Property method...
@@ -5223,9 +4191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontName Property (ActiveX Controls)"></a>FontName Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontName Property (ActiveX Controls) method...
@@ -5233,9 +4199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Fonts Property"></a>Fonts Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Fonts Property method...
@@ -5243,9 +4207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontSize Property"></a>FontSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontSize Property method...
@@ -5253,9 +4215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontSize Property (ActiveX Controls)"></a>FontSize Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontSize Property (ActiveX Controls) method...
@@ -5263,9 +4223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontTransparent Property"></a>FontTransparent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontTransparent Property method...
@@ -5273,9 +4231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FontWidth, FontWidthBand, FontWidthFixed, FontWidthHeader Properties (MSHFlexGrid)"></a>FontWidth, FontWidthBand, FontWidthFixed, FontWidthHeader Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FontWidth, FontWidthBand, FontWidthFixed, FontWidthHeader Properties (MSHFlexGrid) method...
@@ -5283,9 +4239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Footnote Property"></a>Footnote Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Footnote Property method...
@@ -5293,9 +4247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FootnoteText Property"></a>FootnoteText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FootnoteText Property method...
@@ -5303,9 +4255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ForcePageBreak Property"></a>ForcePageBreak Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ForcePageBreak Property method...
@@ -5313,9 +4263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ForeColor, ForeColorBand, ForeColorFixed, ForeColorHeader, ForeColorSel Properties"></a>ForeColor, ForeColorBand, ForeColorFixed, ForeColorHeader, ForeColorSel Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ForeColor, ForeColorBand, ForeColorFixed, ForeColorHeader, ForeColorSel Properties method...
@@ -5323,9 +4271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Format Property (DateTimePicker Control)"></a>Format Property (DateTimePicker Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Format Property (DateTimePicker Control) method...
@@ -5333,9 +4279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Format Property (Label Object)"></a>Format Property (Label Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Format Property (Label Object) method...
@@ -5343,9 +4287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Format Property (OLE Container Control)"></a>Format Property (OLE Container Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Format Property (OLE Container Control) method...
@@ -5353,9 +4295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Format Property (Masked Edit Control)"></a>Format Property (Masked Edit Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Format Property (Masked Edit Control) method...
@@ -5363,9 +4303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Format Property (StdDataFormat Object)"></a>Format Property (StdDataFormat Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Format Property (StdDataFormat Object) method...
@@ -5373,9 +4311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FormatLength Property"></a>FormatLength Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FormatLength Property method...
@@ -5383,9 +4319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FormatString Property"></a>FormatString Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FormatString Property method...
@@ -5393,9 +4327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FormattedText Property"></a>FormattedText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FormattedText Property method...
@@ -5403,9 +4335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FormatType Property"></a>FormatType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FormatType Property method...
@@ -5413,9 +4343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Forms Property"></a>Forms Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Forms Property method...
@@ -5423,9 +4351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ForwardFocus Property"></a>ForwardFocus Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ForwardFocus Property method...
@@ -5433,9 +4359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Frame Property"></a>Frame Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Frame Property method...
@@ -5443,9 +4367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FrameColor Property"></a>FrameColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FrameColor Property method...
@@ -5453,9 +4375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Frames Property (Multimedia MCI Control)"></a>Frames Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Frames Property (Multimedia MCI Control) method...
@@ -5463,9 +4383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FreeSpace Property"></a>FreeSpace Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FreeSpace Property method...
@@ -5473,9 +4391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="From Property (Multimedia MCI Control)"></a>From Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The From Property (Multimedia MCI Control) method...
@@ -5483,9 +4399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FromPage, ToPage Properties"></a>FromPage, ToPage Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FromPage, ToPage Properties method...
@@ -5493,9 +4407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FullName Property"></a>FullName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FullName Property method...
@@ -5503,9 +4415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FullPath Property"></a>FullPath Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FullPath Property method...
@@ -5513,9 +4423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FullPath Property"></a>FullPath Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FullPath Property method...
@@ -5523,9 +4431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FullRowSelect Property"></a>FullRowSelect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FullRowSelect Property method...
@@ -5533,9 +4439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Function Property"></a>Function Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Function Property method...
@@ -5543,9 +4447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="FunctionType Property"></a>FunctionType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The FunctionType Property method...
@@ -5553,9 +4455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Ghosted Property"></a>Ghosted Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Ghosted Property method...
@@ -5563,9 +4463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GrandTotalName Property"></a>GrandTotalName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GrandTotalName Property method...
@@ -5573,9 +4471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GraphicCell Property (PictureClip Control)"></a>GraphicCell Property (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GraphicCell Property (PictureClip Control) method...
@@ -5583,9 +4479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Green Property"></a>Green Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Green Property method...
@@ -5593,9 +4487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GridColor Properties"></a>GridColor Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GridColor Properties method...
@@ -5603,9 +4495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GridLines Property (ListView Control)"></a>GridLines Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GridLines Property (ListView Control) method...
@@ -5613,9 +4503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GridLines Properties (MSHFlexGrid)"></a>GridLines Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GridLines Properties (MSHFlexGrid) method...
@@ -5623,9 +4511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GridLineWidth Property"></a>GridLineWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GridLineWidth Property method...
@@ -5633,9 +4519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GridLineWidth Properties (MSHFlexGrid)"></a>GridLineWidth Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GridLineWidth Properties (MSHFlexGrid) method...
@@ -5643,9 +4527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GridX, GridY Properties"></a>GridX, GridY Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GridX, GridY Properties method...
@@ -5653,9 +4535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GroupCommand Property"></a>GroupCommand Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GroupCommand Property method...
@@ -5663,9 +4543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GUID Property"></a>GUID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GUID Property method...
@@ -5673,9 +4551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="GuidelinePen Property"></a>GuidelinePen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The GuidelinePen Property method...
@@ -5683,9 +4559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Handle Property"></a>Handle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Handle Property method...
@@ -5693,9 +4567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Handshaking Property"></a>Handshaking Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Handshaking Property method...
@@ -5703,9 +4575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HasDC Property"></a>HasDC Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HasDC Property method...
@@ -5713,9 +4583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HasOpenDesigner Property"></a>HasOpenDesigner Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HasOpenDesigner Property method...
@@ -5723,9 +4591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hDbc Property (Remote Data)"></a>hDbc Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hDbc Property (Remote Data) method...
@@ -5733,9 +4599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hDC Property"></a>hDC Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hDC Property method...
@@ -5743,9 +4607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hDC Property (ActiveX Controls)"></a>hDC Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hDC Property (ActiveX Controls) method...
@@ -5753,9 +4615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HeadFont Property"></a>HeadFont Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HeadFont Property method...
@@ -5763,9 +4623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HeadLines Property"></a>HeadLines Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HeadLines Property method...
@@ -5773,9 +4631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Height Property (VBA Add-In Object Model)"></a>Height Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Height Property (VBA Add-In Object Model) method...
@@ -5791,9 +4647,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Height, Width Properties (ActiveX Controls)"></a>Height, Width Properties (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Height, Width Properties (ActiveX Controls) method...
@@ -5801,9 +4655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Height, Width Properties (PictureClip Control)"></a>Height, Width Properties (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Height, Width Properties (PictureClip Control) method...
@@ -5811,9 +4663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpCommand Property"></a>HelpCommand Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpCommand Property method...
@@ -5821,9 +4671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpContext Property"></a>HelpContext Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpContext Property method...
@@ -5831,9 +4679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpContext Property (CommonDialog)"></a>HelpContext Property (CommonDialog) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpContext Property (CommonDialog) method...
@@ -5841,9 +4687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpContext, HelpFile Properties (Remote Data)"></a>HelpContext, HelpFile Properties (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpContext, HelpFile Properties (Remote Data) method...
@@ -5851,9 +4695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpContextID Property"></a>HelpContextID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpContextID Property method...
@@ -5861,9 +4703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpContextID Property (Toolbar Control)"></a>HelpContextID Property (Toolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpContextID Property (Toolbar Control) method...
@@ -5871,9 +4711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpContextID Property (VBA Add-In Object Model)"></a>HelpContextID Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpContextID Property (VBA Add-In Object Model) method...
@@ -5881,9 +4719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpFile Property"></a>HelpFile Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpFile Property method...
@@ -5891,9 +4727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpFile Property (App, CommonDialog, MenuLine)"></a>HelpFile Property (App, CommonDialog, MenuLine) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpFile Property (App, CommonDialog, MenuLine) method...
@@ -5901,9 +4735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpFile Property (Toolbar Control)"></a>HelpFile Property (Toolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpFile Property (Toolbar Control) method...
@@ -5911,9 +4743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpFile Property (VBA Add-In Object Model)"></a>HelpFile Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpFile Property (VBA Add-In Object Model) method...
@@ -5921,9 +4751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HelpKey Property"></a>HelpKey Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HelpKey Property method...
@@ -5931,9 +4759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hEnv Property (Remote Data)"></a>hEnv Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hEnv Property (Remote Data) method...
@@ -5941,9 +4767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Hidden Property"></a>Hidden Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Hidden Property method...
@@ -5951,9 +4775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Hidden Property (MSChart)"></a>Hidden Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Hidden Property (MSChart) method...
@@ -5961,9 +4783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Hide Property"></a>Hide Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Hide Property method...
@@ -5971,9 +4791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HideColumnHeaders Property (ListView Control)"></a>HideColumnHeaders Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HideColumnHeaders Property (ListView Control) method...
@@ -5981,9 +4799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HideSelection Property"></a>HideSelection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HideSelection Property method...
@@ -5991,9 +4807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HideSelection Property (ActiveX Controls)"></a>HideSelection Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HideSelection Property (ActiveX Controls) method...
@@ -6001,9 +4815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HighLight Property (MSHFlexGrid)"></a>HighLight Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HighLight Property (MSHFlexGrid) method...
@@ -6011,9 +4823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HighLighted Property"></a>HighLighted Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HighLighted Property method...
@@ -6021,9 +4831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hImageList Property (ImageList Control)"></a>hImageList Property (ImageList Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hImageList Property (ImageList Control) method...
@@ -6031,9 +4839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hInstance Property"></a>hInstance Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hInstance Property method...
@@ -6041,9 +4847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hInternet Property"></a>hInternet Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hInternet Property method...
@@ -6051,9 +4855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HitBehavior Property"></a>HitBehavior Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HitBehavior Property method...
@@ -6061,9 +4863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HorzAlignment Property"></a>HorzAlignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HorzAlignment Property method...
@@ -6071,9 +4871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HostDataType Property"></a>HostDataType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HostDataType Property method...
@@ -6081,9 +4879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HostName Property"></a>HostName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HostName Property method...
@@ -6091,9 +4887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HotImageList Property"></a>HotImageList Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HotImageList Property method...
@@ -6101,9 +4895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HotTracking Property"></a>HotTracking Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HotTracking Property method...
@@ -6111,9 +4903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Hour Property"></a>Hour Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Hour Property method...
@@ -6121,9 +4911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HoverSelection Property"></a>HoverSelection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HoverSelection Property method...
@@ -6131,9 +4919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hPal Property"></a>hPal Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hPal Property method...
@@ -6141,9 +4927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="HScrollSmallChange, VScrollSmallChange Properties"></a>HScrollSmallChange, VScrollSmallChange Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The HScrollSmallChange, VScrollSmallChange Properties method...
@@ -6151,9 +4935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hStmt Property (Remote Data)"></a>hStmt Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hStmt Property (Remote Data) method...
@@ -6161,9 +4943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hWnd Property"></a>hWnd Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hWnd Property method...
@@ -6171,9 +4951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hWnd Property (ActiveX Controls)"></a>hWnd Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hWnd Property (ActiveX Controls) method...
@@ -6181,9 +4959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hWndDisplay Property (Multimedia MCI Control)"></a>hWndDisplay Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hWndDisplay Property (Multimedia MCI Control) method...
@@ -6191,9 +4967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="hWndEditor Property"></a>hWndEditor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The hWndEditor Property method...
@@ -6201,9 +4975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Hyperlink Property"></a>Hyperlink Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Hyperlink Property method...
@@ -6211,9 +4983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Icon Property"></a>Icon Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Icon Property method...
@@ -6221,9 +4991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Icon Property (Windows Common Controls)"></a>Icon Property (Windows Common Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Icon Property (Windows Common Controls) method...
@@ -6231,9 +4999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Icon, SmallIcon Properties (ListItem Object)"></a>Icon, SmallIcon Properties (ListItem Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Icon, SmallIcon Properties (ListItem Object) method...
@@ -6241,9 +5007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Icons, SmallIcons Properties"></a>Icons, SmallIcons Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Icons, SmallIcons Properties method...
@@ -6251,9 +5015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IconState Property"></a>IconState Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IconState Property method...
@@ -6261,9 +5023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ID Property"></a>ID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ID Property method...
@@ -6271,9 +5031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Image Property"></a>Image Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Image Property method...
@@ -6281,9 +5039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Image Property (ActiveX Controls)"></a>Image Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Image Property (ActiveX Controls) method...
@@ -6291,9 +5047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Image Property (Coolbar Control)"></a>Image Property (Coolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Image Property (Coolbar Control) method...
@@ -6301,9 +5055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ImageHeight, ImageWidth Properties"></a>ImageHeight, ImageWidth Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ImageHeight, ImageWidth Properties method...
@@ -6311,9 +5063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ImageList Property (ActiveX Controls)"></a>ImageList Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ImageList Property (ActiveX Controls) method...
@@ -6321,9 +5071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IMEMode Property"></a>IMEMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IMEMode Property method...
@@ -6331,9 +5079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="InBufferCount Property"></a>InBufferCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The InBufferCount Property method...
@@ -6341,9 +5087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="InBufferSize Property"></a>InBufferSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The InBufferSize Property method...
@@ -6351,9 +5095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Increment Property"></a>Increment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Increment Property method...
@@ -6361,9 +5103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Indentation Property"></a>Indentation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Indentation Property method...
@@ -6371,9 +5111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Index Property (ActiveX Controls)"></a>Index Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Index Property (ActiveX Controls) method...
@@ -6381,9 +5119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Index Property (Brush)"></a>Index Property (Brush) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Index Property (Brush) method...
@@ -6391,9 +5127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Index Property (Control Array)"></a>Index Property (Control Array) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Index Property (Control Array) method...
@@ -6401,9 +5135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Index Property (Intersection)"></a>Index Property (Intersection) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Index Property (Intersection) method...
@@ -6411,9 +5143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Index Property (Split Object)"></a>Index Property (Split Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Index Property (Split Object) method...
@@ -6421,9 +5151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IndexedValue Property"></a>IndexedValue Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IndexedValue Property method...
@@ -6431,9 +5159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IndexedValue Property (VBA Add-In Object Model)"></a>IndexedValue Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IndexedValue Property (VBA Add-In Object Model) method...
@@ -6441,9 +5167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="InitDir Property"></a>InitDir Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The InitDir Property method...
@@ -6451,9 +5175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Input Property"></a>Input Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Input Property method...
@@ -6461,9 +5183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="InputLen Property"></a>InputLen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The InputLen Property method...
@@ -6471,9 +5191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="InputMode Property"></a>InputMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The InputMode Property method...
@@ -6481,9 +5199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="InSelection Property"></a>InSelection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The InSelection Property method...
@@ -6491,9 +5207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Instancing Property"></a>Instancing Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Instancing Property method...
@@ -6501,9 +5215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IntegralHeight Property"></a>IntegralHeight Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IntegralHeight Property method...
@@ -6511,9 +5223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IntegralHeight Property (DataRepeater Control)"></a>IntegralHeight Property (DataRepeater Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IntegralHeight Property (DataRepeater Control) method...
@@ -6521,9 +5231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Intensity Property"></a>Intensity Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Intensity Property method...
@@ -6531,9 +5239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Intersection Property"></a>Intersection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Intersection Property method...
@@ -6541,9 +5247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Interval Property"></a>Interval Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Interval Property method...
@@ -6551,9 +5255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="InvisibleAtRuntime Property"></a>InvisibleAtRuntime Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The InvisibleAtRuntime Property method...
@@ -6561,9 +5263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IsBindable Property"></a>IsBindable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IsBindable Property method...
@@ -6571,9 +5271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IsBroken Property"></a>IsBroken Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IsBroken Property method...
@@ -6581,9 +5279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IsDataSource Property"></a>IsDataSource Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IsDataSource Property method...
@@ -6591,9 +5287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IsDirty Property"></a>IsDirty Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IsDirty Property method...
@@ -6601,9 +5295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IsReady Property"></a>IsReady Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IsReady Property method...
@@ -6611,9 +5303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="IsRootFolder Property"></a>IsRootFolder Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The IsRootFolder Property method...
@@ -6621,9 +5311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Italic Property"></a>Italic Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Italic Property method...
@@ -6631,9 +5319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Item Property"></a>Item Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Item Property method...
@@ -6641,9 +5327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Item Property (ActiveX Controls)"></a>Item Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Item Property (ActiveX Controls) method...
@@ -6651,9 +5335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Item Property (DEDesigner Extensibility)"></a>Item Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Item Property (DEDesigner Extensibility) method...
@@ -6661,9 +5343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Item Property (FileSystemObject Object)"></a>Item Property (FileSystemObject Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Item Property (FileSystemObject Object) method...
@@ -6671,9 +5351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Item Property (MSChart)"></a>Item Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Item Property (MSChart) method...
@@ -6681,9 +5359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Item Property (RDO)"></a>Item Property (RDO) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Item Property (RDO) method...
@@ -6691,9 +5367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ItemData Property"></a>ItemData Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ItemData Property method...
@@ -6701,9 +5375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Join Property"></a>Join Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Join Property method...
@@ -6711,9 +5383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="KeepTogether Property"></a>KeepTogether Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The KeepTogether Property method...
@@ -6721,9 +5391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Key Property"></a>Key Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Key Property method...
@@ -6731,9 +5399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Key Property (ActiveX Controls)"></a>Key Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Key Property (ActiveX Controls) method...
@@ -6741,9 +5407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Key Property (Dictionary Object)"></a>Key Property (Dictionary Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Key Property (Dictionary Object) method...
@@ -6751,9 +5415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="KeyColumn Property"></a>KeyColumn Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The KeyColumn Property method...
@@ -6761,9 +5423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="KeyPreview Property"></a>KeyPreview Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The KeyPreview Property method...
@@ -6771,9 +5431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="KeysetSize Property (Remote Data)"></a>KeysetSize Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The KeysetSize Property (Remote Data) method...
@@ -6781,9 +5439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LabelEdit Property"></a>LabelEdit Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LabelEdit Property method...
@@ -6791,9 +5447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LabelLevelCount Property"></a>LabelLevelCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LabelLevelCount Property method...
@@ -6801,9 +5455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Labels Property"></a>Labels Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Labels Property method...
@@ -6811,9 +5463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LabelsInsidePlot Property"></a>LabelsInsidePlot Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LabelsInsidePlot Property method...
@@ -6821,9 +5471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LabelTick Property"></a>LabelTick Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LabelTick Property method...
@@ -6831,9 +5479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LabelWrap Property (ListView Control)"></a>LabelWrap Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LabelWrap Property (ListView Control) method...
@@ -6841,9 +5487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LargeChange, SmallChange Properties"></a>LargeChange, SmallChange Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LargeChange, SmallChange Properties method...
@@ -6851,9 +5495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LargeChange, SmallChange Properties (ActiveX Controls)"></a>LargeChange, SmallChange Properties (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LargeChange, SmallChange Properties (ActiveX Controls) method...
@@ -6861,9 +5503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LastDLLError Property"></a>LastDLLError Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LastDLLError Property method...
@@ -6871,9 +5511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LastModified Property (Remote Data)"></a>LastModified Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LastModified Property (Remote Data) method...
@@ -6881,9 +5519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LastQueryResults Property"></a>LastQueryResults Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LastQueryResults Property method...
@@ -6891,9 +5527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LastSibling Property"></a>LastSibling Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LastSibling Property method...
@@ -6901,9 +5535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LastUsedPath Property"></a>LastUsedPath Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LastUsedPath Property method...
@@ -6911,9 +5543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LBound Property"></a>LBound Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LBound Property method...
@@ -6921,9 +5551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Left Property (VBA Add-In Object Model)"></a>Left Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Left Property (VBA Add-In Object Model) method...
@@ -6939,9 +5567,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Left, Top Properties (ActiveX Controls)"></a>Left, Top Properties (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Left, Top Properties (ActiveX Controls) method...
@@ -6949,9 +5575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LeftCol Property"></a>LeftCol Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LeftCol Property method...
@@ -6959,9 +5583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LeftCol Property (MSHFlexGrid)"></a>LeftCol Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LeftCol Property (MSHFlexGrid) method...
@@ -6969,9 +5591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LeftMargin, RightMargin Properties"></a>LeftMargin, RightMargin Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LeftMargin, RightMargin Properties method...
@@ -6979,9 +5599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LegalCopyright Property"></a>LegalCopyright Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LegalCopyright Property method...
@@ -6989,9 +5607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LegalTrademarks Property"></a>LegalTrademarks Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LegalTrademarks Property method...
@@ -6999,9 +5615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Legend Property"></a>Legend Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Legend Property method...
@@ -7009,9 +5623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LegendText Property"></a>LegendText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LegendText Property method...
@@ -7019,9 +5631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Length Property (MSChart)"></a>Length Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Length Property (MSChart) method...
@@ -7029,9 +5639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Length Property (Multimedia MCI Control)"></a>Length Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Length Property (Multimedia MCI Control) method...
@@ -7039,9 +5647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LicenseKey Property"></a>LicenseKey Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LicenseKey Property method...
@@ -7049,9 +5655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Licenses Property"></a>Licenses Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Licenses Property method...
@@ -7059,9 +5663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Light Property"></a>Light Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Light Property method...
@@ -7069,9 +5671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LightSources Property"></a>LightSources Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LightSources Property method...
@@ -7079,9 +5679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Limit Property"></a>Limit Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Limit Property method...
@@ -7089,9 +5687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Line Property"></a>Line Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Line Property method...
@@ -7099,9 +5695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LineSlant Property"></a>LineSlant Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LineSlant Property method...
@@ -7109,9 +5703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LineStyle Property (DataPointLabel Object)"></a>LineStyle Property (DataPointLabel Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LineStyle Property (DataPointLabel Object) method...
@@ -7119,9 +5711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LineStyle Property (TreeView Control)"></a>LineStyle Property (TreeView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LineStyle Property (TreeView Control) method...
@@ -7129,9 +5719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LinkedWindowFrame Property"></a>LinkedWindowFrame Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LinkedWindowFrame Property method...
@@ -7139,9 +5727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LinkedWindows Property"></a>LinkedWindows Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LinkedWindows Property method...
@@ -7149,9 +5735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LinkItem Property"></a>LinkItem Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LinkItem Property method...
@@ -7159,9 +5743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LinkMode Property"></a>LinkMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LinkMode Property method...
@@ -7169,9 +5751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LinkTimeout Property"></a>LinkTimeout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LinkTimeout Property method...
@@ -7179,9 +5759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LinkTopic Property"></a>LinkTopic Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LinkTopic Property method...
@@ -7189,9 +5767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="List Property"></a>List Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The List Property method...
@@ -7199,9 +5775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ListCount Property"></a>ListCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ListCount Property method...
@@ -7209,9 +5783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ListField Property"></a>ListField Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ListField Property method...
@@ -7219,9 +5791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ListImages Property"></a>ListImages Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ListImages Property method...
@@ -7229,9 +5799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ListIndex Property"></a>ListIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ListIndex Property method...
@@ -7239,9 +5807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ListItems Property (ListView Control)"></a>ListItems Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ListItems Property (ListView Control) method...
@@ -7249,9 +5815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ListSubItems Property"></a>ListSubItems Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ListSubItems Property method...
@@ -7259,9 +5823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LocaleID Property"></a>LocaleID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LocaleID Property method...
@@ -7269,9 +5831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LocalHostName Property"></a>LocalHostName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LocalHostName Property method...
@@ -7279,9 +5839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LocalIP Property"></a>LocalIP Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LocalIP Property method...
@@ -7289,9 +5847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LocalPort Property"></a>LocalPort Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LocalPort Property method...
@@ -7299,9 +5855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Location Property"></a>Location Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Location Property method...
@@ -7309,9 +5863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LocationRect Property"></a>LocationRect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LocationRect Property method...
@@ -7319,9 +5871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LocationType Property"></a>LocationType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LocationType Property method...
@@ -7329,9 +5879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Locked Property"></a>Locked Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Locked Property method...
@@ -7339,9 +5887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Locked Property"></a>Locked Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Locked Property method...
@@ -7349,9 +5895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Locked Property (DataCombo, DataList Controls)"></a>Locked Property (DataCombo, DataList Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Locked Property (DataCombo, DataList Controls) method...
@@ -7359,9 +5903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Locked Property (RichTextBox Control)"></a>Locked Property (RichTextBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Locked Property (RichTextBox Control) method...
@@ -7369,9 +5911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LockEdits Property (Remote Data)"></a>LockEdits Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LockEdits Property (Remote Data) method...
@@ -7379,9 +5919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LockType Property (DEDesigner Extensibility)"></a>LockType Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LockType Property (DEDesigner Extensibility) method...
@@ -7389,9 +5927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LockType Property (Remote Data)"></a>LockType Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LockType Property (Remote Data) method...
@@ -7399,9 +5935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LogBase Property"></a>LogBase Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LogBase Property method...
@@ -7409,9 +5943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LoginTimeout Property (Remote Data)"></a>LoginTimeout Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LoginTimeout Property (Remote Data) method...
@@ -7419,9 +5951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LogMessages Property (Remote Data)"></a>LogMessages Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LogMessages Property (Remote Data) method...
@@ -7429,9 +5959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LogMode Property"></a>LogMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LogMode Property method...
@@ -7439,9 +5967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LogonUI Property"></a>LogonUI Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LogonUI Property method...
@@ -7449,9 +5975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="LogPath Property"></a>LogPath Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The LogPath Property method...
@@ -7459,9 +5983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="lpOleObject Property"></a>lpOleObject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The lpOleObject Property method...
@@ -7469,9 +5991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MainWindow Property"></a>MainWindow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MainWindow Property method...
@@ -7479,9 +5999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Major Property"></a>Major Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Major Property method...
@@ -7489,9 +6007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Major Property (Extensibility Object Model)"></a>Major Property (Extensibility Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Major Property (Extensibility Object Model) method...
@@ -7499,9 +6015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MajorDivision Property"></a>MajorDivision Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MajorDivision Property method...
@@ -7509,9 +6023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MajorPen Property"></a>MajorPen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MajorPen Property method...
@@ -7519,9 +6031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Marker Property"></a>Marker Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Marker Property method...
@@ -7529,9 +6039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MarqueeStyle Property"></a>MarqueeStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MarqueeStyle Property method...
@@ -7539,9 +6047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Mask Property"></a>Mask Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Mask Property method...
@@ -7549,9 +6055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaskColor Property"></a>MaskColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaskColor Property method...
@@ -7559,9 +6063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaskColor Property"></a>MaskColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaskColor Property method...
@@ -7569,9 +6071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaskColor Property (UserControl Object)"></a>MaskColor Property (UserControl Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaskColor Property (UserControl Object) method...
@@ -7579,9 +6079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaskPicture Property (UserControl Object)"></a>MaskPicture Property (UserControl Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaskPicture Property (UserControl Object) method...
@@ -7589,9 +6087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MatchedWithList Property"></a>MatchedWithList Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MatchedWithList Property method...
@@ -7599,9 +6095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MatchEntry Property"></a>MatchEntry Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MatchEntry Property method...
@@ -7609,9 +6103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Max Property"></a>Max Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Max Property method...
@@ -7619,9 +6111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Max Property (MSChart)"></a>Max Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Max Property (MSChart) method...
@@ -7629,9 +6119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Max, Min Properties (ActiveX Controls)"></a>Max, Min Properties (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Max, Min Properties (ActiveX Controls) method...
@@ -7639,9 +6127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Max, Min Properties (CommonDialog)"></a>Max, Min Properties (CommonDialog) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Max, Min Properties (CommonDialog) method...
@@ -7649,9 +6135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Max, Min Properties (Scroll Bar)"></a>Max, Min Properties (Scroll Bar) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Max, Min Properties (Scroll Bar) method...
@@ -7659,9 +6143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxButton Property"></a>MaxButton Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxButton Property method...
@@ -7669,9 +6151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxDate, MinDate Properties"></a>MaxDate, MinDate Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxDate, MinDate Properties method...
@@ -7679,9 +6159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxFileSize Property"></a>MaxFileSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxFileSize Property method...
@@ -7689,9 +6167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Maximum Property"></a>Maximum Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Maximum Property method...
@@ -7699,9 +6175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxLength Property"></a>MaxLength Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxLength Property method...
@@ -7709,9 +6183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxLength Property"></a>MaxLength Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxLength Property method...
@@ -7719,9 +6191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxLength Property (RichTextBox Control)"></a>MaxLength Property (RichTextBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxLength Property (RichTextBox Control) method...
@@ -7729,9 +6199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxRecords Property"></a>MaxRecords Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxRecords Property method...
@@ -7739,9 +6207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxRows Property (Remote Data)"></a>MaxRows Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxRows Property (Remote Data) method...
@@ -7749,9 +6215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MaxSelCount Property"></a>MaxSelCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MaxSelCount Property method...
@@ -7759,9 +6223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MDIChild Property"></a>MDIChild Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MDIChild Property method...
@@ -7769,9 +6231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Members Property"></a>Members Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Members Property method...
@@ -7779,9 +6239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MergeCells Property"></a>MergeCells Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MergeCells Property method...
@@ -7789,9 +6247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MergeCol, MergeRow Properties"></a>MergeCol, MergeRow Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MergeCol, MergeRow Properties method...
@@ -7799,9 +6255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MessageReflect Property"></a>MessageReflect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MessageReflect Property method...
@@ -7809,9 +6263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Min Property"></a>Min Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Min Property method...
@@ -7819,9 +6271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Min Property (MSChart)"></a>Min Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Min Property (MSChart) method...
@@ -7829,9 +6279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MinButton Property"></a>MinButton Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MinButton Property method...
@@ -7839,9 +6287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MinHeight, MinWidth Properties"></a>MinHeight, MinWidth Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MinHeight, MinWidth Properties method...
@@ -7849,9 +6295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Minimum Property"></a>Minimum Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Minimum Property method...
@@ -7859,9 +6303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Minor Property"></a>Minor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Minor Property method...
@@ -7869,9 +6311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Minor Property (Extensibility Object Model)"></a>Minor Property (Extensibility Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Minor Property (Extensibility Object Model) method...
@@ -7879,9 +6319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MinorDivision Property"></a>MinorDivision Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MinorDivision Property method...
@@ -7889,9 +6327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MinorPen Property"></a>MinorPen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MinorPen Property method...
@@ -7899,9 +6335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Minute Property"></a>Minute Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Minute Property method...
@@ -7909,9 +6343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MinWidth Property"></a>MinWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MinWidth Property method...
@@ -7919,9 +6351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MiscFlags Property"></a>MiscFlags Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MiscFlags Property method...
@@ -7929,9 +6359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MixedState Property"></a>MixedState Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MixedState Property method...
@@ -7939,9 +6367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Mode Property"></a>Mode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Mode Property method...
@@ -7949,9 +6375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Mode Property (Multimedia MCI Control)"></a>Mode Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Mode Property (Multimedia MCI Control) method...
@@ -7959,9 +6383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Month Property"></a>Month Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Month Property method...
@@ -7969,9 +6391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MonthBackColor Property"></a>MonthBackColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MonthBackColor Property method...
@@ -7979,9 +6399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MonthColumns, MonthRows Properties"></a>MonthColumns, MonthRows Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MonthColumns, MonthRows Properties method...
@@ -7989,9 +6407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MouseCol, MouseRow Properties"></a>MouseCol, MouseRow Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MouseCol, MouseRow Properties method...
@@ -7999,9 +6415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MouseIcon Property"></a>MouseIcon Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MouseIcon Property method...
@@ -8009,9 +6423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MouseIcon Property (ActiveX Controls)"></a>MouseIcon Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MouseIcon Property (ActiveX Controls) method...
@@ -8027,9 +6439,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="MousePointer Property (ActiveX Controls)"></a>MousePointer Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MousePointer Property (ActiveX Controls) method...
@@ -8037,9 +6447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MousePointer Property (MSChart)"></a>MousePointer Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MousePointer Property (MSChart) method...
@@ -8047,9 +6455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Moveable Property"></a>Moveable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Moveable Property method...
@@ -8057,9 +6463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgConversationID Property"></a>MsgConversationID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgConversationID Property method...
@@ -8067,9 +6471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgCount Property"></a>MsgCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgCount Property method...
@@ -8077,9 +6479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgDateReceived Property"></a>MsgDateReceived Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgDateReceived Property method...
@@ -8087,9 +6487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgID Property"></a>MsgID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgID Property method...
@@ -8097,9 +6495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgIndex Property"></a>MsgIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgIndex Property method...
@@ -8107,9 +6503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgNoteText Property"></a>MsgNoteText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgNoteText Property method...
@@ -8117,9 +6511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgOrigAddress Property"></a>MsgOrigAddress Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgOrigAddress Property method...
@@ -8127,9 +6519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgOrigDisplayName Property"></a>MsgOrigDisplayName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgOrigDisplayName Property method...
@@ -8137,9 +6527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgRead Property"></a>MsgRead Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgRead Property method...
@@ -8147,9 +6535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgReceiptRequested Property"></a>MsgReceiptRequested Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgReceiptRequested Property method...
@@ -8157,9 +6543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgSent Property"></a>MsgSent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgSent Property method...
@@ -8167,9 +6551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgSubject Property"></a>MsgSubject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgSubject Property method...
@@ -8177,9 +6559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MsgType Property"></a>MsgType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MsgType Property method...
@@ -8187,9 +6567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MultiLine Property"></a>MultiLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MultiLine Property method...
@@ -8197,9 +6575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MultiLine Property (RichTextBox Control)"></a>MultiLine Property (RichTextBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MultiLine Property (RichTextBox Control) method...
@@ -8207,9 +6583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MultiRow Property"></a>MultiRow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MultiRow Property method...
@@ -8217,9 +6591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MultiSelect Property"></a>MultiSelect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MultiSelect Property method...
@@ -8227,9 +6599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MultiSelect Property (ListView, TabStrip Controls)"></a>MultiSelect Property (ListView, TabStrip Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MultiSelect Property (ListView, TabStrip Controls) method...
@@ -8237,9 +6607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="MultiSelect Property (MonthView Control)"></a>MultiSelect Property (MonthView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The MultiSelect Property (MonthView Control) method...
@@ -8247,9 +6615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property"></a>Name Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property method...
@@ -8257,9 +6623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property (DEDesigner Extensibility)"></a>Name Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property (DEDesigner Extensibility) method...
@@ -8267,9 +6631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property (File Object, Folder Object)"></a>Name Property (File Object, Folder Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property (File Object, Folder Object) method...
@@ -8277,9 +6639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property (Remote Data)"></a>Name Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property (Remote Data) method...
@@ -8287,9 +6647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property (SysInfo Control)"></a>Name Property (SysInfo Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property (SysInfo Control) method...
@@ -8297,9 +6655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property (VBA Add-In Object Model)"></a>Name Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property (VBA Add-In Object Model) method...
@@ -8307,9 +6663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property (VtFont)"></a>Name Property (VtFont) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property (VtFont) method...
@@ -8317,9 +6671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Name Property (WebClass, WebItem)"></a>Name Property (WebClass, WebItem) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Name Property (WebClass, WebItem) method...
@@ -8327,9 +6679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NameInURL Property"></a>NameInURL Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NameInURL Property method...
@@ -8337,9 +6687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Negotiate Property"></a>Negotiate Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Negotiate Property method...
@@ -8347,9 +6695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NegotiateMenus Property"></a>NegotiateMenus Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NegotiateMenus Property method...
@@ -8357,9 +6703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NegotiatePosition Property"></a>NegotiatePosition Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NegotiatePosition Property method...
@@ -8367,9 +6711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NegotiateToolbars Property"></a>NegotiateToolbars Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NegotiateToolbars Property method...
@@ -8377,9 +6719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NewIndex Property"></a>NewIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NewIndex Property method...
@@ -8387,9 +6727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NewRow Property"></a>NewRow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NewRow Property method...
@@ -8397,9 +6735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NewSession Property"></a>NewSession Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NewSession Property method...
@@ -8407,9 +6743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Next Property"></a>Next Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Next Property method...
@@ -8417,9 +6751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NextItem Property"></a>NextItem Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NextItem Property method...
@@ -8427,9 +6759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Nodes Property"></a>Nodes Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Nodes Property method...
@@ -8437,9 +6767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NonModalAllowed Property"></a>NonModalAllowed Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NonModalAllowed Property method...
@@ -8447,9 +6775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Notify Property (Multimedia MCI Control)"></a>Notify Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Notify Property (Multimedia MCI Control) method...
@@ -8457,9 +6783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NotifyMessage Property (Multimedia MCI Control)"></a>NotifyMessage Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NotifyMessage Property (Multimedia MCI Control) method...
@@ -8467,9 +6791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NotifyValue Property (Multimedia MCI Control)"></a>NotifyValue Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NotifyValue Property (Multimedia MCI Control) method...
@@ -8477,9 +6799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NullDiscard Property"></a>NullDiscard Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NullDiscard Property method...
@@ -8487,9 +6807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NullValue Property"></a>NullValue Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NullValue Property method...
@@ -8497,9 +6815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Number Property"></a>Number Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Number Property method...
@@ -8507,9 +6823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Number Property (Remote Data)"></a>Number Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Number Property (Remote Data) method...
@@ -8517,9 +6831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NumberFormat Property"></a>NumberFormat Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NumberFormat Property method...
@@ -8527,9 +6839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NumericScale Property"></a>NumericScale Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NumericScale Property method...
@@ -8537,9 +6847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NumIndices Property"></a>NumIndices Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NumIndices Property method...
@@ -8547,9 +6855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="NumIndices Property (VBA Add-In Object Model)"></a>NumIndices Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The NumIndices Property (VBA Add-In Object Model) method...
@@ -8557,9 +6863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Object Property"></a>Object Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Object Property method...
@@ -8567,9 +6871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Object Property"></a>Object Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Object Property method...
@@ -8577,9 +6879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Object Property (ActiveX Controls)"></a>Object Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Object Property (ActiveX Controls) method...
@@ -8587,9 +6887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Object Property (OLE Container)"></a>Object Property (OLE Container) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Object Property (OLE Container) method...
@@ -8597,9 +6895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectAcceptFormats Property"></a>ObjectAcceptFormats Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectAcceptFormats Property method...
@@ -8607,9 +6903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectAcceptFormatsCount Property"></a>ObjectAcceptFormatsCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectAcceptFormatsCount Property method...
@@ -8617,9 +6911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectGetFormats Property"></a>ObjectGetFormats Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectGetFormats Property method...
@@ -8627,9 +6919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectGetFormatsCount Property"></a>ObjectGetFormatsCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectGetFormatsCount Property method...
@@ -8637,9 +6927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectVerbFlags Property"></a>ObjectVerbFlags Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectVerbFlags Property method...
@@ -8647,9 +6935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectVerbFlags Property (OLEObject Object)"></a>ObjectVerbFlags Property (OLEObject Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectVerbFlags Property (OLEObject Object) method...
@@ -8657,9 +6943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectVerbs Property"></a>ObjectVerbs Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectVerbs Property method...
@@ -8667,9 +6951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectVerbs Property (OLEObject Object)"></a>ObjectVerbs Property (OLEObject Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectVerbs Property (OLEObject Object) method...
@@ -8677,9 +6959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectVerbsCount Property"></a>ObjectVerbsCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectVerbsCount Property method...
@@ -8687,9 +6967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ObjectVerbsCount Property (OLEObject Object)"></a>ObjectVerbsCount Property (OLEObject Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ObjectVerbsCount Property (OLEObject Object) method...
@@ -8697,9 +6975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Offset Property"></a>Offset Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Offset Property method...
@@ -8707,9 +6983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEDragMode Property"></a>OLEDragMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEDragMode Property method...
@@ -8717,9 +6991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEDragMode Property (ActiveX Controls)"></a>OLEDragMode Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEDragMode Property (ActiveX Controls) method...
@@ -8727,9 +6999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEDropAllowed Property"></a>OLEDropAllowed Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEDropAllowed Property method...
@@ -8737,9 +7007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEDropMode Property"></a>OLEDropMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEDropMode Property method...
@@ -8747,9 +7015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEDropMode Property (ActiveX Controls)"></a>OLEDropMode Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEDropMode Property (ActiveX Controls) method...
@@ -8757,9 +7023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEObjects Property"></a>OLEObjects Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEObjects Property method...
@@ -8767,9 +7031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLERequestPendingMsgText Property"></a>OLERequestPendingMsgText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLERequestPendingMsgText Property method...
@@ -8777,9 +7039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLERequestPendingMsgTitle Property"></a>OLERequestPendingMsgTitle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLERequestPendingMsgTitle Property method...
@@ -8787,9 +7047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLERequestPendingTimeout Property"></a>OLERequestPendingTimeout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLERequestPendingTimeout Property method...
@@ -8797,9 +7055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEServerBusyMsgText Property"></a>OLEServerBusyMsgText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEServerBusyMsgText Property method...
@@ -8807,9 +7063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEServerBusyMsgTitle Property"></a>OLEServerBusyMsgTitle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEServerBusyMsgTitle Property method...
@@ -8817,9 +7071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEServerBusyRaiseError Property"></a>OLEServerBusyRaiseError Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEServerBusyRaiseError Property method...
@@ -8827,9 +7079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEServerBusyTimeout Property"></a>OLEServerBusyTimeout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEServerBusyTimeout Property method...
@@ -8837,9 +7087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLEType Property"></a>OLEType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLEType Property method...
@@ -8847,9 +7095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OLETypeAllowed Property"></a>OLETypeAllowed Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OLETypeAllowed Property method...
@@ -8857,9 +7103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Options Property"></a>Options Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Options Property method...
@@ -8867,9 +7111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Options Property (Remote Data)"></a>Options Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Options Property (Remote Data) method...
@@ -8877,9 +7119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Order Property"></a>Order Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Order Property method...
@@ -8887,9 +7127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OrdinalPosition Property (Remote Data)"></a>OrdinalPosition Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OrdinalPosition Property (Remote Data) method...
@@ -8897,9 +7135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property"></a>Orientation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property method...
@@ -8907,9 +7143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property"></a>Orientation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property method...
@@ -8917,9 +7151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property (CommonDialog Control)"></a>Orientation Property (CommonDialog Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property (CommonDialog Control) method...
@@ -8927,9 +7159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property (Coolbar Control)"></a>Orientation Property (Coolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property (Coolbar Control) method...
@@ -8937,9 +7167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property (MSChart)"></a>Orientation Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property (MSChart) method...
@@ -8947,9 +7175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property (Multimedia MCI Control)"></a>Orientation Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property (Multimedia MCI Control) method...
@@ -8957,9 +7183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property (ProgressBar Control)"></a>Orientation Property (ProgressBar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property (ProgressBar Control) method...
@@ -8967,9 +7191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Orientation Property (Slider Control)"></a>Orientation Property (Slider Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Orientation Property (Slider Control) method...
@@ -8977,9 +7199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OriginalValue Property"></a>OriginalValue Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OriginalValue Property method...
@@ -8987,9 +7207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OSBuild Property"></a>OSBuild Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OSBuild Property method...
@@ -8997,9 +7215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OSPlatform Property"></a>OSPlatform Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OSPlatform Property method...
@@ -9007,9 +7223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OSVersion Property"></a>OSVersion Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OSVersion Property method...
@@ -9017,9 +7231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OutBufferCount Property"></a>OutBufferCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OutBufferCount Property method...
@@ -9027,9 +7239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="OutBufferSize Property"></a>OutBufferSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The OutBufferSize Property method...
@@ -9037,9 +7247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Output Property"></a>Output Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Output Property method...
@@ -9047,9 +7255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Page Property"></a>Page Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Page Property method...
@@ -9057,9 +7263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Palette Property"></a>Palette Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Palette Property method...
@@ -9067,9 +7271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PaletteMode Property"></a>PaletteMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PaletteMode Property method...
@@ -9077,9 +7279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Panels Property"></a>Panels Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Panels Property method...
@@ -9087,9 +7287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PaperBin Property"></a>PaperBin Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PaperBin Property method...
@@ -9097,9 +7295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PaperSize Property"></a>PaperSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PaperSize Property method...
@@ -9107,9 +7303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Parent Property"></a>Parent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Parent Property method...
@@ -9117,9 +7311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Parent Property"></a>Parent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Parent Property method...
@@ -9127,9 +7319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Parent Property (ButtonMenu Object)"></a>Parent Property (ButtonMenu Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Parent Property (ButtonMenu Object) method...
@@ -9137,9 +7327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Parent Property (Node Object)"></a>Parent Property (Node Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Parent Property (Node Object) method...
@@ -9147,9 +7335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Parent Property (UserControl Object)"></a>Parent Property (UserControl Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Parent Property (UserControl Object) method...
@@ -9157,9 +7343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ParentCommandName Property"></a>ParentCommandName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ParentCommandName Property method...
@@ -9167,9 +7351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ParentControls Property"></a>ParentControls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ParentControls Property method...
@@ -9177,9 +7359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ParentControlsType Property"></a>ParentControlsType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ParentControlsType Property method...
@@ -9187,9 +7367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ParentField Property"></a>ParentField Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ParentField Property method...
@@ -9197,9 +7375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ParentFolder Property"></a>ParentFolder Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ParentFolder Property method...
@@ -9207,9 +7383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ParityReplace Property"></a>ParityReplace Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ParityReplace Property method...
@@ -9217,9 +7391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Password Property (ADO Data Control)"></a>Password Property (ADO Data Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Password Property (ADO Data Control) method...
@@ -9227,9 +7399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Password Property (Internet Transfer Control)"></a>Password Property (Internet Transfer Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Password Property (Internet Transfer Control) method...
@@ -9237,9 +7407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Password Property (MAPISession Control)"></a>Password Property (MAPISession Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Password Property (MAPISession Control) method...
@@ -9247,9 +7415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Password Property (Remote Data)"></a>Password Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Password Property (Remote Data) method...
@@ -9257,9 +7423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PasswordChar Property"></a>PasswordChar Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PasswordChar Property method...
@@ -9267,9 +7431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PasteOK Property"></a>PasteOK Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PasteOK Property method...
@@ -9277,9 +7439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Path Property"></a>Path Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Path Property method...
@@ -9287,9 +7447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Path Property (FileSystemObject Object)"></a>Path Property (FileSystemObject Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Path Property (FileSystemObject Object) method...
@@ -9297,9 +7455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PathSeparator Property (TreeView Control)"></a>PathSeparator Property (TreeView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PathSeparator Property (TreeView Control) method...
@@ -9307,9 +7463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Pattern Property"></a>Pattern Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Pattern Property method...
@@ -9317,9 +7471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PatternColor Property"></a>PatternColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PatternColor Property method...
@@ -9327,9 +7479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Pen Property"></a>Pen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Pen Property method...
@@ -9337,9 +7487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PercentBasis Property"></a>PercentBasis Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PercentBasis Property method...
@@ -9347,9 +7495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PercentFormat Property"></a>PercentFormat Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PercentFormat Property method...
@@ -9357,9 +7503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PercentPosition Property (Remote Data)"></a>PercentPosition Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PercentPosition Property (Remote Data) method...
@@ -9367,9 +7511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Persistable Property"></a>Persistable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Persistable Property method...
@@ -9377,9 +7519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Picture Property"></a>Picture Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Picture Property method...
@@ -9387,9 +7527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Picture Property (ActiveX Controls)"></a>Picture Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Picture Property (ActiveX Controls) method...
@@ -9397,9 +7535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Picture Property (Coolbar Control)"></a>Picture Property (Coolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Picture Property (Coolbar Control) method...
@@ -9407,9 +7543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Picture Property (MSHFlexGrid)"></a>Picture Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Picture Property (MSHFlexGrid) method...
@@ -9417,9 +7551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Picture Property (PictureClip Control)"></a>Picture Property (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Picture Property (PictureClip Control) method...
@@ -9427,9 +7559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Picture Property (SSTab Control)"></a>Picture Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Picture Property (SSTab Control) method...
@@ -9437,9 +7567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PictureAlignment Property"></a>PictureAlignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PictureAlignment Property method...
@@ -9447,9 +7575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PictureAlignment Property (ListView Control)"></a>PictureAlignment Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PictureAlignment Property (ListView Control) method...
@@ -9457,9 +7583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PictureType Property"></a>PictureType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PictureType Property method...
@@ -9467,9 +7591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Placement Property"></a>Placement Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Placement Property method...
@@ -9477,9 +7599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Plot Property"></a>Plot Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Plot Property method...
@@ -9487,9 +7607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PlotBase Property"></a>PlotBase Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PlotBase Property method...
@@ -9497,9 +7615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Point Property"></a>Point Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Point Property method...
@@ -9507,9 +7623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Port Property"></a>Port Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Port Property method...
@@ -9517,9 +7631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PortOpen Property"></a>PortOpen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PortOpen Property method...
@@ -9527,9 +7639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Position Property (Band Object)"></a>Position Property (Band Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Position Property (Band Object) method...
@@ -9537,9 +7647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Position Property (ColumnHeader Object)"></a>Position Property (ColumnHeader Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Position Property (ColumnHeader Object) method...
@@ -9547,9 +7655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Position Property (MSChart)"></a>Position Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Position Property (MSChart) method...
@@ -9557,9 +7663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Position Property (Multimedia MCI Control)"></a>Position Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Position Property (Multimedia MCI Control) method...
@@ -9567,9 +7671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Precision Property"></a>Precision Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Precision Property method...
@@ -9577,9 +7679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Prepared Property"></a>Prepared Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Prepared Property method...
@@ -9587,9 +7687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Prepared Property (DEDesigner Extensibility)"></a>Prepared Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Prepared Property (DEDesigner Extensibility) method...
@@ -9597,9 +7695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PrevInstance Property"></a>PrevInstance Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PrevInstance Property method...
@@ -9607,9 +7703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Previous Property (Node Object)"></a>Previous Property (Node Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Previous Property (Node Object) method...
@@ -9617,9 +7711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Printer Property"></a>Printer Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Printer Property method...
@@ -9627,9 +7719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PrinterDefault Property"></a>PrinterDefault Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PrinterDefault Property method...
@@ -9637,9 +7727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Printers Property"></a>Printers Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Printers Property method...
@@ -9647,9 +7735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PrintQuality Property"></a>PrintQuality Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PrintQuality Property method...
@@ -9657,9 +7743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ProcBodyLine Property"></a>ProcBodyLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ProcBodyLine Property method...
@@ -9667,9 +7751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ProcCountLines Property"></a>ProcCountLines Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ProcCountLines Property method...
@@ -9677,9 +7759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ProcOfLine Property"></a>ProcOfLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ProcOfLine Property method...
@@ -9687,9 +7767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ProcStartLine Property"></a>ProcStartLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ProcStartLine Property method...
@@ -9697,9 +7775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ProductName Property"></a>ProductName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ProductName Property method...
@@ -9707,9 +7783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ProgID Property"></a>ProgID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ProgID Property method...
@@ -9717,9 +7791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Projection Property"></a>Projection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Projection Property method...
@@ -9727,9 +7799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Prompt Property (Remote Data)"></a>Prompt Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Prompt Property (Remote Data) method...
@@ -9737,9 +7807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PromptBeforeExecuting Property"></a>PromptBeforeExecuting Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PromptBeforeExecuting Property method...
@@ -9747,9 +7815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PromptChar Property"></a>PromptChar Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PromptChar Property method...
@@ -9757,9 +7823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PromptDelete Property"></a>PromptDelete Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PromptDelete Property method...
@@ -9767,9 +7831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PromptInclude Property"></a>PromptInclude Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PromptInclude Property method...
@@ -9777,9 +7839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Properties Property"></a>Properties Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Properties Property method...
@@ -9787,9 +7847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Properties Property (WebItem Object)"></a>Properties Property (WebItem Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Properties Property (WebItem Object) method...
@@ -9797,9 +7855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Property Pages Dialog Box (ActiveX Controls)"></a>Property Pages Dialog Box (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Property Pages Dialog Box (ActiveX Controls) method...
@@ -9807,9 +7863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PropertyChanged Method"></a>PropertyChanged Method ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PropertyChanged Method method...
@@ -9817,9 +7871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PropertyName Property"></a>PropertyName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PropertyName Property method...
@@ -9827,9 +7879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PropertyName Property (RepeaterBinding Object)"></a>PropertyName Property (RepeaterBinding Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PropertyName Property (RepeaterBinding Object) method...
@@ -9837,9 +7887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PropertyNames Property"></a>PropertyNames Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PropertyNames Property method...
@@ -9847,9 +7895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PropertyPage Property"></a>PropertyPage Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PropertyPage Property method...
@@ -9857,9 +7903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="PropertyPages Property"></a>PropertyPages Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The PropertyPages Property method...
@@ -9867,9 +7911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Protection Property"></a>Protection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Protection Property method...
@@ -9877,9 +7919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Protocol Property (Internet Transfer Control)"></a>Protocol Property (Internet Transfer Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Protocol Property (Internet Transfer Control) method...
@@ -9887,9 +7927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Protocol Property (Winsock Control)"></a>Protocol Property (Winsock Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Protocol Property (Winsock Control) method...
@@ -9897,9 +7935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Proxy Property"></a>Proxy Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Proxy Property method...
@@ -9907,9 +7943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Public Property"></a>Public Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Public Property method...
@@ -9917,9 +7951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="QueryTimeout Property (Remote Data)"></a>QueryTimeout Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The QueryTimeout Property (Remote Data) method...
@@ -9927,9 +7959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RandomFill Property"></a>RandomFill Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RandomFill Property method...
@@ -9937,9 +7967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoColumns Property"></a>rdoColumns Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoColumns Property method...
@@ -9947,9 +7975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoConnections Property"></a>rdoConnections Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoConnections Property method...
@@ -9957,9 +7983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoDefaultCursorDriver Property"></a>rdoDefaultCursorDriver Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoDefaultCursorDriver Property method...
@@ -9967,9 +7991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoDefaultErrorThreshold Property"></a>rdoDefaultErrorThreshold Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoDefaultErrorThreshold Property method...
@@ -9977,9 +7999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoDefaultLoginTimeout Property"></a>rdoDefaultLoginTimeout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoDefaultLoginTimeout Property method...
@@ -9987,9 +8007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoDefaultUser, rdoDefaultPassword Properties"></a>rdoDefaultUser, rdoDefaultPassword Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoDefaultUser, rdoDefaultPassword Properties method...
@@ -9997,9 +8015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoEnvironments Property"></a>rdoEnvironments Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoEnvironments Property method...
@@ -10007,9 +8023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoErrors Property"></a>rdoErrors Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoErrors Property method...
@@ -10017,9 +8031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoLocaleID Property"></a>rdoLocaleID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoLocaleID Property method...
@@ -10027,9 +8039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoParameters Property"></a>rdoParameters Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoParameters Property method...
@@ -10037,9 +8047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoQueries Property"></a>rdoQueries Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoQueries Property method...
@@ -10047,9 +8055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoResultSets Property"></a>rdoResultSets Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoResultSets Property method...
@@ -10057,9 +8063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoTables Property"></a>rdoTables Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoTables Property method...
@@ -10067,9 +8071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="rdoVersion Property (Remote Data)"></a>rdoVersion Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The rdoVersion Property (Remote Data) method...
@@ -10077,9 +8079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ReadOnly Property"></a>ReadOnly Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ReadOnly Property method...
@@ -10087,9 +8087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ReadOnly Property (Data Access)"></a>ReadOnly Property (Data Access) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ReadOnly Property (Data Access) method...
@@ -10097,9 +8095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ReadOnly Property (Remote Data)"></a>ReadOnly Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ReadOnly Property (Remote Data) method...
@@ -10107,9 +8103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ReadOnlyMode Property"></a>ReadOnlyMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ReadOnlyMode Property method...
@@ -10117,9 +8111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecipAddress Property"></a>RecipAddress Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecipAddress Property method...
@@ -10127,9 +8119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecipCount Property"></a>RecipCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecipCount Property method...
@@ -10137,9 +8127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecipDisplayName Property"></a>RecipDisplayName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecipDisplayName Property method...
@@ -10147,9 +8135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecipIndex Property"></a>RecipIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecipIndex Property method...
@@ -10157,9 +8143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecipType Property"></a>RecipType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecipType Property method...
@@ -10167,9 +8151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecordCount Property"></a>RecordCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecordCount Property method...
@@ -10177,9 +8159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecordMode Property (Multimedia MCI Control)"></a>RecordMode Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecordMode Property (Multimedia MCI Control) method...
@@ -10187,9 +8167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecordSelectors Property"></a>RecordSelectors Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecordSelectors Property method...
@@ -10197,9 +8175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Recordset Property"></a>Recordset Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Recordset Property method...
@@ -10207,9 +8183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Recordset Property (ADO Data Control)"></a>Recordset Property (ADO Data Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Recordset Property (ADO Data Control) method...
@@ -10217,9 +8191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecordSetReturning Property"></a>RecordSetReturning Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecordSetReturning Property method...
@@ -10227,9 +8199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecordsetType Property"></a>RecordsetType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecordsetType Property method...
@@ -10237,9 +8207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecordSource Property"></a>RecordSource Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecordSource Property method...
@@ -10247,9 +8215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RecordSource Property (ADO Data Control)"></a>RecordSource Property (ADO Data Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RecordSource Property (ADO Data Control) method...
@@ -10257,9 +8223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Rect Property"></a>Rect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Rect Property method...
@@ -10267,9 +8231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Red Property"></a>Red Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Red Property method...
@@ -10277,9 +8239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Redraw Property"></a>Redraw Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Redraw Property method...
@@ -10287,9 +8247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="References Property"></a>References Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The References Property method...
@@ -10297,9 +8255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ReferencesEvents Property"></a>ReferencesEvents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ReferencesEvents Property method...
@@ -10307,9 +8263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RelateToParent Property"></a>RelateToParent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RelateToParent Property method...
@@ -10317,9 +8271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RemoteHost Property (ActiveX Controls)"></a>RemoteHost Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RemoteHost Property (ActiveX Controls) method...
@@ -10327,9 +8279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RemoteHostIP Property"></a>RemoteHostIP Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RemoteHostIP Property method...
@@ -10337,9 +8287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RemotePort Property (ActiveX Controls)"></a>RemotePort Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RemotePort Property (ActiveX Controls) method...
@@ -10347,9 +8295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Repaint Property"></a>Repaint Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Repaint Property method...
@@ -10357,9 +8303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RepeatedControl Property"></a>RepeatedControl Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RepeatedControl Property method...
@@ -10367,9 +8311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RepeatedControlName Property"></a>RepeatedControlName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RepeatedControlName Property method...
@@ -10377,9 +8319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RepeaterBindings Property"></a>RepeaterBindings Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RepeaterBindings Property method...
@@ -10387,9 +8327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ReportIcon Property"></a>ReportIcon Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ReportIcon Property method...
@@ -10397,9 +8335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ReportWidth Property"></a>ReportWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ReportWidth Property method...
@@ -10407,9 +8343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Request Property"></a>Request Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Request Property method...
@@ -10417,9 +8351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RequestEdit Property"></a>RequestEdit Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RequestEdit Property method...
@@ -10427,9 +8359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RequestTimeout Property"></a>RequestTimeout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RequestTimeout Property method...
@@ -10437,9 +8367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Required Property"></a>Required Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Required Property method...
@@ -10447,9 +8375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Required Property (DEDesigner Extensibility)"></a>Required Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Required Property (DEDesigner Extensibility) method...
@@ -10457,9 +8383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RescanReplacements Property"></a>RescanReplacements Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RescanReplacements Property method...
@@ -10467,9 +8391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Response Property"></a>Response Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Response Property method...
@@ -10477,9 +8399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ResponseCode Property"></a>ResponseCode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ResponseCode Property method...
@@ -10487,9 +8407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ResponseInfo Property"></a>ResponseInfo Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ResponseInfo Property method...
@@ -10497,9 +8415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Restartable Property"></a>Restartable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Restartable Property method...
@@ -10507,9 +8423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Resultset Property"></a>Resultset Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Resultset Property method...
@@ -10517,9 +8431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ResultsetType Property"></a>ResultsetType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ResultsetType Property method...
@@ -10527,9 +8439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RetainedProject Property"></a>RetainedProject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RetainedProject Property method...
@@ -10537,9 +8447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Revision Property"></a>Revision Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Revision Property method...
@@ -10547,9 +8455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightMargin Property"></a>RightMargin Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightMargin Property method...
@@ -10557,9 +8463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property"></a>RightToLeft Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property method...
@@ -10567,9 +8471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (ActiveX Controls)"></a>RightToLeft Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (ActiveX Controls) method...
@@ -10577,9 +8479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (CheckBox Control)"></a>RightToLeft Property (CheckBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (CheckBox Control) method...
@@ -10587,9 +8487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (ComboBox Control)"></a>RightToLeft Property (ComboBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (ComboBox Control) method...
@@ -10597,9 +8495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (CommandButton Control)"></a>RightToLeft Property (CommandButton Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (CommandButton Control) method...
@@ -10607,9 +8503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (Data Control)"></a>RightToLeft Property (Data Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (Data Control) method...
@@ -10617,9 +8511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (DataCombo Control)"></a>RightToLeft Property (DataCombo Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (DataCombo Control) method...
@@ -10627,9 +8519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (DataGrid Control)"></a>RightToLeft Property (DataGrid Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (DataGrid Control) method...
@@ -10637,9 +8527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (DataList Control)"></a>RightToLeft Property (DataList Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (DataList Control) method...
@@ -10647,9 +8535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (DataRepeater Control)"></a>RightToLeft Property (DataRepeater Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (DataRepeater Control) method...
@@ -10657,9 +8543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (DBCombo Control)"></a>RightToLeft Property (DBCombo Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (DBCombo Control) method...
@@ -10667,9 +8551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (DBList Control)"></a>RightToLeft Property (DBList Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (DBList Control) method...
@@ -10677,9 +8559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (Frame Control)"></a>RightToLeft Property (Frame Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (Frame Control) method...
@@ -10687,9 +8567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (Grid Control)"></a>RightToLeft Property (Grid Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (Grid Control) method...
@@ -10697,9 +8575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (HFlexGrid Control)"></a>RightToLeft Property (HFlexGrid Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (HFlexGrid Control) method...
@@ -10707,9 +8583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (HScrollBar Control)"></a>RightToLeft Property (HScrollBar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (HScrollBar Control) method...
@@ -10717,9 +8591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (Label Control)"></a>RightToLeft Property (Label Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (Label Control) method...
@@ -10727,9 +8599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (ListBox Control)"></a>RightToLeft Property (ListBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (ListBox Control) method...
@@ -10737,9 +8607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (MSFlexGrid Control)"></a>RightToLeft Property (MSFlexGrid Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (MSFlexGrid Control) method...
@@ -10747,9 +8615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (OptionButton Control)"></a>RightToLeft Property (OptionButton Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (OptionButton Control) method...
@@ -10757,9 +8623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (PictureBox Control)"></a>RightToLeft Property (PictureBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (PictureBox Control) method...
@@ -10767,9 +8631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RightToLeft Property (TextBox Control)"></a>RightToLeft Property (TextBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RightToLeft Property (TextBox Control) method...
@@ -10777,9 +8639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Root Property (Node Object)"></a>Root Property (Node Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Root Property (Node Object) method...
@@ -10787,9 +8647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RootFolder Property"></a>RootFolder Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RootFolder Property method...
@@ -10797,9 +8655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Rotation Property"></a>Rotation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Rotation Property method...
@@ -10807,9 +8663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Row Property (MSChart)"></a>Row Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Row Property (MSChart) method...
@@ -10817,9 +8671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowCount Property (Coolbar Control)"></a>RowCount Property (Coolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowCount Property (Coolbar Control) method...
@@ -10827,9 +8679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowCount Property (MSChart)"></a>RowCount Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowCount Property (MSChart) method...
@@ -10837,9 +8687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowCount Property (Remote Data)"></a>RowCount Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowCount Property (Remote Data) method...
@@ -10847,9 +8695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowDividerStyle Property"></a>RowDividerStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowDividerStyle Property method...
@@ -10857,9 +8703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowDividerStyle Property (DataRepeater Control)"></a>RowDividerStyle Property (DataRepeater Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowDividerStyle Property (DataRepeater Control) method...
@@ -10867,9 +8711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowExpandable, RowExpanded Properties (MSHFlexGrid)"></a>RowExpandable, RowExpanded Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowExpandable, RowExpanded Properties (MSHFlexGrid) method...
@@ -10877,9 +8719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowHeight Property"></a>RowHeight Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowHeight Property method...
@@ -10887,9 +8727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowHeight Property (MSHFlexGrid)"></a>RowHeight Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowHeight Property (MSHFlexGrid) method...
@@ -10897,9 +8735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowHeightMin Property"></a>RowHeightMin Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowHeightMin Property method...
@@ -10907,9 +8743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowIndicator Property"></a>RowIndicator Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowIndicator Property method...
@@ -10917,9 +8751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowIsVisible Property"></a>RowIsVisible Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowIsVisible Property method...
@@ -10927,9 +8759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowLabel Property (DataGrid)"></a>RowLabel Property (DataGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowLabel Property (DataGrid) method...
@@ -10937,9 +8767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowLabel Property (MSChart)"></a>RowLabel Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowLabel Property (MSChart) method...
@@ -10947,9 +8775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowLabelCount Property"></a>RowLabelCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowLabelCount Property method...
@@ -10957,9 +8783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowLabelIndex Property"></a>RowLabelIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowLabelIndex Property method...
@@ -10967,9 +8791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowMember Property"></a>RowMember Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowMember Property method...
@@ -10977,9 +8799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowPos Property"></a>RowPos Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowPos Property method...
@@ -10987,9 +8807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Rows Property (SSTab Control)"></a>Rows Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Rows Property (SSTab Control) method...
@@ -10997,9 +8815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowsAffected Property"></a>RowsAffected Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowsAffected Property method...
@@ -11007,9 +8823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowsetSize Property"></a>RowsetSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowsetSize Property method...
@@ -11017,9 +8831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowSizingMode Property (MSHFlexGrid)"></a>RowSizingMode Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowSizingMode Property (MSHFlexGrid) method...
@@ -11027,9 +8839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RowSource Property"></a>RowSource Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RowSource Property method...
@@ -11037,9 +8847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RThreshold Property"></a>RThreshold Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RThreshold Property method...
@@ -11047,9 +8855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RTSEnable Property"></a>RTSEnable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RTSEnable Property method...
@@ -11057,9 +8863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RunPassword Property"></a>RunPassword Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RunPassword Property method...
@@ -11067,9 +8871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RunPromptBehavior Property"></a>RunPromptBehavior Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RunPromptBehavior Property method...
@@ -11077,9 +8879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RunSaveAuthentication Property"></a>RunSaveAuthentication Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RunSaveAuthentication Property method...
@@ -11087,9 +8887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="RunUserName Property"></a>RunUserName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The RunUserName Property method...
@@ -11097,9 +8895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Saved Property"></a>Saved Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Saved Property method...
@@ -11107,9 +8903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScaleHeight, ScaleWidth Properties"></a>ScaleHeight, ScaleWidth Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScaleHeight, ScaleWidth Properties method...
@@ -11117,9 +8911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScaleLeft, ScaleTop Properties"></a>ScaleLeft, ScaleTop Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScaleLeft, ScaleTop Properties method...
@@ -11127,9 +8919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScaleMode Property"></a>ScaleMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScaleMode Property method...
@@ -11137,9 +8927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScaleUnits Property"></a>ScaleUnits Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScaleUnits Property method...
@@ -11147,9 +8935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Scope Property"></a>Scope Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Scope Property method...
@@ -11157,9 +8943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Screen Property"></a>Screen Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Screen Property method...
@@ -11167,9 +8951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Scroll Property"></a>Scroll Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Scroll Property method...
@@ -11177,9 +8959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScrollBars Property"></a>ScrollBars Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScrollBars Property method...
@@ -11187,9 +8967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Scrollbars Property (DataRepeater Control)"></a>Scrollbars Property (DataRepeater Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Scrollbars Property (DataRepeater Control) method...
@@ -11197,9 +8975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScrollBars Property (MSHFlexGrid)"></a>ScrollBars Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScrollBars Property (MSHFlexGrid) method...
@@ -11207,9 +8983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScrollBars Property (RichTextBox Control)"></a>ScrollBars Property (RichTextBox Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScrollBars Property (RichTextBox Control) method...
@@ -11217,9 +8991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScrollBarSize Property"></a>ScrollBarSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScrollBarSize Property method...
@@ -11227,9 +8999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScrollGroup Property"></a>ScrollGroup Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScrollGroup Property method...
@@ -11237,9 +9007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Scrolling Property"></a>Scrolling Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Scrolling Property method...
@@ -11247,9 +9015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScrollRate Property"></a>ScrollRate Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScrollRate Property method...
@@ -11257,9 +9023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ScrollTrack Property"></a>ScrollTrack Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ScrollTrack Property method...
@@ -11267,9 +9031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Second Property"></a>Second Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Second Property method...
@@ -11277,9 +9039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SecondaryAxis Property"></a>SecondaryAxis Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SecondaryAxis Property method...
@@ -11287,9 +9047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Sections Property"></a>Sections Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Sections Property method...
@@ -11297,9 +9055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelAlignment Property"></a>SelAlignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelAlignment Property method...
@@ -11307,9 +9063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelBold, SelItalic, SelStrikethru, SelUnderline Properties"></a>SelBold, SelItalic, SelStrikethru, SelUnderline Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelBold, SelItalic, SelStrikethru, SelUnderline Properties method...
@@ -11317,9 +9071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelBookmarks Property"></a>SelBookmarks Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelBookmarks Property method...
@@ -11327,9 +9079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelBullet Property"></a>SelBullet Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelBullet Property method...
@@ -11337,9 +9087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelCharOffset Property"></a>SelCharOffset Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelCharOffset Property method...
@@ -11347,9 +9095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelColor Property"></a>SelColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelColor Property method...
@@ -11357,9 +9103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelCount Property"></a>SelCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelCount Property method...
@@ -11367,9 +9111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Selected Property"></a>Selected Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Selected Property method...
@@ -11377,9 +9119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Selected Property (ActiveX Controls)"></a>Selected Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Selected Property (ActiveX Controls) method...
@@ -11387,9 +9127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectedControls Property"></a>SelectedControls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectedControls Property method...
@@ -11397,9 +9135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectedImage Property"></a>SelectedImage Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectedImage Property method...
@@ -11407,9 +9143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectedItem Property"></a>SelectedItem Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectedItem Property method...
@@ -11417,9 +9151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectedItem Property (ActiveX Controls)"></a>SelectedItem Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectedItem Property (ActiveX Controls) method...
@@ -11427,9 +9159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectedVBComponent Property"></a>SelectedVBComponent Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectedVBComponent Property method...
@@ -11437,9 +9167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectedVBControls Property"></a>SelectedVBControls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectedVBControls Property method...
@@ -11447,9 +9175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectedVBControlsEvents Property"></a>SelectedVBControlsEvents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectedVBControlsEvents Property method...
@@ -11457,9 +9183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectionMode Property"></a>SelectionMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectionMode Property method...
@@ -11467,9 +9191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelectRange Property"></a>SelectRange Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelectRange Property method...
@@ -11477,9 +9199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelEndCol, SelStartCol, SelEndRow, SelStartRow Properties"></a>SelEndCol, SelStartCol, SelEndRow, SelStartRow Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelEndCol, SelStartCol, SelEndRow, SelStartRow Properties method...
@@ -11487,9 +9207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelFontName Property"></a>SelFontName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelFontName Property method...
@@ -11497,9 +9215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelFontSize Property"></a>SelFontSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelFontSize Property method...
@@ -11507,9 +9223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelHangingIndent, SelIndent, SelRightIndent Properties"></a>SelHangingIndent, SelIndent, SelRightIndent Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelHangingIndent, SelIndent, SelRightIndent Properties method...
@@ -11517,9 +9231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelImage Property"></a>SelImage Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelImage Property method...
@@ -11527,9 +9239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelLength, SelStart Properties (Slider Control)"></a>SelLength, SelStart Properties (Slider Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelLength, SelStart Properties (Slider Control) method...
@@ -11537,9 +9247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelLength, SelStart, SelText Properties"></a>SelLength, SelStart, SelText Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelLength, SelStart, SelText Properties method...
@@ -11547,9 +9255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelLength, SelStart, SelText Properties (ActiveX Controls)"></a>SelLength, SelStart, SelText Properties (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelLength, SelStart, SelText Properties (ActiveX Controls) method...
@@ -11557,9 +9263,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelProtected Property"></a>SelProtected Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelProtected Property method...
@@ -11567,9 +9271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelRTF Property"></a>SelRTF Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelRTF Property method...
@@ -11577,9 +9279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelTabCount, SelTabs Properties"></a>SelTabCount, SelTabs Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelTabCount, SelTabs Properties method...
@@ -11587,9 +9287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SelText Property (Masked Edit Control)"></a>SelText Property (Masked Edit Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SelText Property (Masked Edit Control) method...
@@ -11597,9 +9295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Separators Property"></a>Separators Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Separators Property method...
@@ -11607,9 +9303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SerialNumber Property"></a>SerialNumber Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SerialNumber Property method...
@@ -11617,9 +9311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SeriesCollection Property"></a>SeriesCollection Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SeriesCollection Property method...
@@ -11627,9 +9319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SeriesColumn Property"></a>SeriesColumn Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SeriesColumn Property method...
@@ -11637,9 +9327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SeriesMarker Property"></a>SeriesMarker Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SeriesMarker Property method...
@@ -11647,9 +9335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SeriesType Property"></a>SeriesType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SeriesType Property method...
@@ -11657,9 +9343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Server Property"></a>Server Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Server Property method...
@@ -11667,9 +9351,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Session Property"></a>Session Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Session Property method...
@@ -11677,9 +9359,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SessionID Property (MAPIMessages Control)"></a>SessionID Property (MAPIMessages Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SessionID Property (MAPIMessages Control) method...
@@ -11687,9 +9367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SessionID Property (MAPISession Control)"></a>SessionID Property (MAPISession Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SessionID Property (MAPISession Control) method...
@@ -11697,9 +9375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Shadow Property"></a>Shadow Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Shadow Property method...
@@ -11707,9 +9383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Shape Property"></a>Shape Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Shape Property method...
@@ -11717,9 +9391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShapeText Property"></a>ShapeText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShapeText Property method...
@@ -11727,9 +9399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Shareable Property (Multimedia MCI Control)"></a>Shareable Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Shareable Property (Multimedia MCI Control) method...
@@ -11737,9 +9407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShareName Property"></a>ShareName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShareName Property method...
@@ -11747,9 +9415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Shortcut Property"></a>Shortcut Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Shortcut Property method...
@@ -11757,9 +9423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShortName Property"></a>ShortName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShortName Property method...
@@ -11767,9 +9431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShortPath Property"></a>ShortPath Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShortPath Property method...
@@ -11777,9 +9439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Show Property"></a>Show Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Show Property method...
@@ -11787,9 +9447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowFocusRect Property"></a>ShowFocusRect Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowFocusRect Property method...
@@ -11797,9 +9455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowGrabHandles Property"></a>ShowGrabHandles Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowGrabHandles Property method...
@@ -11807,9 +9463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowGuideLine Property"></a>ShowGuideLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowGuideLine Property method...
@@ -11817,9 +9471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowHatching Property"></a>ShowHatching Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowHatching Property method...
@@ -11827,9 +9479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowInTaskbar Property"></a>ShowInTaskbar Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowInTaskbar Property method...
@@ -11837,9 +9487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowLegend Property"></a>ShowLegend Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowLegend Property method...
@@ -11847,9 +9495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowLine Property"></a>ShowLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowLine Property method...
@@ -11857,9 +9503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowPropertiesAfterCreate Property"></a>ShowPropertiesAfterCreate Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowPropertiesAfterCreate Property method...
@@ -11867,9 +9511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowStatusBar Property"></a>ShowStatusBar Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowStatusBar Property method...
@@ -11877,9 +9519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowSystemObjects Property"></a>ShowSystemObjects Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowSystemObjects Property method...
@@ -11887,9 +9527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowTips Property (ActiveX Controls)"></a>ShowTips Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowTips Property (ActiveX Controls) method...
@@ -11897,9 +9535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowToday Property"></a>ShowToday Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowToday Property method...
@@ -11907,9 +9543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ShowWeekNumbers Property"></a>ShowWeekNumbers Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ShowWeekNumbers Property method...
@@ -11917,9 +9551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Silent Property (Multimedia MCI Control)"></a>Silent Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Silent Property (Multimedia MCI Control) method...
@@ -11927,9 +9559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SimpleText Property"></a>SimpleText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SimpleText Property method...
@@ -11937,9 +9567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SingleSel Property"></a>SingleSel Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SingleSel Property method...
@@ -11947,9 +9575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Size Property"></a>Size Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Size Property method...
@@ -11957,9 +9583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Size Property (DEDesigner Extensibility)"></a>Size Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Size Property (DEDesigner Extensibility) method...
@@ -11967,9 +9591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Size Property (Font)"></a>Size Property (Font) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Size Property (Font) method...
@@ -11977,9 +9599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Size Property (MSChart)"></a>Size Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Size Property (MSChart) method...
@@ -11987,9 +9607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Size Property (Remote Data)"></a>Size Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Size Property (Remote Data) method...
@@ -11997,9 +9615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Size Property (Split Object)"></a>Size Property (Split Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Size Property (Split Object) method...
@@ -12007,9 +9623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SizeMode Property"></a>SizeMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SizeMode Property method...
@@ -12017,9 +9631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SizeMode Property (RptImage Control)"></a>SizeMode Property (RptImage Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SizeMode Property (RptImage Control) method...
@@ -12027,9 +9639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SizeMode Property (Split Object)"></a>SizeMode Property (Split Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SizeMode Property (Split Object) method...
@@ -12037,9 +9647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SocketHandle Property"></a>SocketHandle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SocketHandle Property method...
@@ -12047,9 +9655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Sort Property (MSChart)"></a>Sort Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Sort Property (MSChart) method...
@@ -12057,9 +9663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Sort Property (MSHFlexGrid)"></a>Sort Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Sort Property (MSHFlexGrid) method...
@@ -12067,9 +9671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Sorted Property"></a>Sorted Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Sorted Property method...
@@ -12077,9 +9679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Sorted Property (ListView Control)"></a>Sorted Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Sorted Property (ListView Control) method...
@@ -12087,9 +9687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Sorted Property (TreeView Control)"></a>Sorted Property (TreeView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Sorted Property (TreeView Control) method...
@@ -12097,9 +9695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SortKey Property (ListView Control)"></a>SortKey Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SortKey Property (ListView Control) method...
@@ -12107,9 +9703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SortOrder Property (ListView Control)"></a>SortOrder Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SortOrder Property (ListView Control) method...
@@ -12117,9 +9711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Source Property"></a>Source Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Source Property method...
@@ -12127,9 +9719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Source Property (Err Object)"></a>Source Property (Err Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Source Property (Err Object) method...
@@ -12137,9 +9727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Source Property (Remote Data)"></a>Source Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Source Property (Remote Data) method...
@@ -12147,9 +9735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SourceColumn Property (Remote Data)"></a>SourceColumn Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SourceColumn Property (Remote Data) method...
@@ -12157,9 +9743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SourceDoc Property"></a>SourceDoc Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SourceDoc Property method...
@@ -12167,9 +9751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SourceFile Property"></a>SourceFile Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SourceFile Property method...
@@ -12177,9 +9759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SourceItem Property"></a>SourceItem Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SourceItem Property method...
@@ -12187,9 +9767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SourceOfData Property"></a>SourceOfData Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SourceOfData Property method...
@@ -12197,9 +9775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SourceTable Property"></a>SourceTable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SourceTable Property method...
@@ -12207,9 +9783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SpaceColor Property"></a>SpaceColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SpaceColor Property method...
@@ -12217,9 +9791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Split Property"></a>Split Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Split Property method...
@@ -12227,9 +9799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Splits Property"></a>Splits Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Splits Property method...
@@ -12237,9 +9807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SQL Property"></a>SQL Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SQL Property method...
@@ -12247,9 +9815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SQLRetCode Property (Remote Data)"></a>SQLRetCode Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SQLRetCode Property (Remote Data) method...
@@ -12257,9 +9823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SQLState Property (Remote Data)"></a>SQLState Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SQLState Property (Remote Data) method...
@@ -12267,9 +9831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Stacking Property"></a>Stacking Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Stacking Property method...
@@ -12277,9 +9839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StackOrder Property"></a>StackOrder Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StackOrder Property method...
@@ -12287,9 +9847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StandardMethod Property"></a>StandardMethod Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StandardMethod Property method...
@@ -12297,9 +9855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StandardSize Property"></a>StandardSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StandardSize Property method...
@@ -12307,9 +9863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Standing Property"></a>Standing Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Standing Property method...
@@ -12317,9 +9871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Start Property (Multimedia MCI Control)"></a>Start Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Start Property (Multimedia MCI Control) method...
@@ -12327,9 +9879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StartingAngle Property"></a>StartingAngle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StartingAngle Property method...
@@ -12337,9 +9887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StartMode Property"></a>StartMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StartMode Property method...
@@ -12347,9 +9895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StartMode Property"></a>StartMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StartMode Property method...
@@ -12357,9 +9903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StartOfWeek Property"></a>StartOfWeek Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StartOfWeek Property method...
@@ -12367,9 +9911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StartProject Property"></a>StartProject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StartProject Property method...
@@ -12377,9 +9919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StartUpObject Property"></a>StartUpObject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StartUpObject Property method...
@@ -12387,9 +9927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StartUpPosition Property"></a>StartUpPosition Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StartUpPosition Property method...
@@ -12397,9 +9935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="State Property (Winsock Control)"></a>State Property (Winsock Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The State Property (Winsock Control) method...
@@ -12407,9 +9943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StateManagement Property"></a>StateManagement Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StateManagement Property method...
@@ -12417,9 +9951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Static Property"></a>Static Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Static Property method...
@@ -12427,9 +9959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StatLine Property"></a>StatLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StatLine Property method...
@@ -12437,9 +9967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Status Property"></a>Status Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Status Property method...
@@ -12447,9 +9975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Status Property (AsyncProperty Object)"></a>Status Property (AsyncProperty Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Status Property (AsyncProperty Object) method...
@@ -12457,9 +9983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StatusCode Property"></a>StatusCode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StatusCode Property method...
@@ -12467,9 +9991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SThreshold Property"></a>SThreshold Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SThreshold Property method...
@@ -12477,9 +9999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StillConnecting Property"></a>StillConnecting Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StillConnecting Property method...
@@ -12487,9 +10007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StillExecuting Property"></a>StillExecuting Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StillExecuting Property method...
@@ -12497,9 +10015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StillExecuting Property (Remote Data)"></a>StillExecuting Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StillExecuting Property (Remote Data) method...
@@ -12507,9 +10023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Stretch Property"></a>Stretch Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Stretch Property method...
@@ -12517,9 +10031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StretchX, StretchY Properties (PictureClip Control)"></a>StretchX, StretchY Properties (PictureClip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StretchX, StretchY Properties (PictureClip Control) method...
@@ -12527,9 +10039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="StrikeThrough Property"></a>StrikeThrough Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The StrikeThrough Property method...
@@ -12537,9 +10047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property"></a>Style Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property method...
@@ -12547,9 +10055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (Band Object)"></a>Style Property (Band Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (Band Object) method...
@@ -12557,9 +10063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (Button Object)"></a>Style Property (Button Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (Button Object) method...
@@ -12567,9 +10071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (DataCombo Control)"></a>Style Property (DataCombo Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (DataCombo Control) method...
@@ -12577,9 +10079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (MSChart)"></a>Style Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (MSChart) method...
@@ -12587,9 +10087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (Panel Object)"></a>Style Property (Panel Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (Panel Object) method...
@@ -12597,9 +10095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (SSTab Control)"></a>Style Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (SSTab Control) method...
@@ -12607,9 +10103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (StatLine)"></a>Style Property (StatLine) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (StatLine) method...
@@ -12617,9 +10111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (StatusBar Control)"></a>Style Property (StatusBar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (StatusBar Control) method...
@@ -12627,9 +10119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (TabStrip Control)"></a>Style Property (TabStrip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (TabStrip Control) method...
@@ -12637,9 +10127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (Toolbar Control)"></a>Style Property (Toolbar Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (Toolbar Control) method...
@@ -12647,9 +10135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Style Property (TreeView Control)"></a>Style Property (TreeView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Style Property (TreeView Control) method...
@@ -12657,9 +10143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SubFolders Property"></a>SubFolders Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SubFolders Property method...
@@ -12667,9 +10151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SubItemIndex Property"></a>SubItemIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SubItemIndex Property method...
@@ -12677,9 +10159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SubItems Property (ListView Control)"></a>SubItems Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SubItems Property (ListView Control) method...
@@ -12687,9 +10167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SubPlotLabelPosition Property"></a>SubPlotLabelPosition Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SubPlotLabelPosition Property method...
@@ -12697,9 +10175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SummaryCommandName Property"></a>SummaryCommandName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SummaryCommandName Property method...
@@ -12707,9 +10183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SupportsMnemonics Property"></a>SupportsMnemonics Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SupportsMnemonics Property method...
@@ -12717,9 +10191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="SyncBuddy Property"></a>SyncBuddy Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The SyncBuddy Property method...
@@ -12727,9 +10199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Tab Property (SSTab Control)"></a>Tab Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Tab Property (SSTab Control) method...
@@ -12737,9 +10207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabAcrossSplits Property"></a>TabAcrossSplits Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabAcrossSplits Property method...
@@ -12747,9 +10215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabAction Property"></a>TabAction Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabAction Property method...
@@ -12757,9 +10223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabCaption Property (SSTab Control)"></a>TabCaption Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabCaption Property (SSTab Control) method...
@@ -12767,9 +10231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabEnabled Property (SSTab Control)"></a>TabEnabled Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabEnabled Property (SSTab Control) method...
@@ -12777,9 +10239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabFixedHeight, TabFixedWidth Properties"></a>TabFixedHeight, TabFixedWidth Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabFixedHeight, TabFixedWidth Properties method...
@@ -12787,9 +10247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabHeight Property (SSTab Control)"></a>TabHeight Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabHeight Property (SSTab Control) method...
@@ -12805,9 +10263,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="TabMaxWidth Property (SSTab Control)"></a>TabMaxWidth Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabMaxWidth Property (SSTab Control) method...
@@ -12815,9 +10271,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabMinWidth Property"></a>TabMinWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabMinWidth Property method...
@@ -12825,9 +10279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabOrientation Property (SSTab Control)"></a>TabOrientation Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabOrientation Property (SSTab Control) method...
@@ -12835,9 +10287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabPicture Property (SSTab Control)"></a>TabPicture Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabPicture Property (SSTab Control) method...
@@ -12845,9 +10295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Tabs Property (SSTab Control)"></a>Tabs Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Tabs Property (SSTab Control) method...
@@ -12855,9 +10303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Tabs Property (TabStrip Control)"></a>Tabs Property (TabStrip Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Tabs Property (TabStrip Control) method...
@@ -12865,9 +10311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabsPerRow Property (SSTab Control)"></a>TabsPerRow Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabsPerRow Property (SSTab Control) method...
@@ -12883,9 +10327,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="TabStyle Property"></a>TabStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabStyle Property method...
@@ -12893,9 +10335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabVisible Property (SSTab Control)"></a>TabVisible Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabVisible Property (SSTab Control) method...
@@ -12903,9 +10343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TabWidthStyle Property"></a>TabWidthStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TabWidthStyle Property method...
@@ -12921,9 +10359,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Tag Property (ActiveX Controls)"></a>Tag Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Tag Property (ActiveX Controls) method...
@@ -12931,9 +10367,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TagPrefix Property"></a>TagPrefix Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TagPrefix Property method...
@@ -12941,9 +10375,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Target Property"></a>Target Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Target Property method...
@@ -12951,9 +10383,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TargetObject Property"></a>TargetObject Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TargetObject Property method...
@@ -12961,9 +10391,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TaskVisible Property"></a>TaskVisible Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TaskVisible Property method...
@@ -12971,9 +10399,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Template Property"></a>Template Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Template Property method...
@@ -12981,9 +10407,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TemplatePath Property"></a>TemplatePath Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TemplatePath Property method...
@@ -12991,9 +10415,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Text Property"></a>Text Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Text Property method...
@@ -13001,9 +10423,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Text Property (ActiveX Controls)"></a>Text Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Text Property (ActiveX Controls) method...
@@ -13011,9 +10431,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Text Property (MaskedEdit Control)"></a>Text Property (MaskedEdit Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Text Property (MaskedEdit Control) method...
@@ -13021,9 +10439,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Text Property (MSChart)"></a>Text Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Text Property (MSChart) method...
@@ -13031,9 +10447,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Text Property (MSHFlexGrid)"></a>Text Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Text Property (MSHFlexGrid) method...
@@ -13041,9 +10455,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextAlign Property"></a>TextAlign Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextAlign Property method...
@@ -13051,9 +10463,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextAlignment Property"></a>TextAlignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextAlignment Property method...
@@ -13061,9 +10471,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextArray Property"></a>TextArray Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextArray Property method...
@@ -13071,9 +10479,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextBackground Property"></a>TextBackground Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextBackground Property method...
@@ -13081,9 +10487,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextLayout Property"></a>TextLayout Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextLayout Property method...
@@ -13091,9 +10495,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextLength Property"></a>TextLength Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextLength Property method...
@@ -13101,9 +10503,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextLengthType Property"></a>TextLengthType Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextLengthType Property method...
@@ -13111,9 +10511,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextMatrix Property"></a>TextMatrix Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextMatrix Property method...
@@ -13121,9 +10519,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextPosition Property"></a>TextPosition Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextPosition Property method...
@@ -13131,9 +10527,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextRTF Property"></a>TextRTF Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextRTF Property method...
@@ -13141,9 +10535,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TextStyle, TextStyleBand, TextStyleFixed, TextStyleHeader Properties (MSHFlexGrid)"></a>TextStyle, TextStyleBand, TextStyleFixed, TextStyleHeader Properties (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TextStyle, TextStyleBand, TextStyleFixed, TextStyleHeader Properties (MSHFlexGrid) method...
@@ -13151,9 +10543,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ThreadID Property"></a>ThreadID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ThreadID Property method...
@@ -13161,9 +10551,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Tick Property"></a>Tick Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Tick Property method...
@@ -13171,9 +10559,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TickFrequency Property"></a>TickFrequency Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TickFrequency Property method...
@@ -13181,9 +10567,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TickStyle Property"></a>TickStyle Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TickStyle Property method...
@@ -13191,9 +10575,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TimeFormat Property (Multimedia MCI Control)"></a>TimeFormat Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TimeFormat Property (Multimedia MCI Control) method...
@@ -13201,9 +10583,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Title Property"></a>Title Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Title Property method...
@@ -13211,9 +10591,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Title Property (DataReport Object)"></a>Title Property (DataReport Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Title Property (DataReport Object) method...
@@ -13221,9 +10599,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Title Property (MSChart)"></a>Title Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Title Property (MSChart) method...
@@ -13231,9 +10607,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TitleBackColor, TitleForeColor Properties"></a>TitleBackColor, TitleForeColor Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TitleBackColor, TitleForeColor Properties method...
@@ -13241,9 +10615,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TitleText Property"></a>TitleText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TitleText Property method...
@@ -13251,9 +10623,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="To Property (Multimedia MCI Control)"></a>To Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The To Property (Multimedia MCI Control) method...
@@ -13261,9 +10631,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ToolboxBitmap Property"></a>ToolboxBitmap Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ToolboxBitmap Property method...
@@ -13271,9 +10639,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ToolTipText Property"></a>ToolTipText Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ToolTipText Property method...
@@ -13281,9 +10647,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ToolTipText Property (ActiveX Controls)"></a>ToolTipText Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ToolTipText Property (ActiveX Controls) method...
@@ -13291,9 +10655,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Top Property"></a>Top Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Top Property method...
@@ -13301,9 +10663,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TopIndex Property"></a>TopIndex Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TopIndex Property method...
@@ -13311,9 +10671,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TopLine Property"></a>TopLine Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TopLine Property method...
@@ -13321,9 +10679,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TopRow Property (MSHFlexGrid)"></a>TopRow Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TopRow Property (MSHFlexGrid) method...
@@ -13331,9 +10687,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TotalSize Property"></a>TotalSize Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TotalSize Property method...
@@ -13341,9 +10695,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Track Property (Multimedia MCI Control)"></a>Track Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Track Property (Multimedia MCI Control) method...
@@ -13351,9 +10703,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TrackDefault Property"></a>TrackDefault Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TrackDefault Property method...
@@ -13361,9 +10711,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TrackLength Property (Multimedia MCI Control)"></a>TrackLength Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TrackLength Property (Multimedia MCI Control) method...
@@ -13371,9 +10719,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TrackPosition Property (Multimedia MCI Control)"></a>TrackPosition Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TrackPosition Property (Multimedia MCI Control) method...
@@ -13381,9 +10727,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Tracks Property (Multimedia MCI Control)"></a>Tracks Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Tracks Property (Multimedia MCI Control) method...
@@ -13391,9 +10735,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TrailingForeColor Property"></a>TrailingForeColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TrailingForeColor Property method...
@@ -13401,9 +10743,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Transactions Property (Remote Data)"></a>Transactions Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Transactions Property (Remote Data) method...
@@ -13411,9 +10751,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TrueValue Property"></a>TrueValue Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TrueValue Property method...
@@ -13421,9 +10759,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="TwipsPerPixelX, TwipsPerPixelY Properties"></a>TwipsPerPixelX, TwipsPerPixelY Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The TwipsPerPixelX, TwipsPerPixelY Properties method...
@@ -13431,9 +10767,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Type Property (DEDesigner Extensibility)"></a>Type Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Type Property (DEDesigner Extensibility) method...
@@ -13441,9 +10775,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Type Property (File Object, Folder Object)"></a>Type Property (File Object, Folder Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Type Property (File Object, Folder Object) method...
@@ -13451,9 +10783,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Type Property (Format Objects)"></a>Type Property (Format Objects) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Type Property (Format Objects) method...
@@ -13461,9 +10791,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Type Property (MSChart)"></a>Type Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Type Property (MSChart) method...
@@ -13471,9 +10799,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Type Property (Picture)"></a>Type Property (Picture) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Type Property (Picture) method...
@@ -13481,9 +10807,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Type Property (Remote Data)"></a>Type Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Type Property (Remote Data) method...
@@ -13491,9 +10815,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Type Property (VBA Add-In Object Model)"></a>Type Property (VBA Add-In Object Model) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Type Property (VBA Add-In Object Model) method...
@@ -13501,9 +10823,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UBound Property"></a>UBound Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UBound Property method...
@@ -13511,9 +10831,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UIDead Property"></a>UIDead Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UIDead Property method...
@@ -13521,9 +10839,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UIDefault Property"></a>UIDefault Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UIDefault Property method...
@@ -13531,9 +10847,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UnattendedApp Property"></a>UnattendedApp Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UnattendedApp Property method...
@@ -13541,9 +10855,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Underline Property"></a>Underline Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Underline Property method...
@@ -13551,9 +10863,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UniformAxis Property"></a>UniformAxis Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UniformAxis Property method...
@@ -13561,9 +10871,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Updatable Property (Remote Data)"></a>Updatable Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Updatable Property (Remote Data) method...
@@ -13571,9 +10879,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UpdateCriteria Property"></a>UpdateCriteria Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UpdateCriteria Property method...
@@ -13581,9 +10887,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UpdateCriteria Property Constants"></a>UpdateCriteria Property Constants ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UpdateCriteria Property Constants method...
@@ -13591,9 +10895,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UpdateInterval Property (Multimedia MCI Control)"></a>UpdateInterval Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UpdateInterval Property (Multimedia MCI Control) method...
@@ -13601,9 +10903,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UpdateMode Property"></a>UpdateMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UpdateMode Property method...
@@ -13611,9 +10911,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UpdateOperation Property"></a>UpdateOperation Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UpdateOperation Property method...
@@ -13621,9 +10919,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UpdateOptions Property"></a>UpdateOptions Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UpdateOptions Property method...
@@ -13631,9 +10927,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UpDown Property"></a>UpDown Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UpDown Property method...
@@ -13641,9 +10935,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="URL Property"></a>URL Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The URL Property method...
@@ -13651,9 +10943,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="URLData Property"></a>URLData Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The URLData Property method...
@@ -13661,9 +10951,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UseCoolbarColors Property"></a>UseCoolbarColors Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UseCoolbarColors Property method...
@@ -13671,9 +10959,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UseCoolbarPicture Property"></a>UseCoolbarPicture Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UseCoolbarPicture Property method...
@@ -13681,9 +10967,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UseMaskColor Property"></a>UseMaskColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UseMaskColor Property method...
@@ -13691,9 +10975,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UseMaskColor Property (ImageList Controls)"></a>UseMaskColor Property (ImageList Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UseMaskColor Property (ImageList Controls) method...
@@ -13701,9 +10983,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UseMnemonic Property"></a>UseMnemonic Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UseMnemonic Property method...
@@ -13711,9 +10991,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UserMode Property"></a>UserMode Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UserMode Property method...
@@ -13721,9 +10999,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UserName Property"></a>UserName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UserName Property method...
@@ -13731,9 +11007,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UserName Property"></a>UserName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UserName Property method...
@@ -13741,9 +11015,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UserName Property (ADO Data Control)"></a>UserName Property (ADO Data Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UserName Property (ADO Data Control) method...
@@ -13751,9 +11023,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UserName Property (Remote Data)"></a>UserName Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UserName Property (Remote Data) method...
@@ -13761,9 +11031,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="UsesWindows Property (Multimedia MCI Control)"></a>UsesWindows Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The UsesWindows Property (Multimedia MCI Control) method...
@@ -13771,9 +11039,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property"></a>Value Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property method...
@@ -13781,9 +11047,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property"></a>Value Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property method...
@@ -13791,9 +11055,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property (ActiveX Controls)"></a>Value Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property (ActiveX Controls) method...
@@ -13801,9 +11063,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property (Column Object)"></a>Value Property (Column Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property (Column Object) method...
@@ -13811,9 +11071,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property (DEDesigner Extensibility)"></a>Value Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property (DEDesigner Extensibility) method...
@@ -13821,9 +11079,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property (Format Objects)"></a>Value Property (Format Objects) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property (Format Objects) method...
@@ -13831,9 +11087,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property (MonthView, DatePicker Controls)"></a>Value Property (MonthView, DatePicker Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property (MonthView, DatePicker Controls) method...
@@ -13841,9 +11095,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property (Remote Data)"></a>Value Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property (Remote Data) method...
@@ -13851,9 +11103,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Value Property (UpDown Control)"></a>Value Property (UpDown Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Value Property (UpDown Control) method...
@@ -13861,9 +11111,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ValueFormat Property"></a>ValueFormat Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ValueFormat Property method...
@@ -13871,9 +11119,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ValueScale Property"></a>ValueScale Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ValueScale Property method...
@@ -13881,9 +11127,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VariantHeight Property"></a>VariantHeight Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VariantHeight Property method...
@@ -13891,9 +11135,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VBComponents Property"></a>VBComponents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VBComponents Property method...
@@ -13901,9 +11143,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VBComponentsEvents Property"></a>VBComponentsEvents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VBComponentsEvents Property method...
@@ -13911,9 +11151,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VBControls Property"></a>VBControls Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VBControls Property method...
@@ -13921,9 +11159,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VBControlsEvents Property"></a>VBControlsEvents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VBControlsEvents Property method...
@@ -13931,9 +11167,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VBE Property"></a>VBE Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VBE Property method...
@@ -13941,9 +11175,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VBProjects Property"></a>VBProjects Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VBProjects Property method...
@@ -13951,9 +11183,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VBProjectsEvents Property"></a>VBProjectsEvents Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VBProjectsEvents Property method...
@@ -13961,9 +11191,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Verb Property"></a>Verb Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Verb Property method...
@@ -13971,9 +11199,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Version Property"></a>Version Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Version Property method...
@@ -13981,9 +11207,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Version Property (DEDesigner Extensibility)"></a>Version Property (DEDesigner Extensibility) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Version Property (DEDesigner Extensibility) method...
@@ -13991,9 +11215,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Version Property (MSHFlexGrid)"></a>Version Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Version Property (MSHFlexGrid) method...
@@ -14001,9 +11223,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Version Property (Remote Data)"></a>Version Property (Remote Data) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Version Property (Remote Data) method...
@@ -14011,9 +11231,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VertAlignment Property"></a>VertAlignment Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VertAlignment Property method...
@@ -14021,9 +11239,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="View Property (ListView Control)"></a>View Property (ListView Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The View Property (ListView Control) method...
@@ -14031,9 +11247,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="View3D Property"></a>View3D Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The View3D Property method...
@@ -14041,9 +11255,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ViewportHeight, ViewportLeft, ViewportTop, ViewportWidth Properties"></a>ViewportHeight, ViewportLeft, ViewportTop, ViewportWidth Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ViewportHeight, ViewportLeft, ViewportTop, ViewportWidth Properties method...
@@ -14059,9 +11271,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="Visible Property (ActiveX Controls)"></a>Visible Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Visible Property (ActiveX Controls) method...
@@ -14069,9 +11279,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Visible Property (MSChart)"></a>Visible Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Visible Property (MSChart) method...
@@ -14079,9 +11287,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Visible Property (Multimedia MCI Control)"></a>Visible Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Visible Property (Multimedia MCI Control) method...
@@ -14089,9 +11295,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VisibleCols Property"></a>VisibleCols Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VisibleCols Property method...
@@ -14099,9 +11303,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VisibleCount Property"></a>VisibleCount Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VisibleCount Property method...
@@ -14109,9 +11311,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VisibleDays Property"></a>VisibleDays Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VisibleDays Property method...
@@ -14119,9 +11319,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VisibleItems Property"></a>VisibleItems Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VisibleItems Property method...
@@ -14129,9 +11327,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VisibleRecords Property"></a>VisibleRecords Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VisibleRecords Property method...
@@ -14139,9 +11335,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VisibleRows Property"></a>VisibleRows Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VisibleRows Property method...
@@ -14149,9 +11343,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VisibleRows Property (DataRepeater Control)"></a>VisibleRows Property (DataRepeater Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VisibleRows Property (DataRepeater Control) method...
@@ -14169,9 +11361,7 @@ Dim strMyText as String = Text1.text
 
 <!---
 ## <a id="VolumeName Property"></a>VolumeName Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VolumeName Property method...
@@ -14179,9 +11369,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VtColor Property"></a>VtColor Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VtColor Property method...
@@ -14189,9 +11377,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="VtFont Property"></a>VtFont Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The VtFont Property method...
@@ -14199,9 +11385,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Wait Property (Multimedia MCI Control)"></a>Wait Property (Multimedia MCI Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Wait Property (Multimedia MCI Control) method...
@@ -14209,9 +11393,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Wall Property"></a>Wall Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Wall Property method...
@@ -14219,9 +11401,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Week Property"></a>Week Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Week Property method...
@@ -14229,9 +11409,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Weight Property"></a>Weight Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Weight Property method...
@@ -14239,9 +11417,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Weighting Property"></a>Weighting Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Weighting Property method...
@@ -14249,9 +11425,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WhatsThisButton Property"></a>WhatsThisButton Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WhatsThisButton Property method...
@@ -14259,9 +11433,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WhatsThisHelp Property"></a>WhatsThisHelp Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WhatsThisHelp Property method...
@@ -14269,9 +11441,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WhatsThisHelpID Property"></a>WhatsThisHelpID Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WhatsThisHelpID Property method...
@@ -14279,9 +11449,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Width Property"></a>Width Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Width Property method...
@@ -14289,9 +11457,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Width Property (MSChart)"></a>Width Property (MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Width Property (MSChart) method...
@@ -14299,9 +11465,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Width Property (Panel Object)"></a>Width Property (Panel Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Width Property (Panel Object) method...
@@ -14309,9 +11473,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WidthToHeightRatio Property"></a>WidthToHeightRatio Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WidthToHeightRatio Property method...
@@ -14319,9 +11481,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Window Property"></a>Window Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Window Property method...
@@ -14329,9 +11489,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Windowless Property"></a>Windowless Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Windowless Property method...
@@ -14339,9 +11497,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WindowList Property"></a>WindowList Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WindowList Property method...
@@ -14349,9 +11505,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Windows Property"></a>Windows Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Windows Property method...
@@ -14359,9 +11513,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WindowState Property"></a>WindowState Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WindowState Property method...
@@ -14369,9 +11521,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WindowState Property"></a>WindowState Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WindowState Property method...
@@ -14379,9 +11529,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WordWrap Property"></a>WordWrap Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WordWrap Property method...
@@ -14389,9 +11537,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WordWrap Property (MSHFlexGrid)"></a>WordWrap Property (MSHFlexGrid) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WordWrap Property (MSHFlexGrid) method...
@@ -14399,9 +11545,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WordWrap Property (SSTab Control)"></a>WordWrap Property (SSTab Control) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WordWrap Property (SSTab Control) method...
@@ -14409,9 +11553,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WordWrap Property( MSChart)"></a>WordWrap Property( MSChart) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WordWrap Property( MSChart) method...
@@ -14419,9 +11561,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WorkAreaHeight Property"></a>WorkAreaHeight Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WorkAreaHeight Property method...
@@ -14429,9 +11569,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WorkAreaLeft Property"></a>WorkAreaLeft Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WorkAreaLeft Property method...
@@ -14439,9 +11577,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WorkAreaTop Property"></a>WorkAreaTop Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WorkAreaTop Property method...
@@ -14449,9 +11585,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WorkAreaWidth Property"></a>WorkAreaWidth Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WorkAreaWidth Property method...
@@ -14459,9 +11593,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Wrap Property"></a>Wrap Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Wrap Property method...
@@ -14469,9 +11601,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WrapCellPointer Property"></a>WrapCellPointer Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WrapCellPointer Property method...
@@ -14479,9 +11609,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Wrappable Property"></a>Wrappable Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Wrappable Property method...
@@ -14489,9 +11617,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="WrapText Property (Column Object)"></a>WrapText Property (Column Object) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The WrapText Property (Column Object) method...
@@ -14499,9 +11625,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="X Property"></a>X Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The X Property method...
@@ -14509,9 +11633,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="X1, Y1, X2, Y2 Properties"></a>X1, Y1, X2, Y2 Properties ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The X1, Y1, X2, Y2 Properties method...
@@ -14519,9 +11641,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="XGap Property"></a>XGap Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The XGap Property method...
@@ -14529,9 +11649,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Y Property"></a>Y Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Y Property method...
@@ -14539,9 +11657,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Year Property"></a>Year Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Year Property method...
@@ -14549,9 +11665,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Year Property (ActiveX Controls)"></a>Year Property (ActiveX Controls) ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Year Property (ActiveX Controls) method...
@@ -14559,9 +11673,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Z Property"></a>Z Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Z Property method...
@@ -14569,9 +11681,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="ZGap Property"></a>ZGap Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The ZGap Property method...
@@ -14579,9 +11689,7 @@ Dim strMyText as String = Text1.text
 --->
 <!---
 ## <a id="Zoom Property"></a>Zoom Property ##
-> ### Inputs ###
-> -
-> ### Outputs ###
+> ### Data Type ###
 > -
 >
 > The Zoom Property method...
