@@ -6613,14 +6613,15 @@ Dim strMyText as String = Text1.text
 > The MultiSelect Property (MonthView Control) method...
 >
 --->
-<!---
-## <a id="Name Property"></a>Name Property ##
+## <a id="Name"></a>Name ##
 > ### Data Type ###
 > -
 >
-> The Name Property method...
+> The Name property is a unique name that identifies the object to the owner of the object. Names for Forms must be unique across the entire application. Names for controls must be unique within the form (class). The name is used to an object when invoking methods and properties, as shown in the code below in which the Text property for an object named "Text1" is being set to the string, "Hello World".
+```vb
+Text1.Text = "Hello World"
+```
 >
---->
 <!---
 ## <a id="Name Property (DEDesigner Extensibility)"></a>Name Property (DEDesigner Extensibility) ##
 > ### Data Type ###
