@@ -850,16 +850,22 @@ Event procedures are special subroutines that objects call automatically when a 
 > The DateClick Event method...
 >
 --->
-<!---
-## <a id="DateDblClick"></a>DateDblClick Event ##
+
+## <a id="DateDblClick"></a>DateDblClick ##
 > ### Inputs ###
 > -
 > ### Outputs ###
 > -
 >
-> The DateDblClick Event method...
+> the DblClick event is raised when the primary (usually left) mouse button is pressed quickly over an object twice.
 >
---->
+> #### Form ####
+> The DblClick event occurs when the user double-clicks an empty area of a form or on a disabled control.
+>
+> #### ComboBox ####
+> Double-clicks on a ComboBox only raise the DblClick event if the ComboBox Style is set to vbComboSimple.
+>
+
 <!---
 ## <a id="DblClick"></a>DblClick Event ##
 > ### Inputs ###
@@ -1391,11 +1397,11 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 --->
 
-## <a id="GotFocus"></a>GotFocus Event ##
+## <a id="GotFocus"></a>GotFocus ##
 > ### Inputs ###
-> -
+> None
 > ### Outputs ###
-> -
+> None
 >
 > The GotFocus event is raised when the object receives the focus. The object can get focus when it is clicked with the mouse, or by the user tabbing into the object. When an object has focus, it will receive input from the keyboard.
 >
@@ -1471,11 +1477,11 @@ Event procedures are special subroutines that objects call automatically when a 
 >
 --->
 
-## <a id="Initialize"></a>Initialize Event ##
+## <a id="Initialize"></a>Initialize ##
 > ### Inputs ###
-> -
+> None
 > ### Outputs ###
-> -
+> None
 >
 > The initialize event is raised when the object is initialized during the form load. This event is useful to populate the object with data or otherwise prepare it for the user.
 >
@@ -1604,10 +1610,10 @@ Event procedures are special subroutines that objects call automatically when a 
 ## <a id="KeyDown"></a><a id="KeyUp"></a>KeyDown, KeyUp Events ##
 > ### Inputs ###
 > - **KeyCode**: Integer - the ASCII value of the key pressed.
-> - **Shift**: Integer - the bitwise value representing all of the shifting keys pressed.
+> - **Shift**: [KeyMask](constants.md#keymask) - the bitwise value representing all of the shifting keys pressed.
 >
 > ### Outputs ###
-> -
+> None
 >
 > The KeyDown event is the first of the key events to be raised and occurs when the key is pressed down. The KeyDown event passes in the KeyCode and the Shift state. The KeyCode represents the ASCII value of the key that was pressed. The Shift parameter represents which of the three "shift" keys were also pressed. The possible values of Shift are: 1 = Shift Key, 2 = CTRL key, and 4 = ALT key. Bitwise logic can be used to determine if more than one key was being pressed. The code below can be used to determine which shifting keys are pressed:
 ```vb
