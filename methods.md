@@ -5,66 +5,50 @@ A method is an action that an object can perform. For example, the SetFocus meth
 
 ## <a id="additem"></a>AddItem ##
 > ### Inputs ###
-> - Index
-> - Value
+> - Index - [String](types.md#string)
+> - Value - [Variant](types.md#variant)
 > ### Outputs ###
 > -
 >
-> The method...
+> The AddItem method...
 >
 
 ## <a id="changehdc"></a>Change HDC ##
 > ### Inputs ###
-> -
+> - hdc - [Long](types.md#long)
+> - hwnd - [Long](types.md#long)
+> - rootwindowelement - [RootWindowElement](types.md#rootwindowelement)
+> - picture - [StdPicture](types.md#stdpicture)
+> - owner - [Object](types.md#object)
 > ### Outputs ###
 > -
 >
-> The method...
+> The ChangeHDC method...
 >
 
 ## <a id="Circle Method"></a>Circle ##
-> ### Inputs ###
-> -
-> ### Outputs ###
-> -
->
-> The method...
+> The Circle method...
 >
 
 ## <a id="Clear Method"></a>Clear ##
-> ### Inputs ###
-> -
-> ### Outputs ###
-> -
->
-> The method...
+> The Clear method...
 >
 
 ## <a id="clearlog Method"></a>ClearLog ##
-> ### Inputs ###
-> -
-> ### Outputs ###
-> -
->
-> The method...
+> The ClearLog method...
 >
 
 ## <a id="cls"></a>Cls ##
-> ### Inputs ###
-> -
-> ### Outputs ###
-> -
->
-> The method...
+> The Cls method...
 >
 
-## <a id="copybuffer"></a>CopyBuffer ##
+## <a id="copybuffertodc"></a>CopyBufferToDC ##
 > ### Inputs ###
-> -
+> - hdc - [Long](types.md#long)
 > ### Outputs ###
 > -
 >
-> The method...
+> The CopyBufferToDC method...
 >
 
 ## <a id="createbackbrush"></a>CreateBackbrush ##
@@ -112,70 +96,71 @@ A method is an action that an object can perform. For example, the SetFocus meth
 > ### Inputs ###
 > None
 > ### Outputs ###
-> - 
+> - [String](types.md#string)
 > 
 > The GetLastLog method...
 > 
 
 ## <a id="getnodefromhandle"></a>GetNodeFromHandle ##
 > ### Inputs ###
-> None
+> Handle - [LongPtr](types.md#longptr)
 > ### Outputs ###
-> - 
+> - Node
 > 
 > The GetNodeFromHandle method...
 > 
 
 ## <a id="getobjptrfromhandle"></a>GetObjPtrFromHandle ##
 > ### Inputs ###
-> None
+> Handle - [LongPtr](types.md#longptr)
 > ### Outputs ###
-> - 
+> - [Long](types.md#long)
 > 
 > The GetObjPtrFromHandle method...
 > 
 
-## <a id="GetVisibleCount Method"></a>GetVisibleCount ##
+## <a id="getvisiblecount"></a>GetVisibleCount ##
 > ### Inputs ###
-> -
+> None
 > ### Outputs ###
-> -
+> - [Long](types.md#long)
 >
 > The GetVisibleCount Method method...
 >
 
 ## <a id="handleattributeschange"></a>HandleAttributesChange ##
 > ### Inputs ###
-> -
+> None
 > ### Outputs ###
-> -
+> None
 >
 > The HandleAttributesChange method...
 >
 
 ## <a id="handlepathchange"></a>HandlePathChange ##
 > ### Inputs ###
-> -
+> None
 > ### Outputs ###
-> -
+> None
 >
 > The HandlePathChange method...
 >
 
 ## <a id="handlepatternchange"></a>HandlePatternChange ##
 > ### Inputs ###
-> -
+> None
 > ### Outputs ###
-> -
+> None
 >
 > The HandlePatternChange method...
 >
 
 ## <a id="hittest"></a>HitTest ##
 > ### Inputs ###
-> -
+> - x - [Single](types.md#single)
+> - y - [Single](types.md#single)
 > ### Outputs ###
-> -
+> - Node
 >
 > The HitTest method...
 >
@@ -365,7 +350,8 @@ A method is an action that an object can perform. For example, the SetFocus meth
 
 ## <a id="TextHeight Method"></a>TextHeight Method ##
 > ### Inputs ###
-> -> ### Outputs ###
+> -
+> ### Outputs ###
 > -
 >
 > The TextHeight Method method...
@@ -373,7 +359,8 @@ A method is an action that an object can perform. For example, the SetFocus meth
 
 ## <a id="TextWidth Method"></a>TextWidth Method ##
 > ### Inputs ###
-> -> ### Outputs ###
+> -
+> ### Outputs ###
 > -
 >
 > The TextWidth Method method...
