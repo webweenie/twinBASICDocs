@@ -241,6 +241,12 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbKeyDivide = 0x6F (Division (/) key)
 >
 
+## <a id="keymask"></a>Keymask ##
+> - vbAltMask = 1
+> - vbCtrlMask = 2
+> - vbShiftMask = 4
+>
+
 ## <a id="dockmode"></a>DockMode Constants ##
 > - vbDockBottom = 4
 > - vbDockFill = 5
@@ -379,12 +385,3 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbUserDefinedType - 36 (Variants that contain user-defined types)
 > - vbVariant - 12 (Variant (used only for arrays of variants))
 >
-
-
----
->$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
----
->$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
----
-
-
