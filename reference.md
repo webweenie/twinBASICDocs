@@ -2,7 +2,7 @@
 twinBASIC is a modern version of the classic BASIC programming language. While we are working hard to make twinBASIC 100% *backwards* compatibile with existing VB6 and VBA projects, it is never going to be exactly like VB6 in every respect. For example, unlike VB6, twinBASIC supports variable initialization on the same line as the variable declaration:
 ```vb
 Dim strMyVariable as String = "Hello World!"
----
+```
 Because of the necessary differences between the two languages, we have begun writing documentation for twinBASIC. Old VB6 books and manuals may still be helpful but, the documentation found here should be more accurate if there is a discrepancy. If you find that not to be the case, please post a comment in the Documentation channel with the details and we will work on getting our documentation fixed.
 
 Thank you for supporting twinBASIC; and welcome to the family.
