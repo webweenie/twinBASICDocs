@@ -6615,7 +6615,7 @@ Dim strMyText as String = Text1.text
 --->
 ## <a id="Name"></a>Name ##
 > ### Data Type ###
-> -
+> -[String](types.md#string)
 >
 > The Name property is a unique name that identifies the object to the owner of the object. Names for Forms must be unique across the entire application. Names for controls must be unique within the form (class). The name is used to an object when invoking methods and properties, as shown in the code below in which the Text property for an object named "Text1" is being set to the string, "Hello World".
 ```vb
