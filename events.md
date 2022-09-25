@@ -577,12 +577,28 @@ Event procedures are special subroutines that objects call automatically when a 
 
 ## <a id="Click"></a>Click Event ##
 > ### Inputs ###
-> -
+> None
 > ### Outputs ###
-> -
+> None
 >
-> The Click event is raised when the object is clicked with the mouse or, in some instances, when the object has focus and the Enter key is pressed.
+> The Click event is raised when the object is clicked with the primary mouse button (usually the left) and the mouse button is released while the mouse pointer is still over the object. In some instances, for example with the Command Button, the click event will also be raised when the object has focus and the Enter key or Spacebar is pressed.
 >
+> #### CommandButton ###
+> The click event is also raised if the object has focus and the Enter key or SpaceBar is pressed.
+> #### ComboBox and ListBox ####
+> The click event is also raised if the object has focus a list item is selected using the arrow keys.
+> #### CheckBox ####
+> The click event is also raised when the CheckBox has focus and the SpaceBar is pressed.
+> #### OptionButton ####
+> The click event is also raised when the arrow keys are used to select an Option Button within a group.
+> #### TextBox ####
+> The click event is also raised when the object is clicked with the secondary mouse button. However, depending on the operating system, a context menu may display first and the click event is raised when the context menu is dismissed, or one of the context menu items is selected.
+> #### Frame ####
+> The click event is only raised when the primary (usually left) mouse button clicks on the frame object. If any controls inside the frame are clicked, the clicked control will receive the event and the click event for the frame will not be called.
+> #### FileListBox and DirListBox ####
+> The click event is only raised by a mouse click when the primary (usually left) mouse button clicks on the object. If the object has focus, the SpaceBar and arrow keys will also cause the click event to be raised.
+> #### PictureBox ####
+> The click event is raised by a mouse click of either mouse button on the object. If the object has focus, the SpaceBar and arrow keys will also cause the click event to be raised.
 
 <!---
 ## <a id="Click Event (ActiveX Controls)"></a>Click Event (ActiveX Controls) ##
