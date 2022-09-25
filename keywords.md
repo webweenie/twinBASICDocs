@@ -1,278 +1,342 @@
 # twinBASICDocs - Keywords #
-twinBASIC is the most awesome programming language ever.
+.
 
-## As
-The As keyword is used to define the data or object type for several statements, including:
-> - Const Statement
-> - Declare Statement
-> - Dim Statement
-> - Function Statement
-> - Name Statement
-> - Open Statement
-> - Private Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Public Statement
-> - ReDim Statement
-> - Static Statement
-> - Sub Statement
-> - Type Statement
+---
 
-## Binary
-The Binary keyword is...
-> - Open Statement
-> - Option Compare Statement
+## <a id="As"></a>As ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The As method...
+>
 
-## ByRef
-The ByRef keyword is...
-> - Call Statement
-> - Declare Statement
-> - Function Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Sub Statement
+## <a id="Binary"></a>Binary ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Binary method...
+>
 
-## ByVal
-The ByVal keyword is...
-> - Call Statement
-> - Declare Statement
-> - Function Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Sub Statement
+## <a id="ByRef"></a>ByRef ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The ByRef method...
+>
 
-## Date
-The Date keyword is...
-> - Date Data Type
-> - Date Function
-> - Date Statement
+## <a id="ByVal"></a>ByVal ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The ByVal method...
+>
 
-## Else
-The Else keyword is...
-> - If...Then...Else Statement
-> - Select Case Statement
+## <a id="Date"></a>Date ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Date method...
+>
 
-## Empty
-The Empty keyword is...
+## <a id="Else"></a>Else ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Else method...
+>
 
-## Error
-The Error keyword is...
-> - Error Function
-> - Error Statement
-> - On Error Statement
+## <a id="Empty"></a>Empty ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Empty method...
+>
 
-## False
-The false keyword is...
+## <a id="Error"></a>Error ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Error method...
+>
 
-## For
-The For keyword is...
-> - For...Next Statement
-> - For Each...Next Statement
-> - Open Statement
+## <a id="False"></a>False ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The False method...
+>
 
-## Friend
-The Friend keyword is...
+## <a id="For"></a>For ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The For method...
+>
 
-## Get
-The Get keyword is...
-> - Get Statement
-> - Property Get Statement
+## <a id="Friend"></a>Friend ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Friend method...
+>
 
-## Input
-The Input keyword is...
-> - Input Function
-> - Input # Statement
-> - Line Input # Statement
-> - Open Statement
+## <a id="Get"></a>Get ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Get method...
+>
 
-## Is
-The Is keyword is...
-> - If...Then...Else Statement
-> - Is Operator
-> - Select Case Statement
+## <a id="Input"></a>Input ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Input method...
+>
 
-## Len
-The Len keyword is...
-> - Len Function
-> - Open Statement
+## <a id="Is"></a>Is ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Is method...
+>
 
-## Let
-The Let keyword is...
-> - Let Statement
-> - Property Let Statement
+## <a id="Len"></a>Len ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Len method...
+>
 
-## Lock
-The Lock keyword is...
-> - Lock, Unlock Statements
-> - Open Statement
+## <a id="Let"></a>Let ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Let method...
+>
 
-## Me
-The Me keyword is used to refer to the current instance of a class
+## <a id="Lock"></a>Lock ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Lock method...
+>
 
-## Mid
-The Mid keyword is...
-> - Mid Function
-> - Mid Statement
+## <a id="Me"></a>Me ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Me method...
+>
 
-## New
-The New keyword is...
-> - Dim Statement
-> - Private Statement
-> - Public Statement
-> - Set Statement
-> - Static Statement
+## <a id="Mid"></a>Mid ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Mid method...
+>
 
-## Next
-The Next keyword is...
-> - For...Next Statement
-> - For Each...Next Statement
-> - On Error Statement
-> - Resume Statement
+## <a id="New"></a>New ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The New method...
+>
 
-## Nothing
-The Nothing keyword is used to destroy an object and release its memory.
-```
-Set MyObject = Nothing
-```
+## <a id="Next"></a>Next ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Next method...
+>
 
-## Null
-The Null keyword is used to test if a variable contains valid data.
+## <a id="Nothing"></a>Nothing ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Nothing method...
+>
 
-## On
-The On keyword is...
-> - On Error Statement
-> - On...GoSub Statement
-> - On...GoTo Statement
+## <a id="Null"></a>Null ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Null method...
+>
 
-## Option
-The Option keyword is...
-> - Option Base Statement
-> - Option Compare Statement
-> - Option Explicit Statement
-> - Option Private Statement
+## <a id="On"></a>On ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The On method...
+>
 
-## Optional
-The Optional keyword is...
-> - Declare Statement
-> - Function Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Sub Statement
+## <a id="Option"></a>Option ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Option method...
+>
 
-## ParamArray
-The ParamArray keyword is...
-> - Declare Statement
-> - Function Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Sub Statement
+## <a id="Optional"></a>Optional ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Optional method...
+>
 
-## Print
-The Print keyword is...
-> - Print Method
-> - Print # Statement
+## <a id="ParamArray"></a>ParamArray ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The ParamArray method...
+>
 
-## Private
-The Private keyword is...
-> - Const Statement
-> - Declare Statement
-> - Enum Statement
-> - Function Statement
-> - Option Private Statement
-> - Private Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Sub Statement
-> - Type Statement
+## <a id="Print"></a>Print ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Print method...
+>
 
-## Property
-The Property keyword is...
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
+## <a id="Private"></a>Private ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Private method...
+>
 
-## Public
-The Public keyword is...
-> - The Public keyword is used in these contexts:
-> - Const Statement
-> - Declare Statement
-> - Enum Statement
-> - Event Statement
-> - Function Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Public Statement
-> - Sub Statement
-> - Type Statement
+## <a id="Property"></a>Property ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Property method...
+>
 
-## Resume
-The Resume keyword is...
-> - On Error Statement
-> - Resume Statement
+## <a id="Public"></a>Public ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Public method...
+>
 
-## Seek
-The Seek keyword is...
-> - Seek Function
-> - Seek Statement
+## <a id="Resume"></a>Resume ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Resume method...
+>
 
-## Set
-The Set keyword is...
-> - Set Statement
-> - Property Set Statement
+## <a id="Seek"></a>Seek ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Seek method...
+>
 
-## Static
-The Static keyword is...
-> - Function Statement
-> - Property Get Statement
-> - Property Let Statement
-> - Property Set Statement
-> - Static Statement
-> - Sub Statement
+## <a id="Set"></a>Set ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Set method...
+>
 
-## Step
-The Step keyword is...
-> - For...Next Statement
-> - For Each...Next Statement
+## <a id="Static"></a>Static ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Static method...
+>
 
-## String
-The String keyword is...
-> - String Data Type
-> - String Function
+## <a id="Step"></a>Step ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Step method...
+>
 
-## Then
-The Then keyword is...
-> - #If...Then...#Else Directive
-> - If...Then...Else Statement
+## <a id="String"></a>String ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The String method...
+>
 
-## Time
-The Time keyword is...
-> - Time Function
-> - Time Statement
+## <a id="Then"></a>Then ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Then method...
+>
 
-## To
-The To keyword is...
-> - Dim Statement
-> - For...Next Statement
-> - Lock, Unlock Statements
-> - Private Statement
-> - Public Statement
-> - ReDim Statement
-> - Select Case Statement
-> - Static Statement
-> - Type Statement
+## <a id="Time"></a>Time ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The Time method...
+>
 
-## True
-The Truekeyword has a value equal to -1.
+## <a id="To"></a>To ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The To method...
+>
 
-## WithEvents
-The WithEvents keyword is...
-> - Dim Statement
-> - Private Statement
-> - Public Statement
+## <a id="True"></a>True ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The True method...
+>
+
+## <a id="WithEvents"></a>WithEvents ##
+> ### Inputs ###
+> -> ### Outputs ###
+> -
+>
+> The WithEvents method...
+>
+
+

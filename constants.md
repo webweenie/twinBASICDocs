@@ -379,3 +379,12 @@ trueBASIC has many built-in constants. Using constants, gives the developer a re
 > - vbUserDefinedType - 36 (Variants that contain user-defined types)
 > - vbVariant - 12 (Variant (used only for arrays of variants))
 >
+
+
+---
+>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+---
+>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+---
+
+
