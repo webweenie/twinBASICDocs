@@ -1609,7 +1609,7 @@ Event procedures are special subroutines that objects call automatically when a 
 
 ## <a id="KeyDown"></a><a id="KeyUp"></a>KeyDown, KeyUp Events ##
 > ### Inputs ###
-> - **KeyCode**: Integer - the ASCII value of the key pressed.
+> - **KeyCode**: [Integer](types.md#integer) - the ASCII value of the key pressed.
 > - **Shift**: [KeyMask](constants.md#keymask) - the bitwise value representing all of the shifting keys pressed.
 >
 > ### Outputs ###
@@ -1618,11 +1618,11 @@ Event procedures are special subroutines that objects call automatically when a 
 > The KeyDown event is the first of the key events to be raised and occurs when the key is pressed down. The KeyDown event passes in the KeyCode and the Shift state. The KeyCode represents the ASCII value of the key that was pressed. The Shift parameter represents which of the three "shift" keys were also pressed. The possible values of Shift are: 1 = Shift Key, 2 = CTRL key, and 4 = ALT key. Bitwise logic can be used to determine if more than one key was being pressed. The code below can be used to determine which shifting keys are pressed:
 ```vb
     Private Sub Object1_KeyDown(KeyCode As Integer, Shift As Integer) Handles Object1.KeyDown
-        Dim bShift As Boolean = 1 And Shift
-        Dim bAlt As Boolean = 2 And Shift
-        Dim bCtrl As Boolean = 4 And Shift
+        Dim bShift As Boolean = vbShiftMask And Shift > 0
+        Dim bAlt As Boolean = vbAltMask And Shift > 0
+        Dim bCtrl As Boolean = vbCtrlMask And Shift > 0
         
-        'Add logic here that uses the boolean values to suit your needs.
+	'Add logic here that uses the boolean values to suit your needs.
     End Sub
 ```
 > The KeyUp event is the final key event to be raised and occurs when the user releases the key. The KeyUp event has the same inputs as the KeyDown.
