@@ -5,8 +5,8 @@ A method is an action that an object can perform. For example, the SetFocus meth
 
 ## <a id="additem"></a>AddItem ##
 > ### Inputs ###
-> -Index
-> -Value
+> - Index
+> - Value
 > ### Outputs ###
 > -
 >
